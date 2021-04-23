@@ -1,0 +1,385 @@
+AoruStation:
+  map:
+    play: 2
+    version: 2.0.0
+  point:
+    build: 7.699999999999999
+    play: 6.91
+  lock: 12
+Among_Us:
+  map:
+    play: 3
+    version: 2.1.3
+  point:
+    build: 11.12
+    play: 9.83
+  lock: 28
+Calendar:
+  map:
+    play: 1
+    version: 2.0.1
+  point:
+    build: 2.2
+    play: 2.2
+  lock: 0
+RFM_Hospital:
+  map:
+    play: 2
+    version: 2.0.2
+  point:
+    build: 7.5
+    play: 7.38
+  lock: 11
+Defusing_Bomb:
+  map:
+    play: 2
+    version: 1.0.1
+  point:
+    build: 7.1
+    play: 6.65
+  lock: 23
+Forest_House:
+  map:
+    play: 2
+    version: 4.0.0
+  point:
+    build: 7.63
+    play: 7.1899999999999995
+  lock: 18
+Huge_Library:
+  map:
+    play: 2
+    version: 3.0.0
+  point:
+    build: 8.23
+    play: 7.37
+  lock: 13
+Kurokan:
+  graveyard:
+    check: false
+    version: 1.0.0
+RFM_CINEMA:
+  map:
+    play: 1
+    version: 2.0.1
+  point:
+    build: 3.44
+    play: 3.44
+  lock: 0
+Minecraft_Port:
+  graveyard:
+    check: false
+    version: 1.2.5
+  map:
+    play: 1
+    version: 1.2.5
+  point:
+    build: 3.57
+    play: 3.35
+  lock: 4
+Sandbox_City:
+  graveyard:
+    check: false
+    version: 4.0.2
+  map:
+    play: 1
+    version: 5.0.1
+  point:
+    build: 3.87
+    play: 3.68
+  lock: 6
+Dea_la_solitaire:
+  map:
+    play: 2
+    version: 2.0.0
+  point:
+    build: 7.5
+    play: 7.13
+  lock: 20
+ManmaTown:
+  map:
+    play: 1
+    version: 1.1.0
+  point:
+    build: 3.94
+    play: 3.88
+  lock: 0
+Kaikatsu_Club:
+  map:
+    play: 1
+    version: 1.3.2
+  point:
+    build: 3.5
+    play: 3.06
+  lock: 0
+True_Lab:
+  map:
+    play: 1
+    version: 9.9.8
+  point:
+    build: 3.82
+    play: 3.64
+  lock: 0
+Infinite_Corridor:
+  map:
+    play: 1
+    version: 1.5.0
+  point:
+    build: 3.41
+    play: 3.33
+  lock: 0
+Dark_Sewer:
+  map:
+    play: 2
+    version: 2.0.1
+  point:
+    build: 7.3
+    play: 6.83
+  lock: 22
+RFM_Casino:
+  map:
+    play: 1
+    version: 1.0.2
+  point:
+    build: 3.46
+    play: 3.33
+  lock: 0
+  graveyard:
+    check: true
+    version: 2.0.2
+RFM_Shopping_mall:
+  map:
+    play: 2
+    version: 1.0.3
+  point:
+    build: 7.76
+    play: 7.54
+  lock: 7
+ChaseField_BlockFort:
+  graveyard:
+    check: false
+    version: 1.0.1
+Boost_HighSchool:
+  map:
+    play: 1
+    version: 1.0.0
+  point:
+    build: 4.0
+    play: 3.42
+  lock: 0
+Area69:
+  graveyard:
+    check: true
+    version: 1.2.0
+  map:
+    play: 1
+    version: 1.2.0
+  point:
+    build: 3.47
+    play: 3.5
+  lock: 0
+Stasi:
+  map:
+    play: 1
+    version: 1.0.0
+  point:
+    build: 3.12
+    play: 3.12
+  lock: 28
+Ideal_of_Virtual_Zone:
+  map:
+    play: 1
+    version: 1.0.1
+  point:
+    build: 3.66
+    play: 3.33
+  lock: 25
+Road_Station:
+  map:
+    play: 1
+    version: 2.1.4
+  point:
+    build: 3.82
+    play: 3.52
+  lock: 0
+RFM_Lab:
+  map:
+    play: 2
+    version: 2.0.0
+  point:
+    build: 7.89
+    play: 6.82
+  lock: 14
+Tousou_City:
+  map:
+    play: 1
+    version: 2.0.0
+  point:
+    build: 3.73
+    play: 3.2
+  lock: 0
+RFM_Camp:
+  map:
+    play: 1
+    version: 2.0.5
+  point:
+    build: 3.57
+    play: 3.64
+  lock: 0
+Golden_Week:
+  map:
+    play: 1
+    version: 3.0.1
+  point:
+    build: 3.84
+    play: 3.76
+  lock: 1
+PokemonDP_Remix:
+  map:
+    play: 2
+    version: 2.0.0
+  point:
+    build: 7.13
+    play: 6.97
+  lock: 3
+  graveyard:
+    check: false
+    version: 2.0.0
+Lobotomy_Corporation:
+  map:
+    play: 1
+    version: 1.0.0
+  point:
+    build: 3.39
+    play: 3.1
+  lock: 0
+PokemonDPt_TobariCity:
+  graveyard:
+    check: true
+    version: 1.5.0
+Minecraft_Museum:
+  map:
+    play: 1
+    version: 3.0.2
+  point:
+    build: 3.64
+    play: 3.64
+  lock: 0
+Game_Center:
+  map:
+    play: 1
+    version: 1.2.0
+  point:
+    build: 3.6
+    play: 3.66
+  lock: 5
+City1:
+  map:
+    play: 1
+    version: 2.0.0
+  point:
+    build: 3.66
+    play: 3.66
+  lock: 6
+R:
+  P:
+    D:
+      _RaccoonPoliceDepartment:
+        map:
+          play: 1
+          version: 2.1.1
+        point:
+          build: 3.6
+          play: 3.57
+        lock: 5
+Yussans_Memory:
+  map:
+    play: 1
+    version: 1.0.0
+  point:
+    build: 4.0
+    play: 3.75
+  lock: 8
+thinking:
+  map:
+    play: 1
+    version: 0.0.2
+  point:
+    build: 3.15
+    play: 3.07
+  lock: 9
+UFOCATCHER:
+  map:
+    play: 1
+    version: 2.1.0
+  point:
+    build: 3.61
+    play: 2.92
+  lock: 10
+Toris_House:
+  map:
+    play: 1
+    version: 1.0.1
+  point:
+    build: 3.54
+    play: 2.81
+  lock: 15
+From_Discord_Zatudan:
+  map:
+    play: 1
+    version: 1.0.0
+  point:
+    build: 3.5
+    play: 3.62
+  lock: 16
+The_End:
+  map:
+    play: 2
+    version: 4.0.0
+  point:
+    build: 7.300000000000001
+    play: 6.4
+  lock: 28
+RFM_City:
+  map:
+    play: 2
+    version: 1.0.1
+  point:
+    build: 7.99
+    play: 7.83
+  lock: 27
+CORE:
+  map:
+    play: 1
+    version: 2.0.3
+  point:
+    build: 3.53
+    play: 3.23
+  lock: 21
+Apartment:
+  map:
+    play: 1
+    version: 1.1.1
+  point:
+    build: 3.56
+    play: 3.5
+  lock: 24
+RFM_Airport:
+  map:
+    play: 1
+    version: 1.0.1
+  point:
+    build: 3.86
+    play: 4.0
+  lock: 25
+DQ9_Sanmarou:
+  graveyard:
+    check: true
+    version: 3.0.2
+  map:
+    play: 1
+    version: 3.0.2
+  point:
+    build: 3.31
+    play: 3.15
+  lock: 29
