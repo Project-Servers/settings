@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map>
+    <!-- マップ名 ※必須※ -->
+ <name>RFM_city</name>
+
+ <!-- マップバージョン ※必須※ -->
+ <version>1.0.1</version>
+
+    <!-- 製作者  ※必須※　複数人指定可能 -->
+ <authors type = "team" teamname = "RFM_city製作委員会">
+    <author>njj12</author>
+    <author>Takashing_1185</author>
+    <author>KUGANA00</author>
+    <author>inazuma0415</author>
+    <author>reokunchan</author>
+    <author>yabaicookie</author>
+    <author>chil_felun</author>
+    <author>ayamaru821_jp</author>
+    <author>puputatan</author>
+ </authors> 
+
+ !-- サブタイトルを設定します -->
+<subtitle>The Chaos City!!!</subtitle>
+
+<!-- ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます-->
+ <start>
+      <egg>12</egg>
+      <bone>11</bone>
+      <feather>10</feather>
+ </start>
+ 
+ <!-- 復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます-->
+ <rejail>
+      <egg>9</egg>
+      <bone>9</bone>
+      <feather>9</feather>
+ </rejail>
+
+    <!--各種地点 ※必須※-->
+    <!--shopは設定しなくても可-->
+    <location>
+        <player>195.44962858948256,20.0625,-287.57860121301394,-91.09543,0.788524</player>
+        <hunter>219.61312354448324,22.0,-287.14352710626144,-269.59705,7.199994</hunter>
+        <clear>-139.61949212072147,22.5,-93.57692607227428,-177.91113,29.400372</clear>
+        <jail>-139.61949212072147,22.5,-93.57692607227428,-177.91113,29.400372</jail>
+        <rejail1>127.72745768259324,20.0,-313.2501507469088,-0.7949219,-1.9497441</rejail1>
+        <rejail2>245.39627146878465,20.0,-70.79716557030584,-178.82812,4.5003777</rejail2>
+        <door>219.61312354448324,22.0,-287.14352710626144,-269.59705,7.199994</door>
+        <opg>195.44962858948256,20.0625,-287.57860121301394,-91.09543,0.788524</opg>
+        <shop>165.69999998807904,20.0,-224.3216961917156,-90.65967,3.0004103</shop>
+    </location>
+
+<!-- 自動でナイトビジョンを設定するか-->
+<auto_nightvision active="true"/>
+
+ <desc>§bRFMプレイヤーの夢が集まった都市,§bシティと住宅街の2ヵ所で逃走中が可能。,§c推奨ハンター数3-4人</desc>
+ <auto_end>true</auto_end>
+
+</map>

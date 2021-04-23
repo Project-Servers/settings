@@ -1,0 +1,63 @@
+<map>
+<!--  マップ名 ※必須※  -->
+<name>RFM CINEMA</name>
+<!--  マップバージョン ※必須※  -->
+<version>2.0.1</version>
+<!-- サブタイトルを設定します -->
+<subtitle>～むーびーしあたー～</subtitle>
+<desc>§b若干近未来感の溢れる映画館です。,§bゲーセンやボウリング場もあります。,§b全面改装しました。,§c推奨ハンター数:2</desc>
+
+ <!-- 製作者  ※必須※　複数人指定可能 -->
+ <authors type = "team" teamname = "Takashing_1185,riku0745">
+    <author>Takashing_1185</author>
+    <author>riku0745</author>
+    <author>reokunchan</author>
+    <author>KUGANA00</author>
+    <author>Naotoroid</author>
+    <author>yabaicookie</author>
+ </authors> 
+<!--  ゲーム時間 半角数字で設定/分単位/
+   未設定の場合25分に設定されます  -->
+<time>25</time>
+<!--  ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます -->
+<start>
+<egg>10</egg>
+<bone>12</bone>
+<feather>10</feather>
+</start>
+<!--  復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます -->
+<rejail>
+<egg>8</egg>
+<bone>9</bone>
+<feather>8</feather>
+</rejail>
+<!--各種地点 ※必須※-->
+    <!--shopは設定しなくても可-->
+    <location>
+        <player>39.218343872856124,8.0,18.18229081680029,-179.38635,2.5500727</player>
+        <hunter>38.97173557640983,9.0,-5.4140131374194445,-0.13720703,3.9000554</hunter>
+        <clear>81.42455957526836,11.5,-2.1037042283300256,-358.635,55.050053</clear>
+        <jail>-2.4552893908028475,11.5,-3.530822753694695,-357.88232,23.400187</jail>
+        <rejail1>80.32408413177235,8.0,83.7812881181656,-268.7893,-0.7499678</rejail1>
+        <rejail2>14.107885975946711,31.0,113.1148876074191,-90.433105,-2.2499557</rejail2>
+        <door>38.97173557640983,9.0,-5.4140131374194445,-0.13720703,3.9000554</door>
+        <opg>39.218343872856124,8.0,18.18229081680029,-179.38635,2.5500727</opg>
+        <shop>25.699999988079075,31.0,159.0567553448926,-88.64319,0.6000596</shop>
+    </location>
+<!--  ゲーム自動終了  true/falseでの記述  -->
+<auto_end>true</auto_end>
+<!--  自動復活の初期値  true/falseでの記述  -->
+<auto_rejail>false</auto_rejail>
+<!--  観戦機能の初期値  true/falseでの記述  -->
+<watch>false</watch>
+<!--  OPGTPの初期値  true/falseでの記述  -->
+<opg_tp>false</opg_tp>
+<!--  スポーンを許可する友好モブ 複数指定可能 -->
+<mob_spawn>
+<type>POLAR_BEAR</type>
+<type>BAT</type>
+<type>WOLF</type>
+</mob_spawn>
+</map>

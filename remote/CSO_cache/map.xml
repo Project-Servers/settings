@@ -1,0 +1,52 @@
+﻿<map>
+<!--  マップ名 ※必須※  -->
+<name>CSO_cache</name>
+<!--  マップバージョン ※必須※  -->
+<version>1.0.0</version>
+<!-- サブタイトルを設定します -->
+<subtitle>キャシェで逃走中！</subtitle>
+<!--  製作者  ※必須※　複数人指定可能  -->
+<authors>
+<author>配布</author>
+</authors>
+<!--  ゲーム時間 半角数字で設定/分単位/
+   未設定の場合25分に設定されます  -->
+<time>25</time>
+<!--  ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます -->
+<start>
+<egg>8</egg>
+<bone>8</bone>
+<feather>8</feather>
+</start>
+<!--  復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます -->
+<rejail>
+<egg>6</egg>
+<bone>6</bone>
+<feather>6</feather>
+</rejail>
+<!-- 各種地点 ※必須※-->
+<location>
+     <player>1193.6,34.0,380.87,268.49,2.45</player>
+     <clear>1151.14,36.5,374.45,87.85,43.62</clear>
+     <hunter>1180.54,34.0,498.33,183.09,2.45</hunter>
+     <jail>1161.15,37.5,374.61,-3.68,60.21</jail>
+     <rejail1>1192.02,34.0,474.17,96.46,-4.3</rejail1>
+     <rejail2>1146.31,35.0,418.62,294.29,0.61</rejail2>
+     <door>1180.54,34.0,498.33,183.09,2.45</door>
+     <opg>1193.6,34.0,380.87,268.49,2.45</opg>
+</location>
+<!--  ゲーム自動終了  true/falseでの記述  -->
+<auto_end>true</auto_end>
+<!--  自動復活の初期値  true/falseでの記述  -->
+<auto_rejail>false</auto_rejail>
+<!--  観戦機能の初期値  true/falseでの記述  -->
+<watch>false</watch>
+<!--  スポーンを許可する友好モブ 複数指定可能 -->
+<mob_spawn>
+<type>POLAR_BEAR</type>
+<type>BAT</type>
+<type>WOLF</type>
+</mob_spawn>
+</map>

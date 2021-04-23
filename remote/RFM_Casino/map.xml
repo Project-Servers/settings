@@ -1,0 +1,39 @@
+<map>
+   <name>RFMCasino</name>
+   <version>2.0.2</version>
+   <authors>
+      <author>yabaicookie</author>
+   </authors>
+   <subtitle>小さなカジノで逃走中!</subtitle>
+   <desc>カジノを作ってみました,一階は§2カードエリア§f、,二階は複合エリア。,三階はスロットエリアとなります。,欠陥があったらすいません。,推奨ハンター数2or3体</desc>
+   <time>25</time>
+   <start>
+      <feather>12</feather>
+      <bone>12</bone>
+      <egg>12</egg>
+   </start>
+   <rejail>
+      <feather>10</feather>
+      <bone>10</bone>
+      <egg>10</egg>
+   </rejail>
+   <rejailcount>6</rejailcount>
+   <auto_end>true</auto_end>
+   <auto_rejail>true</auto_rejail>
+   <watch>true</watch>
+   <climate>0</climate>
+   <spblock>3</spblock>
+   <opg_tp>false</opg_tp>
+   <location>
+      <player>-28,5,397,0,0</player>
+      <hunter>-27,5,419,-180,-0</hunter>
+      <clear>-81,34,357,-180,0</clear>
+      <jail>25,32,360,-180,0</jail>
+      <rejail1>24,30,260,0,0</rejail1>
+      <rejail2>-27,5,182,0,0</rejail2>
+      <door>0,0,0,0,0</door>
+      <opg>-28,5,397,0,0</opg>
+      <shop>3,5,361,-90.0,0</shop>
+   </location>
+   <auto_nightvision active="true"/>
+</map>

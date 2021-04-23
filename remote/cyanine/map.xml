@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><map>
+ <!-- マップ名 ※必須※ -->
+ <name>cyanine</name>
+ <!-- マップバージョン ※必須※ -->
+ <version>4.0.0</version>
+<!-- 製作者  ※必須※　複数人指定可能 -->
+ <authors>
+    <author>Takashing_1185</author>
+ </authors>
+<!-- サブタイトルを設定します -->
+<subtitle>恐怖の縦連フリック地獄</subtitle>
+<!-- ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます-->
+ <start>
+      <egg>10</egg>
+      <bone>10</bone>
+      <feather>10</feather>
+ </start>
+ 
+ <!-- 復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます-->
+ <rejail>
+      <egg>8</egg>
+      <bone>8</bone>
+      <feather>8</feather>
+ </rejail>
+ 
+ <!-- 各種地点 ※必須※-->
+ <location>
+      <player>55.5,31.0,184.5,90.0,0.0</player>
+      <clear>-16.5,56.5,90.5,0.0,0.0</clear>
+      <hunter>34.55,31.0,184.5,-90.0,0.0</hunter>
+      <jail>8.56,39.5,56.37,-180.75,4.2</jail>
+      <rejail1>69.5,31.0,230.51,180.0,0.0</rejail1>
+      <rejail2>8.41,22.0,-18.32,-359.55,5.4</rejail2>
+      <door>34.55,31.0,184.5,-90.0,0.0</door>
+      <opg>55.5,31.0,184.5,90.0,0.0</opg>
+      <shop>72.5,31.0,128.5,0.0,0.0</shop>
+ </location>
+ <desc>§bスマホ音ゲー「Lanota」より、,§b第二章のボス曲「cyanine」のイラストから再現....,§bだけでは物足りず、残りの章(Ch.6まで）も全て再現しました。,§c推奨ハンター数1～人（操作盤でエリア拡張可能な為）,§c読みは「シアニン」</desc>
+ <auto_end>true</auto_end>
+</map>

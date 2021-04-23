@@ -1,0 +1,52 @@
+﻿<map>
+<!--  マップ名 ※必須※  -->
+<name>高校</name>
+<!--  マップバージョン ※必須※  -->
+<version>1.1.0</version>
+<!--  製作者  ※必須※　複数人指定可能  -->
+<authors>
+<author>Yussan</author>
+</authors>
+<!--  ゲーム時間 半角数字で設定/分単位/
+   未設定の場合25分に設定されます  -->
+<time>25</time>
+<!-- サブタイトルを設定します -->
+<subtitle>高校でマイクラ逃走中！</subtitle>
+<!--  ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます -->
+<start>
+<egg>7</egg>
+<bone>9</bone>
+<feather>8</feather>
+</start>
+<!--  復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます -->
+<rejail>
+<egg>6</egg>
+<bone>8</bone>
+<feather>7</feather>
+</rejail>
+<!-- 各種地点 ※必須※-->
+<location>
+     <player>-99.5,24,210.5,0,0</player>
+	 <hunter>-99.5,24,218.5,180,0</hunter>
+     <clear>49.5,27.5,-20.5,0,0</clear>
+     <jail>9.5,24.5,-24.5,0,0</jail>
+     <rejail1>-37.5,23,3.5,90,0</rejail1>
+     <rejail2>-37.5,23,3.5,90,0</rejail2>
+     <door>-99.5,24,218.5,180,0</door>
+     <opg>-99.5,24,210.5,0,0</opg>
+</location>
+<!--  ゲーム自動終了  true/falseでの記述  -->
+<auto_end>true</auto_end>
+<!--  自動復活の初期値  true/falseでの記述  -->
+<auto_rejail>false</auto_rejail>
+<!--  観戦機能の初期値  true/falseでの記述  -->
+<watch>false</watch>
+<!--  スポーンを許可する友好モブ 複数指定可能 -->
+<mob_spawn>
+<type>POLAR_BEAR</type>
+</mob_spawn>
+<!-- 復活可能回数 -->
+<rejailcount>8</rejailcount>
+</map>

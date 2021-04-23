@@ -1,0 +1,67 @@
+<map>
+   <name>雷門中学校</name>
+   <version>2.0.3</version>
+<!-- 製作者  ※必須※　複数人指定可能 -->
+ <authors type = "arrange">
+    <author type = "original">LEVEL5</author>
+    <author>inazuma0415</author>
+ </authors>
+   <subtitle>雷門中で逃走中!</subtitle>
+   <desc>原作:§eイナズマイレブンGOギャラクシー,§fビッグバン・§5スーパーノヴァ,§f私の名前の由来でもあるゲーム,そのメインとなる学校です,広い割には隠れる場所は少ないので,考えて動きましょう。,§c推奨ハンター2～3</desc>
+   <time>25</time>
+   <start>
+      <feather>12</feather>
+      <bone>12</bone>
+      <egg>12</egg>
+   </start>
+   <rejail>
+      <feather>8</feather>
+      <bone>7</bone>
+      <egg>7</egg>
+   </rejail>
+   <rejailcount>10</rejailcount>
+   <auto_end>true</auto_end>
+   <auto_rejail>false</auto_rejail>
+   <watch>false</watch>
+   <climate>0</climate>
+   <spblock>0</spblock>
+   <opg_tp>false</opg_tp>
+   <location>
+      <player>242.53,27.0,-97.53,89.82,-0.78</player>
+      <hunter>222.45,27.0,-240.3,2.1,90.0</hunter>
+      <clear>173.51,37.5,-258.57,-90.59,90.0</clear>
+      <jail>149.6,37.5,-258.66,-178.94,90.0</jail>
+      <rejail1>197.94,27.0,-71.19,89.85,-3.75</rejail1>
+      <rejail2>152.78,38.0,15.02,-359.69,0.29</rejail2>
+      <door>222.45,27.0,-240.3,2.1,90.0</door>
+      <opg>222.45,27.0,-226.47,179.55,0.0</opg>
+      <shop>122.47,30.0,-82.3,0.26,2.5</shop>
+   </location>
+<!-- 時間帯の初期値  半角英数字で設定 0/朝,1/昼,2/夜,  
+  指定以外の数値や未設定の場合は0になります -->
+ <timezone>1</timezone>
+ <!-- フィールドの初期値  半角英数字で設定 
+ 0/平穏,1/温暖,2/寒冷,3/灼熱,4/極寒,5/絶望,6/希望,7/暴風,8/天雷,9/感染  
+  指定以外の数値や未設定の場合は0になります -->
+ <field>0</field>
+
+ <regions>
+   <!-- RegionTypeの設定 -->
+   <!-- 個別RegionがactiveでもRegionTypeがactiveでなければregionは動作しない-->
+   <!-- RegionType:hunterzoneの初期値をactiveにするかどうか -->
+   <hunterzone active="true"/>
+   <!-- ※RegionType:opgのactive化はOPG開始時に自動で行うためxmlでは設定できません -->
+   
+   <!-- 個別Regionの設定 -->
+   <!-- typeはhunterzone/opg から選択 , 
+        hunterzone→ハンターゾーン
+        opg→OPGエリア
+        activeはtrue/false  trueで稼働 ※RegionTypeがactive(true)である必要がある,
+        idは任意の値で可 他のregionのidと重複しないように
+        min,maxは X,Y,Z座標を記入する 
+        ※記入漏れがある場合regionは作成されない※ -->
+    <region type="opg" active = "true" id = "ハンターボックスA前" min="218,32,-240" max = "226,26,-226"/>
+</regions>
+<!-- 自動でナイトビジョンを設定するか-->
+<auto_nightvision active="true"/>
+</map>

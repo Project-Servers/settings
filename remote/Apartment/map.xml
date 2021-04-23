@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map>
+<!--  マップ名 ※必須※  -->
+<name>住宅街</name>
+<!--  マップバージョン ※必須※  -->
+<version>1.1.1</version>
+<!-- サブタイトルを設定します -->
+<subtitle>住宅街で逃走中！！！！！</subtitle>
+<desc>§b普通のアパートとかがある街です。,§c推奨ハンター数:2</desc>
+<!--  製作者  ※必須※　複数人指定可能  -->
+<authors>
+<author>Takashing_1185</author>
+</authors>
+<!--  ゲーム時間 半角数字で設定/分単位/
+   未設定の場合25分に設定されます  -->
+<time>27</time>
+<!--  ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます -->
+<start>
+<egg>10</egg>
+<bone>10</bone>
+<feather>10</feather>
+</start>
+<!--  復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます -->
+<rejail>
+<egg>8</egg>
+<bone>8</bone>
+<feather>8</feather>
+</rejail>
+<!-- 各種地点 ※必須※-->
+<location>
+     <player>553.57,4.0,-777.48,-0.3,0.89</player>
+     <clear>665.4,6.5,-789.47,-268.35,45.3</clear>
+     <hunter>553.44,4.0,-762.3,-178.95,1.5</hunter>
+     <jail>461.47,6.5,-826.5,-180.29,-0.59</jail>
+     <rejail1>471.85,4.0,-813.44,-89.55,16.2</rejail1>
+     <rejail2>624.34,4.0,-905.49,-358.5,1.95</rejail2>
+     <door>553.53,4.0,-764.51,-181.19,0.0</door>
+     <opg>553.57,4.0,-777.48,-0.3,0.89</opg>
+<shop>664.5225146731168,4.0,-840.6999999880791,-178.46082,7.499982</shop>
+    </location>
+<!--  ゲーム自動終了  true/falseでの記述  -->
+<auto_end>true</auto_end>
+<!--  自動復活の初期値  true/falseでの記述  -->
+<auto_rejail>false</auto_rejail>
+<!--  観戦機能の初期値  true/falseでの記述  -->
+<watch>false</watch>
+<!--  OPGTPの初期値  true/falseでの記述  -->
+<opg_tp>false</opg_tp>
+<!--  スポーンを許可する友好モブ 複数指定可能 -->
+<mob_spawn>
+<type>POLAR_BEAR</type>
+<type>BAT</type>
+<type>WOLF</type>
+</mob_spawn>
+</map>

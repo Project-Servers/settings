@@ -1,0 +1,52 @@
+﻿<map>
+<!--  マップ名 ※必須※  -->
+<name>CSO_inferno</name>
+<!--  マップバージョン ※必須※  -->
+<version>1.0.0</version>
+<!-- サブタイトルを設定します -->
+<subtitle>インフェルノで逃走中！</subtitle>
+<!--  製作者  ※必須※　複数人指定可能  -->
+<authors>
+<author>配布</author>
+</authors>
+<!--  ゲーム時間 半角数字で設定/分単位/
+   未設定の場合25分に設定されます  -->
+<time>25</time>
+<!--  ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます -->
+<start>
+<egg>8</egg>
+<bone>8</bone>
+<feather>8</feather>
+</start>
+<!--  復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます -->
+<rejail>
+<egg>6</egg>
+<bone>6</bone>
+<feather>6</feather>
+</rejail>
+<!-- 各種地点 ※必須※-->
+<location>
+     <player>439.5,31,965.5,90,0</player>
+	 <hunter>433.5,31,965.5,-90,0</hunter>
+     <clear>515.5,36.5,940.5,0,0</clear>
+     <jail>515.5,37.5,950.5,0,0</jail>
+     <rejail1>472.5,32,943.5,90,0</rejail1>
+     <rejail2>435.5,34,1054.5,0,0</rejail2>
+     <door>433.5,31,965.5,-90,0</door>
+     <opg>439.5,31,965.5,90,0</opg>
+</location>
+<!--  ゲーム自動終了  true/falseでの記述  -->
+<auto_end>true</auto_end>
+<!--  自動復活の初期値  true/falseでの記述  -->
+<auto_rejail>false</auto_rejail>
+<!--  観戦機能の初期値  true/falseでの記述  -->
+<watch>false</watch>
+<!--  スポーンを許可する友好モブ 複数指定可能 -->
+<mob_spawn>
+<type>POLAR_BEAR</type>
+<type>BAT</type>
+<type>WOLF</type>
+</mob_spawn>
+</map>

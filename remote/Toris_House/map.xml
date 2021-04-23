@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><map>
+ <!-- マップ名 ※必須※ -->
+ <name>DELTARUNE Tori's HOUSE</name>
+ <!-- マップバージョン ※必須※ -->
+ <version>1.0.1</version>
+<!-- 製作者  ※必須※　複数人指定可能 -->
+ <authors>
+    <author>Takashing_1185</author>
+ </authors>
+<subtitle>Chapter2 待ってます。</subtitle>
+<!-- ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます-->
+ <start>
+      <egg>9</egg>
+      <bone>9</bone>
+      <feather>9</feather>
+ </start>
+ 
+ <!-- 復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます-->
+ <rejail>
+      <egg>8</egg>
+      <bone>8</bone>
+      <feather>8</feather>
+ </rejail>
+ 
+ <!-- 各種地点 ※必須※-->
+ <location>
+      <player>125.82,5.0,-77.2,-357.63,1.49</player>
+      <clear>118.5,22.5,8.39,-88.26,31.8</clear>
+      <hunter>168.69,5.0,-76.52,-270.78,1.64</hunter>
+      <jail>118.32,22.5,19.56,-85.27,36.75</jail>
+      <rejail1>115.35,5.0,-95.69,-0.62,0.44</rejail1>
+      <rejail2>112.53,5.0,106.72,-91.82,-2.1</rejail2>
+      <door>166.48,5.0,-76.49,-271.83,-0.75</door>
+      <opg>140.23,5.0,-76.73,-89.43,0.0</opg>
+      <shop>117.3,9.0,-14.69,-88.79,-1.04</shop>
+ </location>
+ <desc>§bDELTARUNEのトリエルの自宅を再現したマップ,§c推奨ハンター数1-2人</desc>
+ <auto_end>true</auto_end>
+</map>

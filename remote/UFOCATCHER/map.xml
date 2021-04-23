@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?><map>
+ <!-- マップ名 ※必須※ -->
+ <name>UFOキャッチャー</name>
+ <!-- マップ説明 ,(コンマ)で改行 -->
+ <desc>一度は見かけたことがある,UFOキャッチャーが,生まれ変わった。,3本爪の新筐体も加わった。,§c§l推奨ハンター:1体</desc>
+ <!-- マップバージョン ※必須※ -->
+ <version>2.1.0</version>
+<!-- 製作者  ※必須※　複数人指定可能 -->
+ <authors>
+    <author>Yussan</author>
+ </authors>
+<!-- ゲーム時間 半角数字で設定/分単位/
+   未設定の場合25分に設定されます -->
+ <time>30</time>
+<!-- サブタイトルを設定します -->
+<subtitle>UFOCATCHER</subtitle>
+<!-- ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます-->
+ <start>
+      <egg>12</egg>
+      <bone>12</bone>
+      <feather>12</feather>
+ </start>
+ 
+ <!-- 復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます-->
+ <rejail>
+      <egg>12</egg>
+      <bone>12</bone>
+      <feather>12</feather>
+ </rejail>
+ 
+   <!-- 各種地点 ※必須※-->
+ <location>
+      <player>14.36,12.0,22.16,-0.27,14.42</player>
+      <clear>-17.49,33.5,-21.43,-179.74,4.59</clear>
+      <hunter>14.51,12.0,31.32,-179.68,5.21</hunter>
+      <jail>-25.4,33.5,-21.57,-179.74,11.97</jail>
+      <rejail1>-56.1,12.0,-77.0,-330.24,4.59</rejail1>
+      <rejail2>-46.44,12.0,-21.55,-358.5,12.58</rejail2>
+      <door>14.51,12.0,31.32,-179.68,5.21</door>
+      <opg>14.36,12.0,22.16,-0.27,14.42</opg>
+      <!-- shopは設定しなくても可-->
+      <shop>-27.49,12.0,-35.6,-178.58,-0.31</shop>
+ </location>
+ 
+<!-- ゲーム自動終了  true/falseでの記述 -->
+ <auto_end>true</auto_end>
+<!-- 自動復活の初期値  true/falseでの記述 -->
+ <auto_rejail>false</auto_rejail>
+<!-- 観戦機能の初期値  true/falseでの記述 -->
+ <watch>true</watch>
+<!-- スポーンを許可する友好モブ 複数指定可能-->
+ <mob_spawn>
+        <type>POLAR_BEAR</type>
+        <type>VILLAGER</type>
+ </mob_spawn>
+ <!-- OPG終了時のTP  true/falseでの記述 
+   trueでテレポートを行う-->
+ <opg_tp>false</opg_tp>
+ <!-- 復活可能回数 -->
+<rejailcount>10</rejailcount>
+<!-- 特殊ブロック 半角数字で設定 0不運/1盲目/2発行/3加速 -->
+<spblock>3</spblock>
+<!-- 時間帯の初期値  半角英数字で設定 0/朝,1/昼,2/夜,  
+  指定以外の数値や未設定の場合は0になります -->
+ <timezone>2</timezone>
+ <!-- フィールドの初期値  半角英数字で設定 
+ 0/平穏,1/温暖,2/寒冷,3/灼熱,4/極寒,5/絶望,6/希望,7/暴風,8/天雷,9/感染  
+  指定以外の数値や未設定の場合は0になります -->
+ <field>0</field>
+</map>

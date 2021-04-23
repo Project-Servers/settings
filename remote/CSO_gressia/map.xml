@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?><map>
+ <!-- マップ名 ※必須※ -->
+ <name>CSO_gressia</name>
+ <!-- マップ説明 ,(コンマ)で改行 -->
+ <desc>意味深な石像が置かれた神殿内を,行き来するも同じ内装で混乱する？,CSOステージの一つ。,※推奨ハンター:1人</desc>
+ <!-- マップバージョン ※必須※ -->
+ <version>2.0.0</version>
+<!-- 製作者  ※必須※　複数人指定可能 -->
+ <authors type = "arrange">
+    <author type = "original">配布</author>
+    <author>Yussan</author>
+ </authors>
+<!-- ゲーム時間 半角数字で設定/分単位/
+   未設定の場合25分に設定されます -->
+ <time>25</time>
+<!-- サブタイトルを設定します -->
+<subtitle>New_Gressia Renewal!!</subtitle>
+<!-- ゲーム開始時/途中参加時に配られる
+アイテムの個数 半角数字で設定 未設定の場合5個に設定されます-->
+ <start>
+      <egg>10</egg>
+      <bone>10</bone>
+      <feather>10</feather>
+ </start>
+ 
+ <!-- 復活時に配られるアイテムの個数 
+ 半角数字で設定 未設定の場合5個に設定されます-->
+ <rejail>
+      <egg>8</egg>
+      <bone>8</bone>
+      <feather>8</feather>
+ </rejail>
+   <!-- 各種地点 ※必須※-->
+ <location>
+      <player>34.72,64.0,-805.48,92.45,-2.16</player>
+      <clear>38.51,77.5,-830.72,231.89,11.97</clear>
+      <hunter>26.66,65.0,-805.51,269.36,8.28</hunter>
+      <jail>71.67,77.5,-837.58,51.29,27.33</jail>
+      <rejail1>25.61,75.0,-874.43,322.23,6.44</rejail1>
+      <rejail2>84.41,75.0,-793.6,134.88,0.29</rejail2>
+      <door>26.66,65.0,-805.51,269.36,8.28</door>
+      <opg>34.72,64.0,-805.48,92.45,-2.16</opg>
+      <!-- shopは設定しなくても可-->
+      <shop>64.45,64.0,-809.51,179.76,2.75</shop>
+ </location>
+ 
+<!-- ゲーム自動終了  true/falseでの記述 -->
+ <auto_end>true</auto_end>
+<!-- 自動復活の初期値  true/falseでの記述 -->
+ <auto_rejail>false</auto_rejail>
+<!-- 観戦機能の初期値  true/falseでの記述 -->
+ <watch>false</watch>
+<!-- スポーンを許可する友好モブ 複数指定可能-->
+ <mob_spawn>
+        <type>POLAR_BEAR</type>
+ </mob_spawn>
+ <!-- OPG終了時のTP  true/falseでの記述 
+   trueでテレポートを行う-->
+ <opg_tp>false</opg_tp>
+ <!-- 復活可能回数 -->
+<rejailcount>8</rejailcount>
+<!-- 特殊ブロック 半角数字で設定 0不運/1盲目/2発行/3加速 -->
+<spblock>1</spblock>
+</map>
