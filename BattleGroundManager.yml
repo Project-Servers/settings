@@ -391,3 +391,7 @@ KurikuRyokan:
     build: 0.0
     play: 0.0
   lock: 5
+DQ9_sanmarou:
+  graveyard:
+    check: true
+    version: 3.1.1
