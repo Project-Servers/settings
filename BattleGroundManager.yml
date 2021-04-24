@@ -48,12 +48,12 @@ Forest_House:
   lock: 0
 Huge_Library:
   map:
-    play: 2
+    play: 3
     version: 3.0.0
   point:
-    build: 8.23
-    play: 7.37
-  lock: 0
+    build: 11.940000000000001
+    play: 10.870000000000001
+  lock: 5
 Kurokan:
   graveyard:
     check: false
@@ -331,7 +331,7 @@ From_Discord_Zatudan:
   point:
     build: 6.9399999999999995
     play: 6.95
-  lock: 4
+  lock: 3
 The_End:
   map:
     play: 2
@@ -390,7 +390,7 @@ KurikuRyokan:
   point:
     build: 0.0
     play: 0.0
-  lock: 3
+  lock: 2
 DQ9_sanmarou:
   graveyard:
     check: true
@@ -402,4 +402,4 @@ Compact_Build:
   point:
     build: 3.23
     play: 2.84
-  lock: 5
+  lock: 4
