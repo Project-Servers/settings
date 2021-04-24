@@ -326,12 +326,12 @@ Toris_House:
   lock: 0
 From_Discord_Zatudan:
   map:
-    play: 1
+    play: 2
     version: 1.0.0
   point:
-    build: 3.5
-    play: 3.62
-  lock: 0
+    build: 6.9399999999999995
+    play: 6.95
+  lock: 5
 The_End:
   map:
     play: 2
@@ -374,7 +374,7 @@ RFM_Airport:
   lock: 0
 DQ9_Sanmarou:
   graveyard:
-    check: true
+    check: false
     version: 3.0.2
   map:
     play: 1
@@ -390,7 +390,7 @@ KurikuRyokan:
   point:
     build: 0.0
     play: 0.0
-  lock: 5
+  lock: 4
 DQ9_sanmarou:
   graveyard:
     check: true
