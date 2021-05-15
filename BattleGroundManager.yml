@@ -65,7 +65,7 @@ RFM_CINEMA:
   point:
     build: 7.32
     play: 7.1
-  lock: 3
+  lock: 2
 Minecraft_Port:
   graveyard:
     check: false
@@ -111,7 +111,7 @@ Kaikatsu_Club:
   point:
     build: 7.08
     play: 6.220000000000001
-  lock: 1
+  lock: 0
 True_Lab:
   map:
     play: 2
@@ -339,7 +339,7 @@ The_End:
   point:
     build: 11.16
     play: 9.73
-  lock: 5
+  lock: 4
 RFM_City:
   map:
     play: 2
@@ -418,7 +418,7 @@ RFM_city:
   point:
     build: 4.25
     play: 3.87
-  lock: 2
+  lock: 1
 PokemonORAS_Kinsetsucity:
   map:
     play: 1
@@ -426,4 +426,12 @@ PokemonORAS_Kinsetsucity:
   point:
     build: 3.57
     play: 3.5
-  lock: 4
+  lock: 3
+Among_us:
+  map:
+    play: 1
+    version: 3.0.0
+  point:
+    build: 4.11
+    play: 3.76
+  lock: 5
