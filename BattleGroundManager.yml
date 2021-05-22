@@ -53,7 +53,7 @@ Huge_Library:
   point:
     build: 15.600000000000001
     play: 14.200000000000001
-  lock: 3
+  lock: 2
 Kurokan:
   graveyard:
     check: false
@@ -217,7 +217,7 @@ Tousou_City:
   point:
     build: 11.57
     play: 10.440000000000001
-  lock: 4
+  lock: 3
 RFM_Camp:
   map:
     play: 1
@@ -264,7 +264,7 @@ Minecraft_Museum:
   point:
     build: 7.52
     play: 7.52
-  lock: 5
+  lock: 4
 Game_Center:
   map:
     play: 1
@@ -326,12 +326,12 @@ Toris_House:
   lock: 0
 From_Discord_Zatudan:
   map:
-    play: 2
+    play: 3
     version: 1.0.0
   point:
-    build: 6.9399999999999995
-    play: 6.95
-  lock: 0
+    build: 11.14
+    play: 11.32
+  lock: 5
 The_End:
   map:
     play: 3
@@ -339,7 +339,7 @@ The_End:
   point:
     build: 11.16
     play: 9.73
-  lock: 1
+  lock: 0
 RFM_City:
   map:
     play: 2
@@ -434,4 +434,4 @@ Among_us:
   point:
     build: 4.11
     play: 3.76
-  lock: 2
+  lock: 1
