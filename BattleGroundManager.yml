@@ -48,12 +48,12 @@ Forest_House:
   lock: 0
 Huge_Library:
   map:
-    play: 3
+    play: 4
     version: 3.0.0
   point:
-    build: 11.940000000000001
-    play: 10.870000000000001
-  lock: 0
+    build: 15.600000000000001
+    play: 14.200000000000001
+  lock: 5
 Kurokan:
   graveyard:
     check: false
@@ -65,7 +65,7 @@ RFM_CINEMA:
   point:
     build: 7.32
     play: 7.1
-  lock: 2
+  lock: 1
 Minecraft_Port:
   graveyard:
     check: false
@@ -339,7 +339,7 @@ The_End:
   point:
     build: 11.16
     play: 9.73
-  lock: 4
+  lock: 3
 RFM_City:
   map:
     play: 2
@@ -418,7 +418,7 @@ RFM_city:
   point:
     build: 4.25
     play: 3.87
-  lock: 1
+  lock: 0
 PokemonORAS_Kinsetsucity:
   map:
     play: 1
@@ -426,7 +426,7 @@ PokemonORAS_Kinsetsucity:
   point:
     build: 3.57
     play: 3.5
-  lock: 3
+  lock: 2
 Among_us:
   map:
     play: 1
@@ -434,4 +434,4 @@ Among_us:
   point:
     build: 4.11
     play: 3.76
-  lock: 5
+  lock: 4
