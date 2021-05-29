@@ -53,7 +53,7 @@ Huge_Library:
   point:
     build: 15.600000000000001
     play: 14.200000000000001
-  lock: 2
+  lock: 1
 Kurokan:
   graveyard:
     check: false
@@ -196,12 +196,12 @@ Ideal_of_Virtual_Zone:
   lock: 25
 Road_Station:
   map:
-    play: 2
+    play: 3
     version: 2.1.4
   point:
-    build: 7.27
-    play: 6.609999999999999
-  lock: 0
+    build: 11.19
+    play: 10.45
+  lock: 5
 RFM_Lab:
   map:
     play: 2
@@ -217,7 +217,7 @@ Tousou_City:
   point:
     build: 11.57
     play: 10.440000000000001
-  lock: 3
+  lock: 2
 RFM_Camp:
   map:
     play: 1
@@ -264,7 +264,7 @@ Minecraft_Museum:
   point:
     build: 7.52
     play: 7.52
-  lock: 4
+  lock: 3
 Game_Center:
   map:
     play: 1
@@ -331,7 +331,7 @@ From_Discord_Zatudan:
   point:
     build: 11.14
     play: 11.32
-  lock: 5
+  lock: 4
 The_End:
   map:
     play: 3
@@ -434,4 +434,4 @@ Among_us:
   point:
     build: 4.11
     play: 3.76
-  lock: 1
+  lock: 0
