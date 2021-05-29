@@ -201,7 +201,7 @@ Road_Station:
   point:
     build: 11.19
     play: 10.45
-  lock: 3
+  lock: 2
 RFM_Lab:
   map:
     play: 2
@@ -212,12 +212,12 @@ RFM_Lab:
   lock: 0
 Tousou_City:
   map:
-    play: 3
+    play: 4
     version: 2.0.0
   point:
-    build: 11.57
-    play: 10.440000000000001
-  lock: 0
+    build: 15.620000000000001
+    play: 14.490000000000002
+  lock: 5
 RFM_Camp:
   map:
     play: 1
@@ -264,7 +264,7 @@ Minecraft_Museum:
   point:
     build: 7.52
     play: 7.52
-  lock: 1
+  lock: 0
 Game_Center:
   map:
     play: 2
@@ -272,7 +272,7 @@ Game_Center:
   point:
     build: 7.42
     play: 7.42
-  lock: 4
+  lock: 3
 City1:
   map:
     play: 2
@@ -331,7 +331,7 @@ From_Discord_Zatudan:
   point:
     build: 11.14
     play: 11.32
-  lock: 2
+  lock: 1
 The_End:
   map:
     play: 3
@@ -418,7 +418,7 @@ RFM_city:
   point:
     build: 8.15
     play: 7.59
-  lock: 5
+  lock: 4
 PokemonORAS_Kinsetsucity:
   map:
     play: 1
