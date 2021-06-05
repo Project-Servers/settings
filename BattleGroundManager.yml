@@ -45,7 +45,7 @@ Forest_House:
   point:
     build: 11.41
     play: 11.04
-  lock: 17
+  lock: 16
 Huge_Library:
   map:
     play: 4
@@ -60,12 +60,12 @@ Kurokan:
     version: 1.0.0
 RFM_CINEMA:
   map:
-    play: 2
+    play: 3
     version: 2.0.1
   point:
-    build: 7.32
-    play: 7.1
-  lock: 0
+    build: 11.54
+    play: 10.98
+  lock: 17
 Minecraft_Port:
   graveyard:
     check: false
@@ -201,7 +201,7 @@ Road_Station:
   point:
     build: 11.19
     play: 10.45
-  lock: 1
+  lock: 0
 RFM_Lab:
   map:
     play: 2
@@ -217,7 +217,7 @@ Tousou_City:
   point:
     build: 15.620000000000001
     play: 14.490000000000002
-  lock: 4
+  lock: 3
 RFM_Camp:
   map:
     play: 1
@@ -272,7 +272,7 @@ Game_Center:
   point:
     build: 7.42
     play: 7.42
-  lock: 2
+  lock: 1
 City1:
   map:
     play: 2
@@ -418,7 +418,7 @@ RFM_city:
   point:
     build: 8.15
     play: 7.59
-  lock: 3
+  lock: 2
 PokemonORAS_Kinsetsucity:
   map:
     play: 1
