@@ -45,7 +45,7 @@ Forest_House:
   point:
     build: 11.41
     play: 11.04
-  lock: 15
+  lock: 14
 Huge_Library:
   map:
     play: 4
@@ -65,7 +65,7 @@ RFM_CINEMA:
   point:
     build: 11.54
     play: 10.98
-  lock: 16
+  lock: 15
 Minecraft_Port:
   graveyard:
     check: false
@@ -87,7 +87,7 @@ Sandbox_City:
   point:
     build: 11.280000000000001
     play: 10.77
-  lock: 17
+  lock: 16
 Dea_la_solitaire:
   map:
     play: 2
@@ -217,15 +217,15 @@ Tousou_City:
   point:
     build: 15.620000000000001
     play: 14.490000000000002
-  lock: 2
+  lock: 1
 RFM_Camp:
   map:
-    play: 1
-    version: 2.0.5
+    play: 2
+    version: 3.0.0
   point:
-    build: 3.57
-    play: 3.64
-  lock: 0
+    build: 7.57
+    play: 7.779999999999999
+  lock: 17
 Golden_Week:
   map:
     play: 1
@@ -418,7 +418,7 @@ RFM_city:
   point:
     build: 8.15
     play: 7.59
-  lock: 1
+  lock: 0
 PokemonORAS_Kinsetsucity:
   map:
     play: 1
