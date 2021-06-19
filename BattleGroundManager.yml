@@ -45,7 +45,7 @@ Forest_House:
   point:
     build: 11.41
     play: 11.04
-  lock: 8
+  lock: 7
 Huge_Library:
   map:
     play: 4
@@ -65,7 +65,7 @@ RFM_CINEMA:
   point:
     build: 11.54
     play: 10.98
-  lock: 9
+  lock: 8
 Minecraft_Port:
   graveyard:
     check: false
@@ -87,7 +87,7 @@ Sandbox_City:
   point:
     build: 11.280000000000001
     play: 10.77
-  lock: 10
+  lock: 9
 Dea_la_solitaire:
   map:
     play: 2
@@ -166,7 +166,7 @@ ChaseField_BlockFort:
   point:
     build: 3.7
     play: 3.41
-  lock: 14
+  lock: 13
 Boost_HighSchool:
   map:
     play: 1
@@ -233,7 +233,7 @@ RFM_Camp:
   point:
     build: 7.57
     play: 7.779999999999999
-  lock: 11
+  lock: 10
 Golden_Week:
   map:
     play: 2
@@ -307,7 +307,7 @@ Yussans_Memory:
   point:
     build: 7.83
     play: 7.58
-  lock: 18
+  lock: 17
 thinking:
   map:
     play: 1
@@ -450,7 +450,7 @@ PokemonBW_AncientCastle:
   point:
     build: 3.94
     play: 3.64
-  lock: 12
+  lock: 11
 RFM_hospital:
   map:
     play: 1
@@ -466,4 +466,12 @@ The_Inferno_Fortress:
   point:
     build: 3.73
     play: 3.79
-  lock: 17
+  lock: 16
+Raimonchu:
+  map:
+    play: 1
+    version: 2.0.3
+  point:
+    build: 3.94
+    play: 3.76
+  lock: 18
