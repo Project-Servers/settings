@@ -391,6 +391,10 @@ kurikuryokan:
     build: 0.0
     play: 0.0
   lock: 0
+  graveyard:
+    check: true
+    reason: SmallMap,BadPlayability
+    version: 1.2.0
 compact_build:
   map:
     play: 1
@@ -447,3 +451,28 @@ raimonchu:
     build: 3.94
     play: 3.76
   lock: 17
+hand_spinner:
+  graveyard:
+    check: true
+    reason: SmallMap,BadPlayability
+    version: 1.0.0
+pet_bottle_lid:
+  graveyard:
+    check: true
+    reason: SmallMap,LowQuality,BadPlayability
+    version: 1.1.0
+retreat_shrine:
+  graveyard:
+    check: true
+    reason: SmallMap,BadPlayability
+    version: 1.2.0
+77rooms:
+  graveyard:
+    check: true
+    reason: BadPlayability
+    version: 2.0.0
+pokemonbw_pokemoncenter:
+  graveyard:
+    check: true
+    reason: SmallMap
+    version: 1.1.0
