@@ -13,7 +13,7 @@ among_us:
   point:
     build: 15.259999999999998
     play: 13.83
-  lock: 10
+  lock: 9
 calendar:
   map:
     play: 1
@@ -37,7 +37,7 @@ forest_house:
   point:
     build: 15.22
     play: 14.559999999999999
-  lock: 11
+  lock: 10
 huge_library:
   map:
     play: 4
@@ -68,7 +68,7 @@ minecraft_port:
   point:
     build: 7.1
     play: 6.65
-  lock: 15
+  lock: 14
 sandbox_city:
   graveyard:
     check: false
@@ -87,7 +87,7 @@ dea_la_solitaire:
   point:
     build: 11.629999999999999
     play: 11.06
-  lock: 6
+  lock: 5
 manmatown:
   map:
     play: 1
@@ -127,7 +127,7 @@ dark_sewer:
   point:
     build: 10.94
     play: 10.55
-  lock: 13
+  lock: 12
 rfm_casino:
   map:
     play: 1
@@ -147,7 +147,7 @@ rfm_shopping_mall:
   point:
     build: 11.68
     play: 11.11
-  lock: 8
+  lock: 7
 chasefield_blockfort:
   graveyard:
     check: false
@@ -201,7 +201,7 @@ road_station:
   point:
     build: 14.87
     play: 14.01
-  lock: 17
+  lock: 16
 rfm_lab:
   map:
     play: 2
@@ -225,7 +225,7 @@ rfm_camp:
   point:
     build: 11.01
     play: 11.219999999999999
-  lock: 16
+  lock: 15
 golden_week:
   map:
     play: 2
@@ -299,7 +299,7 @@ yussans_memory:
   point:
     build: 7.83
     play: 7.58
-  lock: 1
+  lock: 0
 thinking:
   map:
     play: 1
@@ -331,7 +331,7 @@ from_discord_zatudan:
   point:
     build: 15.06
     play: 15.08
-  lock: 3
+  lock: 2
 the_end:
   map:
     play: 3
@@ -342,12 +342,12 @@ the_end:
   lock: 0
 rfm_city:
   map:
-    play: 2
+    play: 3
     version: 1.0.1
   point:
-    build: 7.99
-    play: 7.83
-  lock: 12
+    build: 11.99
+    play: 11.55
+  lock: 17
 core:
   map:
     play: 1
@@ -363,7 +363,7 @@ apartment:
   point:
     build: 6.99
     play: 6.970000000000001
-  lock: 12
+  lock: 11
 rfm_airport:
   map:
     play: 2
@@ -426,7 +426,7 @@ pokemonbw_ancientcastle:
   point:
     build: 8.01
     play: 7.140000000000001
-  lock: 9
+  lock: 8
 rfm_hospital:
   map:
     play: 1
@@ -434,7 +434,7 @@ rfm_hospital:
   point:
     build: 3.69
     play: 3.53
-  lock: 2
+  lock: 1
 the_inferno_fortress:
   map:
     play: 2
@@ -442,7 +442,7 @@ the_inferno_fortress:
   point:
     build: 7.73
     play: 7.45
-  lock: 7
+  lock: 6
 raimonchu:
   map:
     play: 1
@@ -450,7 +450,7 @@ raimonchu:
   point:
     build: 3.94
     play: 3.76
-  lock: 2
+  lock: 1
 hand_spinner:
   graveyard:
     check: true
@@ -472,7 +472,7 @@ retreat_shrine:
   point:
     build: 3.82
     play: 3.61
-  lock: 14
+  lock: 13
 77rooms:
   graveyard:
     check: true
@@ -490,7 +490,7 @@ biohazard7:
   point:
     build: 3.46
     play: 3.33
-  lock: 4
+  lock: 3
 cyanine:
   map:
     play: 1
@@ -498,7 +498,7 @@ cyanine:
   point:
     build: 3.82
     play: 3.82
-  lock: 5
+  lock: 4
 rfm_university:
   map:
     play: 1
@@ -506,4 +506,4 @@ rfm_university:
   point:
     build: 3.92
     play: 3.0
-  lock: 11
+  lock: 10
