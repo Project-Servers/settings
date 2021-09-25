@@ -5,7 +5,7 @@ aorustation:
   point:
     build: 7.699999999999999
     play: 6.91
-  lock: 14
+  lock: 13
 among_us:
   map:
     play: 4
@@ -87,7 +87,7 @@ dea_la_solitaire:
   point:
     build: 11.629999999999999
     play: 11.06
-  lock: 8
+  lock: 7
 manmatown:
   map:
     play: 1
@@ -147,7 +147,7 @@ rfm_shopping_mall:
   point:
     build: 11.68
     play: 11.11
-  lock: 4
+  lock: 3
 chasefield_blockfort:
   graveyard:
     check: false
@@ -201,7 +201,7 @@ road_station:
   point:
     build: 14.87
     play: 14.01
-  lock: 1
+  lock: 0
 rfm_lab:
   map:
     play: 3
@@ -209,7 +209,7 @@ rfm_lab:
   point:
     build: 7.89
     play: 6.82
-  lock: 12
+  lock: 11
 tousou_city:
   map:
     play: 5
@@ -225,7 +225,7 @@ rfm_camp:
   point:
     build: 11.01
     play: 11.219999999999999
-  lock: 6
+  lock: 5
 golden_week:
   map:
     play: 2
@@ -241,7 +241,7 @@ pokemondp_remix:
   point:
     build: 7.13
     play: 6.97
-  lock: 10
+  lock: 9
   graveyard:
     check: false
     version: 2.0.0
@@ -252,7 +252,7 @@ lobotomy_corporation:
   point:
     build: 3.39
     play: 3.1
-  lock: 16
+  lock: 15
 pokemondpt_tobaricity:
   graveyard:
     check: true
@@ -264,7 +264,7 @@ minecraft_museum:
   point:
     build: 11.08
     play: 10.7
-  lock: 11
+  lock: 10
 game_center:
   map:
     play: 2
@@ -434,7 +434,7 @@ rfm_hospital:
   point:
     build: 7.42
     play: 6.99
-  lock: 17
+  lock: 16
 the_inferno_fortress:
   map:
     play: 4
@@ -472,7 +472,7 @@ retreat_shrine:
   point:
     build: 3.82
     play: 3.61
-  lock: 9
+  lock: 8
 77rooms:
   graveyard:
     check: true
@@ -506,7 +506,7 @@ rfm_university:
   point:
     build: 3.92
     play: 3.0
-  lock: 13
+  lock: 12
 re_rfm_casino:
   map:
     play: 2
@@ -519,12 +519,12 @@ rfm_pirupirutune:
   map:
     play: 2
     version: 1.1.0
-  lock: 3
+  lock: 2
 splatoon:
   map:
     play: 2
     version: 2.0.0
-  lock: 18
+  lock: 17
 mgsgz_u:
   s:
     naval_prison_facility:
@@ -532,9 +532,14 @@ mgsgz_u:
         map:
           play: 1
           version: 1.0.3
-        lock: 2
+        lock: 1
 birthday_cake:
   map:
     play: 2
     version: 2.4.0
-  lock: 15
+  lock: 14
+rfm_prison:
+  map:
+    play: 1
+    version: 1.0.0
+  lock: 18
