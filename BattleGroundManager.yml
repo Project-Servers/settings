@@ -5,7 +5,7 @@ aorustation:
   point:
     build: 7.699999999999999
     play: 6.91
-  lock: 5
+  lock: 4
 among_us:
   map:
     play: 4
@@ -37,7 +37,7 @@ forest_house:
   point:
     build: 15.22
     play: 14.559999999999999
-  lock: 12
+  lock: 11
 huge_library:
   map:
     play: 5
@@ -209,7 +209,7 @@ rfm_lab:
   point:
     build: 7.89
     play: 6.82
-  lock: 3
+  lock: 2
 tousou_city:
   map:
     play: 5
@@ -241,7 +241,7 @@ pokemondp_remix:
   point:
     build: 7.13
     play: 6.97
-  lock: 1
+  lock: 0
   graveyard:
     check: false
     version: 2.0.0
@@ -252,7 +252,7 @@ lobotomy_corporation:
   point:
     build: 3.39
     play: 3.1
-  lock: 7
+  lock: 6
 pokemondpt_tobaricity:
   graveyard:
     check: true
@@ -264,7 +264,7 @@ minecraft_museum:
   point:
     build: 11.08
     play: 10.7
-  lock: 2
+  lock: 1
 game_center:
   map:
     play: 2
@@ -323,7 +323,7 @@ toris_house:
   point:
     build: 3.54
     play: 2.81
-  lock: 14
+  lock: 13
 from_discord_zatudan:
   map:
     play: 4
@@ -342,12 +342,12 @@ the_end:
   lock: 0
 rfm_city:
   map:
-    play: 4
+    play: 5
     version: 1.0.1
   point:
     build: 11.99
     play: 11.55
-  lock: 0
+  lock: 18
 core:
   map:
     play: 1
@@ -434,7 +434,7 @@ rfm_hospital:
   point:
     build: 7.42
     play: 6.99
-  lock: 8
+  lock: 7
 the_inferno_fortress:
   map:
     play: 5
@@ -442,7 +442,7 @@ the_inferno_fortress:
   point:
     build: 7.73
     play: 7.45
-  lock: 17
+  lock: 16
 raimonchu:
   map:
     play: 2
@@ -450,7 +450,7 @@ raimonchu:
   point:
     build: 3.94
     play: 3.76
-  lock: 16
+  lock: 15
 hand_spinner:
   graveyard:
     check: true
@@ -472,7 +472,7 @@ retreat_shrine:
   point:
     build: 3.82
     play: 3.61
-  lock: 18
+  lock: 17
 77rooms:
   graveyard:
     check: true
@@ -498,7 +498,7 @@ cyanine:
   point:
     build: 3.82
     play: 3.82
-  lock: 13
+  lock: 12
 rfm_university:
   map:
     play: 3
@@ -506,7 +506,7 @@ rfm_university:
   point:
     build: 3.92
     play: 3.0
-  lock: 4
+  lock: 3
 re_rfm_casino:
   map:
     play: 3
@@ -514,7 +514,7 @@ re_rfm_casino:
   point:
     build: 3.71
     play: 3.5
-  lock: 15
+  lock: 14
 rfm_pirupirutune:
   map:
     play: 2
@@ -524,7 +524,7 @@ splatoon:
   map:
     play: 2
     version: 2.0.0
-  lock: 9
+  lock: 8
 mgsgz_u:
   s:
     naval_prison_facility:
@@ -537,14 +537,14 @@ birthday_cake:
   map:
     play: 2
     version: 2.4.0
-  lock: 6
+  lock: 5
 rfm_prison:
   map:
     play: 1
     version: 1.0.0
-  lock: 10
+  lock: 9
 closed_village:
   map:
     play: 1
     version: 1.3.0
-  lock: 11
+  lock: 10
