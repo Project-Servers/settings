@@ -37,7 +37,7 @@ forest_house:
   point:
     build: 15.22
     play: 14.559999999999999
-  lock: 6
+  lock: 5
 huge_library:
   map:
     play: 5
@@ -52,12 +52,12 @@ kurokan:
     version: 1.0.0
 rfm_cinema:
   map:
-    play: 4
+    play: 5
     version: 2.0.1
   point:
     build: 11.54
     play: 10.98
-  lock: 0
+  lock: 18
 minecraft_port:
   graveyard:
     check: false
@@ -87,7 +87,7 @@ dea_la_solitaire:
   point:
     build: 11.629999999999999
     play: 11.06
-  lock: 17
+  lock: 16
 manmatown:
   map:
     play: 1
@@ -111,7 +111,7 @@ true_lab:
   point:
     build: 7.15
     play: 6.720000000000001
-  lock: 18
+  lock: 17
 infinite_corridor:
   map:
     play: 1
@@ -252,7 +252,7 @@ lobotomy_corporation:
   point:
     build: 3.39
     play: 3.1
-  lock: 1
+  lock: 0
 pokemondpt_tobaricity:
   graveyard:
     check: true
@@ -299,7 +299,7 @@ yussans_memory:
   point:
     build: 7.83
     play: 7.58
-  lock: 14
+  lock: 13
 thinking:
   map:
     play: 1
@@ -323,7 +323,7 @@ toris_house:
   point:
     build: 3.54
     play: 2.81
-  lock: 8
+  lock: 7
 from_discord_zatudan:
   map:
     play: 5
@@ -331,7 +331,7 @@ from_discord_zatudan:
   point:
     build: 15.06
     play: 15.08
-  lock: 16
+  lock: 15
 the_end:
   map:
     play: 4
@@ -339,7 +339,7 @@ the_end:
   point:
     build: 11.16
     play: 9.73
-  lock: 15
+  lock: 14
 rfm_city:
   map:
     play: 5
@@ -347,7 +347,7 @@ rfm_city:
   point:
     build: 11.99
     play: 11.55
-  lock: 13
+  lock: 12
 core:
   map:
     play: 1
@@ -434,7 +434,7 @@ rfm_hospital:
   point:
     build: 7.42
     play: 6.99
-  lock: 2
+  lock: 1
 the_inferno_fortress:
   map:
     play: 5
@@ -442,7 +442,7 @@ the_inferno_fortress:
   point:
     build: 7.73
     play: 7.45
-  lock: 11
+  lock: 10
 raimonchu:
   map:
     play: 2
@@ -450,7 +450,7 @@ raimonchu:
   point:
     build: 3.94
     play: 3.76
-  lock: 10
+  lock: 9
 hand_spinner:
   graveyard:
     check: true
@@ -472,7 +472,7 @@ retreat_shrine:
   point:
     build: 3.82
     play: 3.61
-  lock: 12
+  lock: 11
 77rooms:
   graveyard:
     check: true
@@ -498,7 +498,7 @@ cyanine:
   point:
     build: 3.82
     play: 3.82
-  lock: 7
+  lock: 6
 rfm_university:
   map:
     play: 3
@@ -514,7 +514,7 @@ re_rfm_casino:
   point:
     build: 3.71
     play: 3.5
-  lock: 9
+  lock: 8
 rfm_pirupirutune:
   map:
     play: 2
@@ -524,7 +524,7 @@ splatoon:
   map:
     play: 2
     version: 2.0.0
-  lock: 3
+  lock: 2
 mgsgz_u:
   s:
     naval_prison_facility:
@@ -542,9 +542,9 @@ rfm_prison:
   map:
     play: 1
     version: 1.0.0
-  lock: 4
+  lock: 3
 closed_village:
   map:
     play: 1
     version: 1.3.0
-  lock: 5
+  lock: 4
