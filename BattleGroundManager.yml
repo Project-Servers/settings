@@ -549,3 +549,11 @@ maps:
       play: 1
       version: 1.3.0
     lock: 3
+selection:
+  d67059c4-ee07-42d3-b4dc-e96cb446c5df:
+    name: njj12
+    '1': r.p.d._raccoonpolicedepartment
+    '2': rfm_pirupirutune
+    '3': biohazard7
+    '4': minecraft_museum
+    '5': rfm_camp
