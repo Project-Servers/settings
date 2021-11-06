@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 18
+    lock: 17
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 11
+    lock: 10
   minecraft_port:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 9
+    lock: 8
   manmatown:
     map:
       play: 1
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 10
+    lock: 9
   infinite_corridor:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 17
+    lock: 16
   chasefield_blockfort:
     graveyard:
       check: false
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 16
+    lock: 15
   road_station:
     map:
       play: 5
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 15
+    lock: 14
   game_center:
     map:
       play: 2
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 19
+          lock: 18
   yussans_memory:
     map:
       play: 3
@@ -300,7 +300,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 6
+    lock: 5
   thinking:
     map:
       play: 1
@@ -332,7 +332,7 @@ maps:
     point:
       build: 15.06
       play: 15.08
-    lock: 8
+    lock: 7
   the_end:
     map:
       play: 4
@@ -340,7 +340,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 7
+    lock: 6
   rfm_city:
     map:
       play: 5
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 5
+    lock: 4
   core:
     map:
       play: 1
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 14
+    lock: 13
   dq9_sanmarou:
     graveyard:
       check: false
@@ -438,12 +438,12 @@ maps:
     lock: 0
   the_inferno_fortress:
     map:
-      play: 5
-      version: 2.0.3
+      play: 6
+      version: 2.0.4
     point:
       build: 7.73
       play: 7.45
-    lock: 3
+    lock: 19
   raimonchu:
     map:
       play: 2
@@ -451,7 +451,7 @@ maps:
     point:
       build: 3.94
       play: 3.76
-    lock: 2
+    lock: 1
   hand_spinner:
     graveyard:
       check: true
@@ -473,7 +473,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 4
+    lock: 3
   77rooms:
     graveyard:
       check: true
@@ -515,12 +515,12 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 1
+    lock: 0
   rfm_pirupirutune:
     map:
       play: 3
       version: 1.1.0
-    lock: 12
+    lock: 11
   splatoon:
     map:
       play: 2
@@ -585,3 +585,17 @@ selection:
     '3': sandbox_city
     '4': toris_house
     '5': cyanine
+  a51b1c75-d19a-49c3-bec2-2e97eb1a058d:
+    name: KUGANA00
+    '5': rfm_hospital
+    '2': pokemondp_remix
+    '4': rfm_lab
+    '1': re_rfm_casino
+    '3': retreat_shrine
+  d0e0ce41-ae2d-4ed1-a753-57a6f56462e8:
+    name: Naotoroid
+    '1': rfm_shopping_mall
+    '2': minecraft_port
+    '3': road_station
+    '4': toris_house
+    '5': rfm_lab
