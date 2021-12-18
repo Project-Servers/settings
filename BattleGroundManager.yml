@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 2
+    lock: 1
   calendar:
     map:
       play: 1
@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 6
+    lock: 5
   forest_house:
     map:
       play: 6
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 14
+    lock: 13
   kurokan:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 12
+    lock: 11
   manmatown:
     map:
       play: 1
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 18
+    lock: 17
   infinite_corridor:
     map:
       play: 1
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 3
+    lock: 2
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 5
+    lock: 4
   chasefield_blockfort:
     graveyard:
       check: false
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 11
+    lock: 10
   road_station:
     map:
       play: 6
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 10
+    lock: 9
   rfm_lab:
     map:
       play: 3
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 17
+    lock: 16
   rfm_camp:
     map:
       play: 5
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 7
+    lock: 6
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 19
+    lock: 18
     graveyard:
       check: false
       version: 2.0.0
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 15
+    lock: 14
   dq9_sanmarou:
     graveyard:
       check: false
@@ -435,7 +435,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 4
+    lock: 3
   the_inferno_fortress:
     map:
       play: 7
@@ -443,7 +443,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 8
+    lock: 7
   raimonchu:
     map:
       play: 2
@@ -473,7 +473,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 9
+    lock: 8
   77rooms:
     graveyard:
       check: true
@@ -507,7 +507,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 1
+    lock: 0
   re_rfm_casino:
     map:
       play: 3
@@ -518,14 +518,14 @@ maps:
     lock: 0
   rfm_pirupirutune:
     map:
-      play: 3
-      version: 1.1.0
-    lock: 0
+      play: 4
+      version: 1.1.1
+    lock: 19
   splatoon:
     map:
       play: 3
       version: 2.1.1
-    lock: 16
+    lock: 15
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -553,7 +553,7 @@ maps:
     map:
       play: 1
       version: 1.5.1
-    lock: 13
+    lock: 12
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -590,7 +590,7 @@ selection:
     '3': sandbox_city
     '4': toris_house
     '5': cyanine
-    lock: 3
+    lock: 2
   a51b1c75-d19a-49c3-bec2-2e97eb1a058d:
     name: KUGANA00
     '5': rfm_hospital
@@ -612,7 +612,7 @@ selection:
     '3': rfm_shopping_mall
     '4': road_station
     '5': rfm_prison
-    lock: 2
+    lock: 1
   80940099-8aa8-4873-9b55-ef90aa31408d:
     name: reokunchan
     '1': rfm_hospital
