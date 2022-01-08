@@ -585,12 +585,12 @@ selection:
     '4': ideal_of_virtual_zone
   1ea382a9-7ba3-4ab6-85ee-5df5f7c6af18:
     name: Takashing_1185
-    '1': ideal_of_virtual_zone
-    '2': rfm_camp
-    '3': sandbox_city
-    '4': toris_house
-    '5': cyanine
     lock: 0
+    '1': forest_house
+    '2': rfm_camp
+    '3': minecraft_museum
+    '4': dea_la_solitaire
+    '5': sandbox_city
   a51b1c75-d19a-49c3-bec2-2e97eb1a058d:
     name: KUGANA00
     '5': rfm_hospital
