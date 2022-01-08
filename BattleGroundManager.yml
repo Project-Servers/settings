@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 1
+    lock: 0
   forest_house:
     map:
       play: 6
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 9
+    lock: 8
   kurokan:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 7
+    lock: 6
   manmatown:
     map:
       play: 1
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 13
+    lock: 12
   infinite_corridor:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 6
+    lock: 5
   road_station:
     map:
       play: 6
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 5
+    lock: 4
   rfm_lab:
     map:
       play: 3
@@ -218,15 +218,15 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 12
+    lock: 11
   rfm_camp:
     map:
-      play: 5
-      version: 3.0.4
+      play: 6
+      version: 4.0.0
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 2
+    lock: 19
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 14
+    lock: 13
     graveyard:
       check: false
       version: 2.0.0
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 19
+          lock: 18
   yussans_memory:
     map:
       play: 3
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 18
+    lock: 17
   core:
     map:
       play: 1
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 10
+    lock: 9
   dq9_sanmarou:
     graveyard:
       check: false
@@ -419,7 +419,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 17
+    lock: 16
   pokemonbw_ancientcastle:
     map:
       play: 3
@@ -443,7 +443,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 3
+    lock: 2
   raimonchu:
     map:
       play: 2
@@ -473,7 +473,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 4
+    lock: 3
   77rooms:
     graveyard:
       check: true
@@ -507,7 +507,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 16
+    lock: 15
   re_rfm_casino:
     map:
       play: 3
@@ -520,12 +520,12 @@ maps:
     map:
       play: 4
       version: 1.1.1
-    lock: 15
+    lock: 14
   splatoon:
     map:
       play: 3
       version: 2.1.1
-    lock: 11
+    lock: 10
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -553,7 +553,7 @@ maps:
     map:
       play: 1
       version: 1.5.1
-    lock: 8
+    lock: 7
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
