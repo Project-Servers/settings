@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 8
+    lock: 7
   huge_library:
     map:
       play: 8
@@ -46,19 +46,19 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 16
+    lock: 15
   kurokan:
     graveyard:
       check: false
       version: 1.0.0
   rfm_cinema:
     map:
-      play: 5
+      play: 6
       version: 2.0.1
     point:
       build: 11.54
       play: 10.98
-    lock: 0
+    lock: 19
   minecraft_port:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 9
+    lock: 8
   dea_la_solitaire:
     map:
       play: 6
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 17
+    lock: 16
   boost_highschool:
     map:
       play: 1
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 15
+    lock: 14
   tousou_city:
     map:
       play: 6
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 7
+    lock: 6
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 14
+    lock: 13
     graveyard:
       check: false
       version: 2.0.0
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 12
+    lock: 11
   game_center:
     map:
       play: 2
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 6
+          lock: 5
   yussans_memory:
     map:
       play: 3
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 5
+    lock: 4
   core:
     map:
       play: 1
@@ -419,7 +419,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 4
+    lock: 3
   pokemonbw_ancientcastle:
     map:
       play: 4
@@ -427,7 +427,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 13
+    lock: 12
   rfm_hospital:
     map:
       play: 5
@@ -435,7 +435,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 19
+    lock: 18
   the_inferno_fortress:
     map:
       play: 7
@@ -499,7 +499,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 18
+    lock: 17
   rfm_university:
     map:
       play: 5
@@ -507,7 +507,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 3
+    lock: 2
   re_rfm_casino:
     map:
       play: 3
@@ -520,7 +520,7 @@ maps:
     map:
       play: 4
       version: 1.1.1
-    lock: 2
+    lock: 1
   splatoon:
     map:
       play: 3
@@ -558,12 +558,12 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 10
+    lock: 9
   pokemone_battlefrontier:
     map:
       play: 1
       version: 1.0.0
-    lock: 11
+    lock: 10
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
