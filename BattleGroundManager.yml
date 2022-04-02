@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 6
+    lock: 5
   calendar:
     map:
       play: 1
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 1
+    lock: 0
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 16
+    lock: 15
   sandbox_city:
     graveyard:
       check: false
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 15
+    lock: 14
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 7
+    lock: 6
   chasefield_blockfort:
     graveyard:
       check: false
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 18
+    lock: 17
   road_station:
     map:
       play: 7
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 11
+    lock: 10
   rfm_lab:
     map:
       play: 4
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 19
+    lock: 18
   game_center:
     map:
       play: 2
@@ -308,7 +308,7 @@ maps:
     point:
       build: 3.15
       play: 3.07
-    lock: 17
+    lock: 16
   ufocatcher:
     map:
       play: 1
@@ -340,7 +340,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 5
+    lock: 4
   rfm_city:
     map:
       play: 6
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 8
+    lock: 7
   dq9_sanmarou:
     graveyard:
       check: false
@@ -443,7 +443,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 3
+    lock: 2
   raimonchu:
     map:
       play: 2
@@ -515,12 +515,12 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 2
+    lock: 1
   rfm_pirupirutune:
     map:
       play: 5
       version: 1.1.1
-    lock: 12
+    lock: 11
   splatoon:
     map:
       play: 3
@@ -533,12 +533,12 @@ maps:
           map:
             play: 2
             version: 1.0.4
-          lock: 13
+          lock: 12
   birthday_cake:
     map:
       play: 3
       version: 2.5.0
-    lock: 9
+    lock: 8
   rfm_prison:
     map:
       play: 2
@@ -558,7 +558,7 @@ maps:
     map:
       play: 2
       version: 1.1.0
-    lock: 10
+    lock: 9
   pokemone_battlefrontier:
     map:
       play: 1
@@ -568,12 +568,17 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 4
+    lock: 3
   gorotukitown:
     map:
       play: 1
       version: 2.0.0
-    lock: 14
+    lock: 13
+  shadow_corridor:
+    map:
+      play: 1
+      version: 1.2.0
+    lock: 20
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
