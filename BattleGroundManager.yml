@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 14
+    lock: 13
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 4
+    lock: 3
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 17
+    lock: 16
   dea_la_solitaire:
     map:
       play: 7
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 19
+    lock: 18
   manmatown:
     map:
       play: 1
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 3
+    lock: 2
   rfm_casino:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 6
+    lock: 5
   road_station:
     map:
       play: 7
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 7
+    lock: 6
   game_center:
     map:
       play: 3
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 16
+    lock: 15
   city1:
     map:
       play: 2
@@ -308,7 +308,7 @@ maps:
     point:
       build: 3.15
       play: 3.07
-    lock: 5
+    lock: 4
   ufocatcher:
     map:
       play: 1
@@ -364,7 +364,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 15
+    lock: 14
   rfm_airport:
     map:
       play: 6
@@ -419,7 +419,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 11
+    lock: 10
   pokemonbw_ancientcastle:
     map:
       play: 4
@@ -451,7 +451,7 @@ maps:
     point:
       build: 3.94
       play: 3.76
-    lock: 13
+    lock: 12
   hand_spinner:
     graveyard:
       check: true
@@ -468,12 +468,12 @@ maps:
       reason: SmallMap,BadPlayability
       version: 1.2.0
     map:
-      play: 4
+      play: 5
       version: 2.0.2
     point:
       build: 3.82
       play: 3.61
-    lock: 0
+    lock: 19
   77rooms:
     graveyard:
       check: true
@@ -525,7 +525,7 @@ maps:
     map:
       play: 4
       version: 2.1.3
-    lock: 11
+    lock: 10
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -533,7 +533,7 @@ maps:
           map:
             play: 2
             version: 1.0.4
-          lock: 1
+          lock: 0
   birthday_cake:
     map:
       play: 3
@@ -543,7 +543,7 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 18
+    lock: 17
   closed_village:
     map:
       play: 1
@@ -563,7 +563,7 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 12
+    lock: 11
   nikko_edo:
     map:
       play: 1
@@ -573,12 +573,12 @@ maps:
     map:
       play: 1
       version: 2.0.0
-    lock: 2
+    lock: 1
   shadow_corridor:
     map:
       play: 1
       version: 1.2.0
-    lock: 9
+    lock: 8
   rfm_city_for_april:
     map:
       play: 1
