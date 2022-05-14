@@ -594,6 +594,11 @@ maps:
       play: 1
       version: 1.0.0
     lock: 20
+  flood_escape_lobby:
+    graveyard:
+      check: true
+      reason: BuildDefect
+      version: 1.0.0
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
