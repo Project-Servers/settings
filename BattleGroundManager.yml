@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 10
+    lock: 9
   huge_library:
     map:
       play: 8
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 3
+    lock: 2
   dea_la_solitaire:
     map:
       play: 7
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 5
+    lock: 4
   manmatown:
     map:
       play: 1
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 20
+    lock: 19
   rfm_casino:
     map:
       play: 1
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 19
+    lock: 18
   golden_week:
     map:
       play: 2
@@ -253,7 +253,7 @@ maps:
     point:
       build: 3.39
       play: 3.1
-    lock: 13
+    lock: 12
   pokemondpt_tobaricity:
     graveyard:
       check: true
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 18
+    lock: 17
   city1:
     map:
       play: 2
@@ -364,7 +364,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 1
+    lock: 0
   rfm_airport:
     map:
       play: 6
@@ -427,7 +427,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 16
+    lock: 15
   rfm_hospital:
     map:
       play: 5
@@ -473,7 +473,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 6
+    lock: 5
   77rooms:
     graveyard:
       check: true
@@ -499,7 +499,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 7
+    lock: 6
   rfm_university:
     map:
       play: 6
@@ -507,7 +507,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 17
+    lock: 16
   re_rfm_casino:
     map:
       play: 4
@@ -533,7 +533,7 @@ maps:
           map:
             play: 3
             version: 1.0.4
-          lock: 14
+          lock: 13
   birthday_cake:
     map:
       play: 3
@@ -543,7 +543,7 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 4
+    lock: 3
   closed_village:
     map:
       play: 1
@@ -568,7 +568,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 8
+    lock: 7
   gorotukitown:
     map:
       play: 1
@@ -593,17 +593,21 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 12
+    lock: 11
   flood_escape_lobby:
     graveyard:
       check: false
       reason: BuildDefect
       version: 1.0.0
+    map:
+      play: 1
+      version: 1.0.0
+    lock: 20
   angel_of_death:
     map:
       play: 1
       version: 1.0.0
-    lock: 15
+    lock: 14
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
