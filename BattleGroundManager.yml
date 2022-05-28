@@ -596,7 +596,7 @@ maps:
     lock: 14
   flood_escape_lobby:
     graveyard:
-      check: true
+      check: false
       reason: BuildDefect
       version: 1.0.0
   angel_of_death:
