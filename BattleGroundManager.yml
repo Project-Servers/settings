@@ -697,3 +697,10 @@ selection:
     '3': across_mall_rfm
     '4': dea_la_solitaire
     '5': defusing_bomb
+  45bef2da-c54c-478a-9421-b3e5812c2e0e:
+    name: Rotosan_R
+    '1': true_lab
+    '2': among_us
+    '3': biohazard7
+    '4': birthday_cake
+    '5': splatoon
