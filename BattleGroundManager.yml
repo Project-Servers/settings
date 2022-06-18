@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 3
+    lock: 2
   huge_library:
     map:
       play: 8
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 13
+    lock: 12
   rfm_casino:
     map:
       play: 1
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 12
+    lock: 11
   golden_week:
     map:
       play: 2
@@ -253,7 +253,7 @@ maps:
     point:
       build: 3.39
       play: 3.1
-    lock: 6
+    lock: 5
   pokemondpt_tobaricity:
     graveyard:
       check: true
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 19
+    lock: 18
   game_center:
     map:
       play: 4
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 11
+    lock: 10
   city1:
     map:
       play: 2
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 16
+          lock: 15
   yussans_memory:
     map:
       play: 3
@@ -335,12 +335,12 @@ maps:
     lock: 0
   the_end:
     map:
-      play: 5
-      version: 4.0.2
+      play: 6
+      version: 4.0.3
     point:
       build: 11.16
       play: 9.73
-    lock: 0
+    lock: 21
   rfm_city:
     map:
       play: 6
@@ -427,7 +427,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 9
+    lock: 8
   rfm_hospital:
     map:
       play: 5
@@ -443,7 +443,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 15
+    lock: 14
   raimonchu:
     map:
       play: 3
@@ -491,7 +491,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 17
+    lock: 16
   cyanine:
     map:
       play: 4
@@ -507,7 +507,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 10
+    lock: 9
   re_rfm_casino:
     map:
       play: 5
@@ -515,7 +515,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 20
+    lock: 19
   rfm_pirupirutune:
     map:
       play: 5
@@ -533,7 +533,7 @@ maps:
           map:
             play: 3
             version: 1.0.4
-          lock: 7
+          lock: 6
   birthday_cake:
     map:
       play: 3
@@ -568,7 +568,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 1
+    lock: 0
   gorotukitown:
     map:
       play: 1
@@ -593,7 +593,7 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 5
+    lock: 4
   flood_escape_lobby:
     graveyard:
       check: false
@@ -602,17 +602,17 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 14
+    lock: 13
   angel_of_death:
     map:
       play: 1
       version: 1.0.0
-    lock: 8
+    lock: 7
   crypt_of_the_necrodancer:
     map:
       play: 1
       version: 1.0.0
-    lock: 21
+    lock: 20
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -697,11 +697,11 @@ selection:
     '4': splatoon
   aac23368-f279-4c75-8e32-25d92b368244:
     name: milatto310
-    '2': kings
-    '1': game_center
-    '3': across_mall_rfm
-    '4': dea_la_solitaire
-    '5': defusing_bomb
+    '1': kings_canyon
+    '2': game_center
+    '3': raimonchu
+    '4': cyanine
+    '5': biohazard7
   45bef2da-c54c-478a-9421-b3e5812c2e0e:
     name: Rotosan_R
     '1': true_lab
