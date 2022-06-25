@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 10
+    lock: 9
   rfm_casino:
     map:
       play: 1
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 9
+    lock: 8
   golden_week:
     map:
       play: 2
@@ -253,7 +253,7 @@ maps:
     point:
       build: 3.39
       play: 3.1
-    lock: 3
+    lock: 2
   pokemondpt_tobaricity:
     graveyard:
       check: true
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 16
+    lock: 15
   game_center:
     map:
       play: 4
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 8
+    lock: 7
   city1:
     map:
       play: 2
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 13
+          lock: 12
   yussans_memory:
     map:
       play: 3
@@ -340,7 +340,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 19
+    lock: 18
   rfm_city:
     map:
       play: 6
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 20
+    lock: 19
   dq9_sanmarou:
     graveyard:
       check: false
@@ -427,7 +427,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 6
+    lock: 5
   rfm_hospital:
     map:
       play: 5
@@ -443,7 +443,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 12
+    lock: 11
   raimonchu:
     map:
       play: 3
@@ -468,12 +468,12 @@ maps:
       reason: SmallMap,BadPlayability
       version: 1.2.0
     map:
-      play: 5
+      play: 6
       version: 2.0.2
     point:
       build: 3.82
       play: 3.61
-    lock: 0
+    lock: 21
   77rooms:
     graveyard:
       check: true
@@ -491,7 +491,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 14
+    lock: 13
   cyanine:
     map:
       play: 4
@@ -507,7 +507,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 7
+    lock: 6
   re_rfm_casino:
     map:
       play: 5
@@ -515,7 +515,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 17
+    lock: 16
   rfm_pirupirutune:
     map:
       play: 5
@@ -533,7 +533,7 @@ maps:
           map:
             play: 3
             version: 1.0.4
-          lock: 4
+          lock: 3
   birthday_cake:
     map:
       play: 3
@@ -573,7 +573,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 21
+    lock: 20
   shadow_corridor:
     map:
       play: 1
@@ -593,7 +593,7 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 2
+    lock: 1
   flood_escape_lobby:
     graveyard:
       check: false
@@ -602,17 +602,17 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 11
+    lock: 10
   angel_of_death:
     map:
       play: 1
       version: 1.0.0
-    lock: 5
+    lock: 4
   crypt_of_the_necrodancer:
     map:
       play: 1
       version: 1.0.0
-    lock: 18
+    lock: 17
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -716,3 +716,6 @@ selection:
     '3': chasefield_blockfort
     '4': minecraft_port
     '5': raimonchu
+  ff2550f8-4285-4c2a-92c7-7f088ef0d265:
+    name: takumit1382
+    '1': flood_escape_lobby
