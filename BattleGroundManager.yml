@@ -627,6 +627,10 @@ maps:
       play: 1
       version: 2.0.0
     lock: 21
+    graveyard:
+      check: true
+      reason: BadPlayability
+      version: 2.0.0
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
