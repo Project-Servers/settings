@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 18
+    lock: 17
   dea_la_solitaire:
     map:
       play: 7
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 1
+    lock: 0
   rfm_casino:
     map:
       play: 1
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 21
+    lock: 20
   boost_highschool:
     map:
       play: 1
@@ -189,12 +189,12 @@ maps:
     lock: 28
   ideal_of_virtual_zone:
     map:
-      play: 4
-      version: 1.0.2
+      play: 5
+      version: 1.0.3
     point:
       build: 3.66
       play: 3.33
-    lock: 0
+    lock: 21
   road_station:
     map:
       play: 8
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 20
+    lock: 19
   rfm_lab:
     map:
       play: 5
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 16
+    lock: 15
   tousou_city:
     map:
       play: 7
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 19
+    lock: 18
   rfm_camp:
     map:
       play: 7
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 7
+    lock: 6
   game_center:
     map:
       play: 4
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 4
+          lock: 3
   yussans_memory:
     map:
       play: 3
@@ -340,7 +340,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 10
+    lock: 9
   rfm_city:
     map:
       play: 6
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 11
+    lock: 10
   dq9_sanmarou:
     graveyard:
       check: false
@@ -447,7 +447,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 3
+    lock: 2
   raimonchu:
     map:
       play: 3
@@ -477,7 +477,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 13
+    lock: 12
   77rooms:
     graveyard:
       check: true
@@ -495,7 +495,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 5
+    lock: 4
   cyanine:
     map:
       play: 4
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 8
+    lock: 7
   rfm_pirupirutune:
     map:
       play: 5
@@ -577,7 +577,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 12
+    lock: 11
   shadow_corridor:
     map:
       play: 1
@@ -597,7 +597,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 15
+    lock: 14
   flood_escape_lobby:
     graveyard:
       check: false
@@ -606,7 +606,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 17
+    lock: 16
   angel_of_death:
     map:
       play: 1
@@ -616,12 +616,12 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 9
+    lock: 8
   shotdownmoon:
     map:
       play: 1
       version: 2.0.0
-    lock: 14
+    lock: 13
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -652,6 +652,7 @@ selection:
     '2': rfm_pirupirutune
     '3': retreat_shrine
     '4': ideal_of_virtual_zone
+    lock: 11
   1ea382a9-7ba3-4ab6-85ee-5df5f7c6af18:
     name: Takashing_1185
     lock: 0
