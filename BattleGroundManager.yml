@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 9
+    lock: 8
   dea_la_solitaire:
     map:
       play: 8
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 18
+    lock: 17
   manmatown:
     map:
       play: 1
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 12
+    lock: 11
   boost_highschool:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 13
+    lock: 12
   road_station:
     map:
       play: 8
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 11
+    lock: 10
   rfm_lab:
     map:
       play: 5
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 7
+    lock: 6
   tousou_city:
     map:
       play: 7
@@ -218,15 +218,15 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 10
+    lock: 9
   rfm_camp:
     map:
-      play: 7
+      play: 8
       version: 4.0.0
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 0
+    lock: 23
   golden_week:
     map:
       play: 2
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 14
+    lock: 13
   city1:
     map:
       play: 2
@@ -340,7 +340,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 1
+    lock: 0
   rfm_city:
     map:
       play: 6
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 2
+    lock: 1
   dq9_sanmarou:
     graveyard:
       check: false
@@ -439,7 +439,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 19
+    lock: 18
   the_inferno_fortress:
     map:
       play: 9
@@ -477,7 +477,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 4
+    lock: 3
   77rooms:
     graveyard:
       check: true
@@ -577,7 +577,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 3
+    lock: 2
   shadow_corridor:
     map:
       play: 1
@@ -597,7 +597,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 6
+    lock: 5
   flood_escape_lobby:
     graveyard:
       check: false
@@ -606,7 +606,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 8
+    lock: 7
   angel_of_death:
     map:
       play: 1
@@ -621,12 +621,12 @@ maps:
     map:
       play: 1
       version: 2.0.0
-    lock: 5
+    lock: 4
   1chank_building:
     map:
       play: 1
       version: 2.0.0
-    lock: 15
+    lock: 14
     graveyard:
       check: true
       reason: BadPlayability
@@ -635,22 +635,22 @@ maps:
     map:
       play: 1
       version: 1.2.0
-    lock: 20
+    lock: 19
   azuchicastle:
     map:
       play: 1
       version: 1.0.1
-    lock: 21
+    lock: 20
   area02:
     map:
       play: 1
       version: 1.1.0
-    lock: 22
+    lock: 21
   cso_series:
     map:
       play: 1
       version: 1.0.0
-    lock: 23
+    lock: 22
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -681,10 +681,10 @@ selection:
     '2': rfm_pirupirutune
     '3': retreat_shrine
     '4': ideal_of_virtual_zone
-    lock: 3
+    lock: 2
   1ea382a9-7ba3-4ab6-85ee-5df5f7c6af18:
     name: Takashing_1185
-    lock: 0
+    lock: 11
     '1': true_lab
     '2': rfm_camp
     '3': minecraft_museum
@@ -709,7 +709,7 @@ selection:
     '1': among_us
     '2': rfm_city
     '3': rfm_shopping_mall
-    '4': road_station
+    '4': theme_park
     '5': rfm_prison
     lock: 0
   80940099-8aa8-4873-9b55-ef90aa31408d:
@@ -723,7 +723,7 @@ selection:
     name: minomino85
     '1': mgsgz_u.s.naval_prison_facility.cuba
     '2': minecraft_port
-    '3': rfm_city
+    '3': theme_park
     '4': rfm_shopping_mall
     '5': across_mall_rfm
     lock: 0
