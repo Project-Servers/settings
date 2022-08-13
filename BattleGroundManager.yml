@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 21
+    lock: 20
   kurokan:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 4
+    lock: 3
   dea_la_solitaire:
     map:
       play: 8
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 13
+    lock: 12
   manmatown:
     map:
       play: 1
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 7
+    lock: 6
   boost_highschool:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 8
+    lock: 7
   road_station:
     map:
       play: 8
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 6
+    lock: 5
   rfm_lab:
     map:
       play: 5
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 2
+    lock: 1
   tousou_city:
     map:
       play: 7
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 5
+    lock: 4
   rfm_camp:
     map:
       play: 8
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 19
+    lock: 18
   golden_week:
     map:
       play: 2
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 9
+    lock: 8
   city1:
     map:
       play: 2
@@ -439,7 +439,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 14
+    lock: 13
   the_inferno_fortress:
     map:
       play: 9
@@ -537,7 +537,7 @@ maps:
           map:
             play: 4
             version: 1.1.0
-          lock: 22
+          lock: 21
   birthday_cake:
     map:
       play: 3
@@ -545,9 +545,9 @@ maps:
     lock: 0
   rfm_prison:
     map:
-      play: 3
+      play: 4
       version: 1.1.0
-    lock: 0
+    lock: 23
   closed_village:
     map:
       play: 1
@@ -562,7 +562,7 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 23
+    lock: 22
   pokemone_battlefrontier:
     map:
       play: 2
@@ -597,7 +597,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 1
+    lock: 0
   flood_escape_lobby:
     graveyard:
       check: false
@@ -606,7 +606,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 3
+    lock: 2
   angel_of_death:
     map:
       play: 1
@@ -626,7 +626,7 @@ maps:
     map:
       play: 1
       version: 2.0.0
-    lock: 10
+    lock: 9
     graveyard:
       check: true
       reason: BadPlayability
@@ -635,27 +635,27 @@ maps:
     map:
       play: 1
       version: 1.2.0
-    lock: 15
+    lock: 14
   azuchicastle:
     map:
       play: 1
       version: 1.0.1
-    lock: 16
+    lock: 15
   area02:
     map:
       play: 1
       version: 1.1.0
-    lock: 17
+    lock: 16
   cso_series:
     map:
       play: 1
       version: 1.0.0
-    lock: 18
+    lock: 17
   bigtown:
     map:
       play: 1
       version: 1.1.0
-    lock: 20
+    lock: 19
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -689,7 +689,7 @@ selection:
     lock: 0
   1ea382a9-7ba3-4ab6-85ee-5df5f7c6af18:
     name: Takashing_1185
-    lock: 7
+    lock: 6
     '1': true_lab
     '2': rfm_camp
     '3': minecraft_museum
