@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 19
+    lock: 18
   calendar:
     map:
       play: 1
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 9
+    lock: 8
   kurokan:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 15
+    lock: 14
   dea_la_solitaire:
     map:
       play: 8
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 1
+    lock: 0
   manmatown:
     map:
       play: 1
@@ -178,7 +178,7 @@ maps:
     point:
       build: 3.47
       play: 3.5
-    lock: 21
+    lock: 20
   stasi:
     map:
       play: 1
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 7
+    lock: 6
   golden_week:
     map:
       play: 2
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 18
+    lock: 17
   game_center:
     map:
       play: 5
@@ -287,12 +287,12 @@ maps:
       d:
         _raccoonpolicedepartment:
           map:
-            play: 4
+            play: 5
             version: 2.2.0
           point:
             build: 3.6
             play: 3.57
-          lock: 0
+          lock: 23
   yussans_memory:
     map:
       play: 3
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 997
+    lock: 996
   core:
     map:
       play: 1
@@ -439,7 +439,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 2
+    lock: 1
   the_inferno_fortress:
     map:
       play: 10
@@ -447,7 +447,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 23
+    lock: 22
   raimonchu:
     map:
       play: 3
@@ -477,7 +477,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 16
+    lock: 15
   77rooms:
     graveyard:
       check: true
@@ -524,7 +524,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 20
+    lock: 19
   splatoon:
     map:
       play: 4
@@ -537,7 +537,7 @@ maps:
           map:
             play: 4
             version: 1.1.0
-          lock: 10
+          lock: 9
   birthday_cake:
     map:
       play: 3
@@ -547,7 +547,7 @@ maps:
     map:
       play: 4
       version: 1.1.0
-    lock: 12
+    lock: 11
   closed_village:
     map:
       play: 1
@@ -562,7 +562,7 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 11
+    lock: 10
   pokemone_battlefrontier:
     map:
       play: 2
@@ -606,12 +606,12 @@ maps:
     map:
       play: 3
       version: 2.0.0
-    lock: 22
+    lock: 21
   angel_of_death:
     map:
       play: 2
       version: 1.1.0
-    lock: 13
+    lock: 12
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -635,37 +635,37 @@ maps:
     map:
       play: 1
       version: 1.2.0
-    lock: 3
+    lock: 2
   azuchicastle:
     map:
       play: 1
       version: 1.0.1
-    lock: 4
+    lock: 3
   area02:
     map:
       play: 1
       version: 1.1.0
-    lock: 5
+    lock: 4
   cso_series:
     map:
       play: 1
       version: 1.0.0
-    lock: 6
+    lock: 5
   bigtown:
     map:
       play: 1
       version: 1.1.0
-    lock: 8
+    lock: 7
   oba_q-town:
     map:
       play: 1
       version: 1.0.1
-    lock: 14
+    lock: 13
   theme_park:
     map:
       play: 1
       version: 1.0.1
-    lock: 17
+    lock: 16
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -722,7 +722,7 @@ selection:
     '3': rfm_shopping_mall
     '4': theme_park
     '5': rfm_prison
-    lock: 5
+    lock: 4
   80940099-8aa8-4873-9b55-ef90aa31408d:
     name: reokunchan
     '1': rfm_hospital
