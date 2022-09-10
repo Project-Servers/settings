@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 0
+    lock: 999
   core:
     map:
       play: 1
