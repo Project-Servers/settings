@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 8
+    lock: 7
   calendar:
     map:
       play: 1
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 22
+    lock: 21
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 4
+    lock: 3
   dea_la_solitaire:
     map:
       play: 9
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 19
+    lock: 18
   manmatown:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 16
+    lock: 15
   chasefield_blockfort:
     graveyard:
       check: false
@@ -178,7 +178,7 @@ maps:
     point:
       build: 3.47
       play: 3.5
-    lock: 10
+    lock: 9
   stasi:
     map:
       play: 1
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 14
+    lock: 13
   rfm_lab:
     map:
       play: 6
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 18
+    lock: 17
   tousou_city:
     map:
       play: 8
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 21
+    lock: 20
   rfm_camp:
     map:
       play: 8
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 20
+    lock: 19
     graveyard:
       check: false
       version: 2.0.0
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 7
+    lock: 6
   game_center:
     map:
       play: 5
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 13
+          lock: 12
   yussans_memory:
     map:
       play: 3
@@ -327,12 +327,12 @@ maps:
     lock: 0
   from_discord_zatudan:
     map:
-      play: 5
-      version: 2.0.0
+      play: 6
+      version: 2.0.1
     point:
       build: 15.06
       play: 15.08
-    lock: 0
+    lock: 23
   the_end:
     map:
       play: 6
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 986
+    lock: 985
   core:
     map:
       play: 1
@@ -447,7 +447,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 12
+    lock: 11
   raimonchu:
     map:
       play: 3
@@ -477,7 +477,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 5
+    lock: 4
   77rooms:
     graveyard:
       check: true
@@ -503,7 +503,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 15
+    lock: 14
   rfm_university:
     map:
       play: 6
@@ -524,7 +524,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 9
+    lock: 8
   splatoon:
     map:
       play: 4
@@ -547,7 +547,7 @@ maps:
     map:
       play: 4
       version: 1.1.0
-    lock: 1
+    lock: 0
   closed_village:
     map:
       play: 1
@@ -567,7 +567,7 @@ maps:
     map:
       play: 3
       version: 1.0.1
-    lock: 23
+    lock: 22
   nikko_edo:
     map:
       play: 2
@@ -597,7 +597,7 @@ maps:
     map:
       play: 3
       version: 1.0.1
-    lock: 17
+    lock: 16
   flood_escape_lobby:
     graveyard:
       check: false
@@ -606,12 +606,12 @@ maps:
     map:
       play: 3
       version: 2.0.0
-    lock: 11
+    lock: 10
   angel_of_death:
     map:
       play: 2
       version: 1.1.0
-    lock: 2
+    lock: 1
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -660,12 +660,12 @@ maps:
     map:
       play: 1
       version: 1.0.1
-    lock: 3
+    lock: 2
   theme_park:
     map:
       play: 1
       version: 1.0.1
-    lock: 6
+    lock: 5
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -696,7 +696,7 @@ selection:
     '2': rfm_pirupirutune
     '3': retreat_shrine
     '4': ideal_of_virtual_zone
-    lock: 8
+    lock: 7
   1ea382a9-7ba3-4ab6-85ee-5df5f7c6af18:
     name: Takashing_1185
     lock: 0
