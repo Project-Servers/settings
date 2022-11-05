@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 22
+    lock: 21
   forest_house:
     map:
       play: 8
@@ -53,12 +53,12 @@ maps:
       version: 1.0.0
   rfm_cinema:
     map:
-      play: 7
+      play: 8
       version: 2.0.1
     point:
       build: 11.54
       play: 10.98
-    lock: 0
+    lock: 23
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 10
+    lock: 9
   sandbox_city:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 7
+    lock: 6
   manmatown:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 4
+    lock: 3
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 2
+    lock: 1
   rfm_lab:
     map:
       play: 6
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 6
+    lock: 5
   tousou_city:
     map:
       play: 8
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 9
+    lock: 8
   rfm_camp:
     map:
       play: 9
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 23
+    lock: 22
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 8
+    lock: 7
     graveyard:
       check: false
       version: 2.0.0
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 13
+    lock: 12
   game_center:
     map:
       play: 5
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 1
+          lock: 0
   yussans_memory:
     map:
       play: 4
@@ -300,7 +300,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 18
+    lock: 17
   thinking:
     map:
       play: 2
@@ -332,7 +332,7 @@ maps:
     point:
       build: 15.06
       play: 15.08
-    lock: 12
+    lock: 11
   the_end:
     map:
       play: 6
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 974
+    lock: 973
   core:
     map:
       play: 1
@@ -383,7 +383,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 14
+    lock: 13
   kurikuryokan:
     map:
       play: 2
@@ -495,7 +495,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 20
+    lock: 19
   cyanine:
     map:
       play: 5
@@ -503,7 +503,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 3
+    lock: 2
   rfm_university:
     map:
       play: 6
@@ -529,7 +529,7 @@ maps:
     map:
       play: 5
       version: 2.1.4
-    lock: 19
+    lock: 18
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -567,7 +567,7 @@ maps:
     map:
       play: 3
       version: 1.0.1
-    lock: 11
+    lock: 10
   nikko_edo:
     map:
       play: 2
@@ -582,7 +582,7 @@ maps:
     map:
       play: 2
       version: 1.2.0
-    lock: 17
+    lock: 16
   rfm_city_for_april:
     map:
       play: 1
@@ -597,7 +597,7 @@ maps:
     map:
       play: 3
       version: 1.0.1
-    lock: 5
+    lock: 4
   flood_escape_lobby:
     graveyard:
       check: false
@@ -635,7 +635,7 @@ maps:
     map:
       play: 2
       version: 1.2.0
-    lock: 16
+    lock: 15
   azuchicastle:
     map:
       play: 1
@@ -650,7 +650,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 15
+    lock: 14
   bigtown:
     map:
       play: 1
@@ -670,7 +670,7 @@ maps:
     map:
       play: 1
       version: 1.0.1
-    lock: 21
+    lock: 20
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
