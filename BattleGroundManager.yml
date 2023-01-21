@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 2
+    lock: 1
   forest_house:
     map:
       play: 9
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 8
+    lock: 7
   huge_library:
     map:
       play: 10
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 5
+    lock: 4
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 4
+    lock: 3
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 22
+    lock: 21
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 7
+    lock: 6
   dea_la_solitaire:
     map:
       play: 10
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 20
+    lock: 19
   manmatown:
     map:
       play: 1
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 6
+    lock: 5
   infinite_corridor:
     map:
       play: 2
@@ -120,7 +120,7 @@ maps:
     point:
       build: 3.41
       play: 3.33
-    lock: 18
+    lock: 17
   dark_sewer:
     map:
       play: 7
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 23
+    lock: 22
   chasefield_blockfort:
     graveyard:
       check: false
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 15
+    lock: 14
   road_station:
     map:
       play: 10
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 16
+    lock: 15
   rfm_lab:
     map:
       play: 6
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 3
+    lock: 2
   golden_week:
     map:
       play: 2
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 13
+    lock: 12
   city1:
     map:
       play: 2
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 21
+    lock: 20
   core:
     map:
       play: 1
@@ -372,7 +372,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 9
+    lock: 8
   dq9_sanmarou:
     graveyard:
       check: false
@@ -423,7 +423,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 12
+    lock: 11
   pokemonbw_ancientcastle:
     map:
       play: 5
@@ -477,7 +477,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 19
+    lock: 18
   77rooms:
     graveyard:
       check: true
@@ -511,7 +511,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 17
+    lock: 16
   re_rfm_casino:
     map:
       play: 6
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 11
+    lock: 10
   rfm_pirupirutune:
     map:
       play: 6
@@ -577,7 +577,7 @@ maps:
     map:
       play: 3
       version: 2.1.0
-    lock: 14
+    lock: 13
   shadow_corridor:
     map:
       play: 2
@@ -595,9 +595,9 @@ maps:
     lock: 19
   across_mall_rfm:
     map:
-      play: 3
-      version: 1.0.1
-    lock: 0
+      play: 4
+      version: 1.1.0
+    lock: 23
   flood_escape_lobby:
     graveyard:
       check: false
@@ -670,12 +670,12 @@ maps:
     map:
       play: 1
       version: 1.0.1
-    lock: 1
+    lock: 0
   wonder_world:
     map:
       play: 1
       version: 1.0.1
-    lock: 10
+    lock: 9
   siro_arinosumisu:
     graveyard:
       check: true
@@ -719,7 +719,7 @@ selection:
     lock: 0
   1ea382a9-7ba3-4ab6-85ee-5df5f7c6af18:
     name: Takashing_1185
-    lock: 8
+    lock: 7
     '1': true_lab
     '2': rfm_camp
     '3': minecraft_museum
