@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 21
+    lock: 20
   calendar:
     map:
       play: 1
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 19
+    lock: 18
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 15
+    lock: 14
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 10
+    lock: 9
   sandbox_city:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 8
+    lock: 7
   manmatown:
     map:
       play: 1
@@ -120,7 +120,7 @@ maps:
     point:
       build: 3.41
       play: 3.33
-    lock: 6
+    lock: 5
   dark_sewer:
     map:
       play: 7
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 11
+    lock: 10
   chasefield_blockfort:
     graveyard:
       check: false
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 17
+    lock: 16
   boost_highschool:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 3
+    lock: 2
   road_station:
     map:
       play: 10
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 4
+    lock: 3
   rfm_lab:
     map:
       play: 6
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 20
+    lock: 19
   golden_week:
     map:
       play: 2
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 1
+    lock: 0
   city1:
     map:
       play: 2
@@ -348,7 +348,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 9
+    lock: 8
   core:
     map:
       play: 2
@@ -356,7 +356,7 @@ maps:
     point:
       build: 3.53
       play: 3.23
-    lock: 13
+    lock: 12
   apartment:
     map:
       play: 3
@@ -439,7 +439,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 14
+    lock: 13
   the_inferno_fortress:
     map:
       play: 11
@@ -447,7 +447,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 18
+    lock: 17
   raimonchu:
     map:
       play: 3
@@ -477,7 +477,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 7
+    lock: 6
   77rooms:
     graveyard:
       check: true
@@ -511,7 +511,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 5
+    lock: 4
   re_rfm_casino:
     map:
       play: 6
@@ -560,9 +560,9 @@ maps:
     lock: 0
   patchwork_world:
     map:
-      play: 3
+      play: 4
       version: 1.1.0
-    lock: 0
+    lock: 23
   pokemone_battlefrontier:
     map:
       play: 3
@@ -577,7 +577,7 @@ maps:
     map:
       play: 3
       version: 2.1.0
-    lock: 2
+    lock: 1
   shadow_corridor:
     map:
       play: 2
@@ -597,7 +597,7 @@ maps:
     map:
       play: 4
       version: 1.1.0
-    lock: 12
+    lock: 11
   flood_escape_lobby:
     graveyard:
       check: false
@@ -635,7 +635,7 @@ maps:
     map:
       play: 3
       version: 1.2.0
-    lock: 23
+    lock: 22
   azuchicastle:
     map:
       play: 1
@@ -670,7 +670,7 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 16
+    lock: 15
   wonder_world:
     map:
       play: 1
@@ -690,7 +690,7 @@ maps:
     map:
       play: 1
       version: 1.1.1
-    lock: 22
+    lock: 21
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
