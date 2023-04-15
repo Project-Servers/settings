@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 5
+    lock: 4
   huge_library:
     map:
       play: 11
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 21
+    lock: 20
   manmatown:
     map:
       play: 1
@@ -104,7 +104,7 @@ maps:
     point:
       build: 7.08
       play: 6.220000000000001
-    lock: 16
+    lock: 15
   true_lab:
     map:
       play: 6
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 22
+    lock: 21
   infinite_corridor:
     map:
       play: 2
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 6
+    lock: 5
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 8
+    lock: 7
   rfm_lab:
     map:
       play: 6
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 11
+          lock: 10
   yussans_memory:
     map:
       play: 4
@@ -316,7 +316,7 @@ maps:
     point:
       build: 3.61
       play: 2.92
-    lock: 13
+    lock: 12
     graveyard:
       check: true
       reason: BadPlayability
@@ -499,7 +499,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 17
+    lock: 16
   cyanine:
     map:
       play: 6
@@ -507,7 +507,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 12
+    lock: 11
   rfm_university:
     map:
       play: 7
@@ -523,7 +523,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 20
+    lock: 19
   rfm_pirupirutune:
     map:
       play: 6
@@ -551,7 +551,7 @@ maps:
     map:
       play: 5
       version: 1.1.0
-    lock: 7
+    lock: 6
   closed_village:
     map:
       play: 1
@@ -566,7 +566,7 @@ maps:
     map:
       play: 5
       version: 1.1.0
-    lock: 10
+    lock: 9
   pokemone_battlefrontier:
     map:
       play: 3
@@ -576,7 +576,7 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 23
+    lock: 22
   gorotukitown:
     map:
       play: 3
@@ -584,9 +584,9 @@ maps:
     lock: 0
   shadow_corridor:
     map:
-      play: 2
+      play: 3
       version: 1.2.0
-    lock: 0
+    lock: 23
   rfm_city_for_april:
     map:
       play: 1
@@ -601,7 +601,7 @@ maps:
     map:
       play: 5
       version: 1.1.0
-    lock: 4
+    lock: 3
   flood_escape_lobby:
     graveyard:
       check: false
@@ -615,7 +615,7 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 15
+    lock: 14
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -625,7 +625,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 14
+    lock: 13
   1chank_building:
     map:
       play: 1
@@ -639,7 +639,7 @@ maps:
     map:
       play: 3
       version: 1.2.0
-    lock: 1
+    lock: 0
   azuchicastle:
     map:
       play: 1
@@ -649,7 +649,7 @@ maps:
     map:
       play: 2
       version: 1.2.0
-    lock: 9
+    lock: 8
   cso_series:
     map:
       play: 2
@@ -659,7 +659,7 @@ maps:
     map:
       play: 2
       version: 1.1.0
-    lock: 3
+    lock: 2
   oba_q-town:
     map:
       play: 1
@@ -679,7 +679,7 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 18
+    lock: 17
   siro_arinosumisu:
     graveyard:
       check: true
