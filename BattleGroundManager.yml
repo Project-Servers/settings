@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 8
+    lock: 7
   calendar:
     map:
       play: 1
@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 9
+    lock: 8
   forest_house:
     map:
       play: 11
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 13
+    lock: 12
   huge_library:
     map:
       play: 12
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 21
+    lock: 20
   kurokan:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 23
+    lock: 22
   dea_la_solitaire:
     map:
       play: 11
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 1
+    lock: 0
   infinite_corridor:
     map:
       play: 2
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 12
+    lock: 11
   rfm_lab:
     map:
       play: 6
@@ -218,15 +218,15 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 15
+    lock: 14
   rfm_camp:
     map:
-      play: 10
-      version: 4.0.0
+      play: 11
+      version: 4.0.1
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 0
+    lock: 23
   golden_week:
     map:
       play: 2
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 10
+    lock: 9
   game_center:
     map:
       play: 6
@@ -407,7 +407,7 @@ maps:
     point:
       build: 3.23
       play: 2.84
-    lock: 20
+    lock: 19
     graveyard:
       check: true
       reason: BadPlayability
@@ -431,7 +431,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 4
+    lock: 3
   pokemonbw_ancientcastle:
     map:
       play: 5
@@ -485,7 +485,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 5
+    lock: 4
   77rooms:
     graveyard:
       check: true
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 14
+    lock: 13
   re_rfm_casino:
     map:
       play: 7
@@ -560,7 +560,7 @@ maps:
     map:
       play: 2
       version: 1.3.0
-    lock: 7
+    lock: 6
   pokemondpt_mt_tengan:
     map:
       play: 1
@@ -580,7 +580,7 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 2
+    lock: 1
   gorotukitown:
     map:
       play: 3
@@ -590,7 +590,7 @@ maps:
     map:
       play: 3
       version: 1.2.0
-    lock: 3
+    lock: 2
   rfm_city_for_april:
     map:
       play: 1
@@ -614,7 +614,7 @@ maps:
     map:
       play: 4
       version: 2.0.0
-    lock: 11
+    lock: 10
   angel_of_death:
     map:
       play: 3
@@ -643,12 +643,12 @@ maps:
     map:
       play: 4
       version: 1.2.1
-    lock: 19
+    lock: 18
   azuchicastle:
     map:
       play: 2
       version: 1.0.2
-    lock: 16
+    lock: 15
   area02:
     map:
       play: 2
@@ -663,7 +663,7 @@ maps:
     map:
       play: 3
       version: 1.1.1
-    lock: 17
+    lock: 16
   oba_q-town:
     map:
       play: 1
@@ -673,7 +673,7 @@ maps:
     map:
       play: 2
       version: 1.0.3
-    lock: 18
+    lock: 17
   kings_canyon:
     map:
       play: 2
@@ -698,7 +698,7 @@ maps:
     map:
       play: 2
       version: 1.1.2
-    lock: 22
+    lock: 21
   cso_gressia:
     graveyard:
       check: true
@@ -713,7 +713,7 @@ maps:
     map:
       play: 1
       version: 1.2.0
-    lock: 6
+    lock: 5
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
