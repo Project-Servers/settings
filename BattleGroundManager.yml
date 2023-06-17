@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 4
+    lock: 3
   calendar:
     map:
       play: 1
@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 5
+    lock: 4
   forest_house:
     map:
       play: 11
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 9
+    lock: 8
   huge_library:
     map:
       play: 12
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 17
+    lock: 16
   kurokan:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 21
+    lock: 20
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 19
+    lock: 18
   dea_la_solitaire:
     map:
       play: 11
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 8
+    lock: 7
   rfm_lab:
     map:
       play: 6
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 11
+    lock: 10
   rfm_camp:
     map:
       play: 11
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 20
+    lock: 19
   golden_week:
     map:
       play: 2
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 6
+    lock: 5
   game_center:
     map:
       play: 6
@@ -287,12 +287,12 @@ maps:
       d:
         _raccoonpolicedepartment:
           map:
-            play: 6
-            version: 2.2.0
+            play: 7
+            version: 2.2.1
           point:
             build: 3.6
             play: 3.57
-          lock: 0
+          lock: 23
   yussans_memory:
     map:
       play: 4
@@ -387,7 +387,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 22
+    lock: 21
   kurikuryokan:
     map:
       play: 2
@@ -407,7 +407,7 @@ maps:
     point:
       build: 3.23
       play: 2.84
-    lock: 16
+    lock: 15
     graveyard:
       check: true
       reason: BadPlayability
@@ -485,7 +485,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 1
+    lock: 0
   77rooms:
     graveyard:
       check: true
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 10
+    lock: 9
   re_rfm_casino:
     map:
       play: 7
@@ -560,7 +560,7 @@ maps:
     map:
       play: 2
       version: 1.3.0
-    lock: 3
+    lock: 2
   pokemondpt_mt_tengan:
     map:
       play: 1
@@ -605,7 +605,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 23
+    lock: 22
   flood_escape_lobby:
     graveyard:
       check: false
@@ -614,7 +614,7 @@ maps:
     map:
       play: 4
       version: 2.0.0
-    lock: 7
+    lock: 6
   angel_of_death:
     map:
       play: 3
@@ -643,12 +643,12 @@ maps:
     map:
       play: 4
       version: 1.2.1
-    lock: 15
+    lock: 14
   azuchicastle:
     map:
       play: 2
       version: 1.0.2
-    lock: 12
+    lock: 11
   area02:
     map:
       play: 2
@@ -663,7 +663,7 @@ maps:
     map:
       play: 3
       version: 1.1.1
-    lock: 13
+    lock: 12
   oba_q-town:
     map:
       play: 1
@@ -673,7 +673,7 @@ maps:
     map:
       play: 2
       version: 1.0.3
-    lock: 14
+    lock: 13
   kings_canyon:
     map:
       play: 2
@@ -698,7 +698,7 @@ maps:
     map:
       play: 2
       version: 1.1.2
-    lock: 18
+    lock: 17
   cso_gressia:
     graveyard:
       check: true
@@ -713,7 +713,7 @@ maps:
     map:
       play: 1
       version: 1.2.0
-    lock: 2
+    lock: 1
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -813,7 +813,7 @@ selection:
     '3': chasefield_blockfort
     '4': minecraft_port
     '5': raimonchu
-    lock: 9
+    lock: 8
   ff2550f8-4285-4c2a-92c7-7f088ef0d265:
     name: takumit1382
     '1': flood_escape_lobby
