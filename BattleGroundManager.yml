@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 7
+    lock: 6
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 16
+    lock: 15
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 11
+    lock: 10
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 9
+    lock: 8
   dea_la_solitaire:
     map:
       play: 12
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 17
+    lock: 16
   manmatown:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 20
+    lock: 19
   chasefield_blockfort:
     graveyard:
       check: false
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 1
+    lock: 0
   rfm_camp:
     map:
       play: 11
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 10
+    lock: 9
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 21
+    lock: 20
     graveyard:
       check: false
       version: 2.0.0
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 14
+          lock: 13
   yussans_memory:
     map:
       play: 4
@@ -387,7 +387,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 12
+    lock: 11
   kurikuryokan:
     map:
       play: 2
@@ -407,7 +407,7 @@ maps:
     point:
       build: 3.23
       play: 2.84
-    lock: 6
+    lock: 5
     graveyard:
       check: true
       reason: BadPlayability
@@ -485,7 +485,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 19
+    lock: 18
   77rooms:
     graveyard:
       check: true
@@ -550,7 +550,7 @@ maps:
     map:
       play: 4
       version: 2.6.0
-    lock: 22
+    lock: 21
   rfm_prison:
     map:
       play: 5
@@ -570,7 +570,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 23
+    lock: 22
   pokemone_battlefrontier:
     map:
       play: 3
@@ -605,7 +605,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 13
+    lock: 12
   flood_escape_lobby:
     graveyard:
       check: false
@@ -643,12 +643,12 @@ maps:
     map:
       play: 5
       version: 2.0.0
-    lock: 15
+    lock: 14
   azuchicastle:
     map:
       play: 2
       version: 1.0.2
-    lock: 2
+    lock: 1
   area02:
     map:
       play: 2
@@ -663,17 +663,17 @@ maps:
     map:
       play: 3
       version: 1.1.1
-    lock: 3
+    lock: 2
   oba_q-town:
     map:
-      play: 1
-      version: 1.0.1
-    lock: 0
+      play: 2
+      version: 1.0.3
+    lock: 23
   theme_park:
     map:
       play: 2
       version: 1.0.3
-    lock: 4
+    lock: 3
   kings_canyon:
     map:
       play: 2
@@ -698,7 +698,7 @@ maps:
     map:
       play: 2
       version: 1.1.2
-    lock: 8
+    lock: 7
   cso_gressia:
     graveyard:
       check: true
