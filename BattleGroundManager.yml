@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 23
+    lock: 22
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 11
+    lock: 10
   minecraft_port:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 9
+    lock: 8
   manmatown:
     map:
       play: 1
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 3
+    lock: 2
   rfm_lab:
     map:
       play: 6
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 14
+    lock: 13
   golden_week:
     map:
       play: 2
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 1
+    lock: 0
   city1:
     map:
       play: 2
@@ -352,7 +352,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 2
+    lock: 1
   core:
     map:
       play: 3
@@ -360,7 +360,7 @@ maps:
     point:
       build: 3.53
       play: 3.23
-    lock: 13
+    lock: 12
   apartment:
     map:
       play: 3
@@ -376,7 +376,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 18
+    lock: 17
   dq9_sanmarou:
     graveyard:
       check: false
@@ -480,12 +480,12 @@ maps:
       reason: SmallMap,BadPlayability
       version: 1.2.0
     map:
-      play: 10
+      play: 11
       version: 2.0.3
     point:
       build: 3.82
       play: 3.61
-    lock: 0
+    lock: 24
   77rooms:
     graveyard:
       check: true
@@ -503,7 +503,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 10
+    lock: 9
   cyanine:
     map:
       play: 7
@@ -511,7 +511,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 6
+    lock: 5
   rfm_university:
     map:
       play: 8
@@ -527,17 +527,17 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 5
+    lock: 4
   rfm_pirupirutune:
     map:
       play: 7
       version: 1.1.2
-    lock: 7
+    lock: 6
   splatoon:
     map:
       play: 6
       version: 2.1.4
-    lock: 12
+    lock: 11
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -555,7 +555,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 20
+    lock: 19
   closed_village:
     map:
       play: 2
@@ -605,7 +605,7 @@ maps:
     map:
       play: 7
       version: 1.1.1
-    lock: 8
+    lock: 7
   flood_escape_lobby:
     graveyard:
       check: false
@@ -619,7 +619,7 @@ maps:
     map:
       play: 4
       version: 1.1.1
-    lock: 24
+    lock: 23
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -629,7 +629,7 @@ maps:
     map:
       play: 3
       version: 2.0.1
-    lock: 19
+    lock: 18
   1chank_building:
     map:
       play: 1
@@ -643,7 +643,7 @@ maps:
     map:
       play: 7
       version: 2.0.0
-    lock: 22
+    lock: 21
   azuchicastle:
     map:
       play: 2
@@ -718,17 +718,17 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 16
+    lock: 15
   mizugoro_island:
     map:
       play: 1
       version: 1.0.0
-    lock: 17
+    lock: 16
   rfm_resort:
     map:
       play: 1
       version: 1.0.0
-    lock: 21
+    lock: 20
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -808,7 +808,7 @@ selection:
     '2': pokemonbw_ancientcastle
     '5': mgsgz_u.s.naval_prison_facility.cuba
     '3': rfm_pirupirutune
-    '4': splatoon
+    '4': kuriku_ryokan
     lock: 0
   aac23368-f279-4c75-8e32-25d92b368244:
     name: milatto310
