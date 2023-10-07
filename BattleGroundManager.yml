@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 16
+    lock: 15
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 4
+    lock: 3
   minecraft_port:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 2
+    lock: 1
   manmatown:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 25
+    lock: 24
   chasefield_blockfort:
     graveyard:
       check: false
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 7
+    lock: 6
   golden_week:
     map:
       play: 2
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 19
+    lock: 18
   game_center:
     map:
       play: 7
@@ -360,7 +360,7 @@ maps:
     point:
       build: 3.53
       play: 3.23
-    lock: 6
+    lock: 5
   apartment:
     map:
       play: 3
@@ -376,7 +376,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 11
+    lock: 10
   dq9_sanmarou:
     graveyard:
       check: false
@@ -485,7 +485,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 18
+    lock: 17
   77rooms:
     graveyard:
       check: true
@@ -503,7 +503,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 3
+    lock: 2
   cyanine:
     map:
       play: 7
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 22
+    lock: 21
   re_rfm_casino:
     map:
       play: 8
@@ -537,7 +537,7 @@ maps:
     map:
       play: 6
       version: 2.1.4
-    lock: 5
+    lock: 4
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -555,7 +555,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 13
+    lock: 12
   closed_village:
     map:
       play: 2
@@ -605,7 +605,7 @@ maps:
     map:
       play: 7
       version: 1.1.1
-    lock: 1
+    lock: 0
   flood_escape_lobby:
     graveyard:
       check: false
@@ -619,7 +619,7 @@ maps:
     map:
       play: 4
       version: 1.1.1
-    lock: 17
+    lock: 16
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -629,7 +629,7 @@ maps:
     map:
       play: 3
       version: 2.0.1
-    lock: 12
+    lock: 11
   1chank_building:
     map:
       play: 1
@@ -643,7 +643,7 @@ maps:
     map:
       play: 7
       version: 2.0.0
-    lock: 15
+    lock: 14
   azuchicastle:
     map:
       play: 2
@@ -651,14 +651,14 @@ maps:
     lock: 0
   area02:
     map:
-      play: 2
-      version: 1.2.0
-    lock: 0
+      play: 3
+      version: 1.1.1
+    lock: 25
   cso_series:
     map:
       play: 3
       version: 1.0.0
-    lock: 21
+    lock: 20
   bigtown:
     map:
       play: 3
@@ -718,27 +718,27 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 9
+    lock: 8
   mizugoro_island:
     map:
       play: 1
       version: 1.0.0
-    lock: 10
+    lock: 9
   rfm_resort:
     map:
       play: 1
       version: 1.0.0
-    lock: 14
+    lock: 13
   kuriku_ryokan:
     map:
       play: 1
       version: 2.0.0
-    lock: 20
+    lock: 19
   spy_rumble:
     map:
       play: 1
       version: 1.0.0
-    lock: 23
+    lock: 22
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
