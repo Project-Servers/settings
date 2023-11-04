@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 20
+    lock: 19
   calendar:
     map:
       play: 1
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 3
+    lock: 2
   kurokan:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 25
+    lock: 24
   sandbox_city:
     graveyard:
       check: false
@@ -83,12 +83,12 @@ maps:
     lock: 0
   dea_la_solitaire:
     map:
-      play: 13
+      play: 14
       version: 2.2.1
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 0
+    lock: 25
   manmatown:
     map:
       play: 1
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 18
+    lock: 17
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 12
+    lock: 11
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 24
+    lock: 23
   rfm_lab:
     map:
       play: 6
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 22
+    lock: 21
   golden_week:
     map:
       play: 2
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 6
+    lock: 5
   game_center:
     map:
       play: 7
@@ -485,7 +485,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 5
+    lock: 4
   77rooms:
     graveyard:
       check: true
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 9
+    lock: 8
   re_rfm_casino:
     map:
       play: 8
@@ -550,7 +550,7 @@ maps:
     map:
       play: 5
       version: 2.6.0
-    lock: 15
+    lock: 14
   rfm_prison:
     map:
       play: 6
@@ -585,7 +585,7 @@ maps:
     map:
       play: 4
       version: 2.2.0
-    lock: 17
+    lock: 16
   shadow_corridor:
     map:
       play: 3
@@ -605,7 +605,7 @@ maps:
     map:
       play: 8
       version: 1.1.1
-    lock: 21
+    lock: 20
   flood_escape_lobby:
     graveyard:
       check: false
@@ -619,7 +619,7 @@ maps:
     map:
       play: 4
       version: 1.1.1
-    lock: 4
+    lock: 3
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -643,7 +643,7 @@ maps:
     map:
       play: 7
       version: 2.0.0
-    lock: 2
+    lock: 1
   azuchicastle:
     map:
       play: 2
@@ -653,17 +653,17 @@ maps:
     map:
       play: 3
       version: 1.1.1
-    lock: 13
+    lock: 12
   cso_series:
     map:
       play: 3
       version: 1.0.0
-    lock: 8
+    lock: 7
   bigtown:
     map:
       play: 4
       version: 1.1.1
-    lock: 19
+    lock: 18
   oba_q-town:
     map:
       play: 2
@@ -698,7 +698,7 @@ maps:
     map:
       play: 3
       version: 1.1.2
-    lock: 16
+    lock: 15
   cso_gressia:
     graveyard:
       check: true
@@ -723,27 +723,27 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 23
+    lock: 22
   rfm_resort:
     map:
       play: 1
       version: 1.0.0
-    lock: 1
+    lock: 0
   kuriku_ryokan:
     map:
       play: 1
       version: 2.0.0
-    lock: 7
+    lock: 6
   spy_rumble:
     map:
       play: 1
       version: 1.0.0
-    lock: 10
+    lock: 9
   silence_mall:
     map:
       play: 1
       version: 1.0.0
-    lock: 14
+    lock: 13
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
