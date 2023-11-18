@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 23
+    lock: 22
   calendar:
     map:
       play: 1
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 19
+    lock: 18
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 22
+    lock: 21
   dea_la_solitaire:
     map:
       play: 14
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 20
+    lock: 19
   manmatown:
     map:
       play: 1
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 12
+    lock: 11
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 6
+    lock: 5
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 18
+    lock: 17
   rfm_lab:
     map:
       play: 6
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 16
+    lock: 15
   golden_week:
     map:
       play: 2
@@ -287,12 +287,12 @@ maps:
       d:
         _raccoonpolicedepartment:
           map:
-            play: 7
+            play: 8
             version: 2.2.1
           point:
             build: 3.6
             play: 3.57
-          lock: 0
+          lock: 25
   yussans_memory:
     map:
       play: 4
@@ -463,7 +463,7 @@ maps:
     point:
       build: 3.94
       play: 3.76
-    lock: 25
+    lock: 24
   hand_spinner:
     graveyard:
       check: true
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 3
+    lock: 2
   re_rfm_casino:
     map:
       play: 8
@@ -550,7 +550,7 @@ maps:
     map:
       play: 5
       version: 2.6.0
-    lock: 9
+    lock: 8
   rfm_prison:
     map:
       play: 6
@@ -585,7 +585,7 @@ maps:
     map:
       play: 4
       version: 2.2.0
-    lock: 11
+    lock: 10
   shadow_corridor:
     map:
       play: 3
@@ -605,7 +605,7 @@ maps:
     map:
       play: 8
       version: 1.1.1
-    lock: 15
+    lock: 14
   flood_escape_lobby:
     graveyard:
       check: false
@@ -653,17 +653,17 @@ maps:
     map:
       play: 3
       version: 1.1.1
-    lock: 7
+    lock: 6
   cso_series:
     map:
       play: 3
       version: 1.0.0
-    lock: 2
+    lock: 1
   bigtown:
     map:
       play: 4
       version: 1.1.1
-    lock: 13
+    lock: 12
   oba_q-town:
     map:
       play: 2
@@ -698,7 +698,7 @@ maps:
     map:
       play: 3
       version: 1.1.2
-    lock: 10
+    lock: 9
   cso_gressia:
     graveyard:
       check: true
@@ -713,7 +713,7 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 24
+    lock: 23
   fnaf_series:
     map:
       play: 1
@@ -723,7 +723,7 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 17
+    lock: 16
   rfm_resort:
     map:
       play: 1
@@ -733,22 +733,22 @@ maps:
     map:
       play: 1
       version: 2.0.0
-    lock: 1
+    lock: 0
   spy_rumble:
     map:
       play: 1
       version: 1.0.0
-    lock: 4
+    lock: 3
   silence_mall:
     map:
       play: 1
       version: 1.0.0
-    lock: 8
+    lock: 7
   rfm_park:
     map:
       play: 1
       version: 1.0.0
-    lock: 21
+    lock: 20
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
