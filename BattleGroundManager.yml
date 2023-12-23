@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 9
+    lock: 8
   calendar:
     map:
       play: 1
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 21
+    lock: 20
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 5
+    lock: 4
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 8
+    lock: 7
   dea_la_solitaire:
     map:
       play: 14
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 6
+    lock: 5
   manmatown:
     map:
       play: 1
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 14
+    lock: 13
   infinite_corridor:
     map:
       play: 2
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 4
+    lock: 3
   rfm_lab:
     map:
       play: 6
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 2
+    lock: 1
   golden_week:
     map:
       play: 2
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 17
+    lock: 16
   game_center:
     map:
       play: 7
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 12
+          lock: 11
   yussans_memory:
     map:
       play: 4
@@ -376,7 +376,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 24
+    lock: 23
   dq9_sanmarou:
     graveyard:
       check: false
@@ -439,7 +439,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 13
+    lock: 12
   rfm_hospital:
     map:
       play: 7
@@ -463,7 +463,7 @@ maps:
     point:
       build: 3.94
       play: 3.76
-    lock: 11
+    lock: 10
   hand_spinner:
     graveyard:
       check: true
@@ -532,12 +532,12 @@ maps:
     map:
       play: 8
       version: 1.1.3
-    lock: 23
+    lock: 22
   splatoon:
     map:
-      play: 6
-      version: 2.1.4
-    lock: 0
+      play: 7
+      version: 2.1.5
+    lock: 25
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -570,7 +570,7 @@ maps:
     map:
       play: 7
       version: 1.2.0
-    lock: 19
+    lock: 18
   pokemone_battlefrontier:
     map:
       play: 3
@@ -605,7 +605,7 @@ maps:
     map:
       play: 8
       version: 1.1.1
-    lock: 1
+    lock: 0
   flood_escape_lobby:
     graveyard:
       check: false
@@ -643,7 +643,7 @@ maps:
     map:
       play: 8
       version: 2.0.0
-    lock: 25
+    lock: 24
   azuchicastle:
     map:
       play: 2
@@ -668,12 +668,12 @@ maps:
     map:
       play: 3
       version: 1.1.0
-    lock: 22
+    lock: 21
   theme_park:
     map:
       play: 4
       version: 1.0.3
-    lock: 20
+    lock: 19
   kings_canyon:
     map:
       play: 2
@@ -713,27 +713,27 @@ maps:
     map:
       play: 2
       version: 2.0.0
-    lock: 10
+    lock: 9
   fnaf_series:
     map:
       play: 2
       version: 1.0.0
-    lock: 16
+    lock: 15
   mizugoro_island:
     map:
       play: 2
       version: 1.0.1
-    lock: 3
+    lock: 2
   rfm_resort:
     map:
       play: 2
       version: 1.0.0
-    lock: 18
+    lock: 17
   kuriku_ryokan:
     map:
       play: 2
       version: 2.0.0
-    lock: 15
+    lock: 14
   spy_rumble:
     map:
       play: 1
@@ -748,7 +748,7 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 7
+    lock: 6
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
