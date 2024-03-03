@@ -869,3 +869,6 @@ selection:
     lock: 0
     '1': rfm_prison
     '2': rfm_camp
+    '3': minecraft_museum
+    '4': among_us
+    '5': rfm_hospital
