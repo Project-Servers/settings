@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 11
+    lock: 10
   huge_library:
     map:
       play: 15
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 6
+    lock: 5
   kurokan:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 21
+    lock: 20
   sandbox_city:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 1
+    lock: 0
   manmatown:
     map:
       play: 1
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 20
+    lock: 19
   infinite_corridor:
     map:
       play: 2
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 3
+    lock: 2
   rfm_casino:
     map:
       play: 1
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 5
+    lock: 4
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 14
+    lock: 13
     graveyard:
       check: false
       version: 2.0.0
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 23
+    lock: 22
   game_center:
     map:
       play: 8
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 12
+    lock: 11
   city1:
     map:
       play: 3
@@ -281,7 +281,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 17
+    lock: 16
   r:
     p:
       d:
@@ -300,7 +300,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 15
+    lock: 14
   thinking:
     map:
       play: 2
@@ -344,7 +344,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 4
+    lock: 3
   rfm_city:
     map:
       play: 8
@@ -368,7 +368,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 19
+    lock: 18
   rfm_airport:
     map:
       play: 11
@@ -409,7 +409,7 @@ maps:
       play: 2.84
     lock: 0
     graveyard:
-      check: true
+      check: false
       reason: BadPlayability
       version: 1.2.0
   cream_depart:
@@ -426,12 +426,12 @@ maps:
       version: 1.4.0
   pokemonoras_kinsetsucity:
     map:
-      play: 5
-      version: 2.1.0
+      play: 6
+      version: 2.1.1
     point:
       build: 3.57
       play: 3.5
-    lock: 0
+    lock: 26
   pokemonbw_ancientcastle:
     map:
       play: 6
@@ -455,7 +455,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 22
+    lock: 21
   raimonchu:
     map:
       play: 4
@@ -485,7 +485,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 7
+    lock: 6
   77rooms:
     graveyard:
       check: true
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 10
+    lock: 9
   re_rfm_casino:
     map:
       play: 8
@@ -575,12 +575,12 @@ maps:
     map:
       play: 4
       version: 1.0.2
-    lock: 25
+    lock: 24
   nikko_edo:
     map:
       play: 4
       version: 1.1.1
-    lock: 18
+    lock: 17
   gorotukitown:
     map:
       play: 4
@@ -605,7 +605,7 @@ maps:
     map:
       play: 9
       version: 1.1.2
-    lock: 8
+    lock: 7
   flood_escape_lobby:
     graveyard:
       check: false
@@ -636,7 +636,7 @@ maps:
       version: 2.0.0
     lock: 0
     graveyard:
-      check: true
+      check: false
       reason: BadPlayability
       version: 2.0.0
   edo:
@@ -663,7 +663,7 @@ maps:
     map:
       play: 5
       version: 1.1.1
-    lock: 9
+    lock: 8
   oba_q-town:
     map:
       play: 3
@@ -698,7 +698,7 @@ maps:
     map:
       play: 4
       version: 1.1.2
-    lock: 2
+    lock: 1
   cso_gressia:
     graveyard:
       check: true
@@ -738,7 +738,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 24
+    lock: 23
   silence_mall:
     map:
       play: 1
@@ -748,7 +748,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 16
+    lock: 15
   sandstorm:
     graveyard:
       check: true
@@ -758,7 +758,7 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 13
+    lock: 12
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -837,7 +837,7 @@ selection:
     '1': huge_library
     '2': pokemonbw_ancientcastle
     '5': mgsgz_u.s.naval_prison_facility.cuba
-    '3': rfm_pirupirutune
+    '3': aooni
     '4': kuriku_ryokan
     lock: 0
   aac23368-f279-4c75-8e32-25d92b368244:
