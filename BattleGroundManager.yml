@@ -9,12 +9,12 @@ maps:
     lock: 0
   among_us:
     map:
-      play: 11
+      play: 12
       version: 4.0.0
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 0
+    lock: 25
   calendar:
     map:
       play: 1
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 9
+    lock: 8
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 16
+    lock: 15
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 21
+    lock: 20
   sandbox_city:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 23
+    lock: 22
   manmatown:
     map:
       play: 2
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 6
+    lock: 5
   rfm_lab:
     map:
       play: 7
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 8
+    lock: 7
   tousou_city:
     map:
       play: 11
@@ -218,7 +218,7 @@ maps:
     point:
       build: 15.620000000000001
       play: 14.490000000000002
-    lock: 1
+    lock: 0
   rfm_camp:
     map:
       play: 15
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 13
+    lock: 12
   golden_week:
     map:
       play: 2
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 24
+    lock: 23
   game_center:
     map:
       play: 8
@@ -387,7 +387,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 7
+    lock: 6
   kurikuryokan:
     map:
       play: 2
@@ -407,7 +407,7 @@ maps:
     point:
       build: 3.23
       play: 2.84
-    lock: 17
+    lock: 16
     graveyard:
       check: false
       reason: BadPlayability
@@ -439,7 +439,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 10
+    lock: 9
   rfm_hospital:
     map:
       play: 8
@@ -447,7 +447,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 25
+    lock: 24
   the_inferno_fortress:
     map:
       play: 12
@@ -485,7 +485,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 12
+    lock: 11
   77rooms:
     graveyard:
       check: true
@@ -503,7 +503,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 14
+    lock: 13
   cyanine:
     map:
       play: 7
@@ -580,7 +580,7 @@ maps:
     map:
       play: 5
       version: 1.1.1
-    lock: 20
+    lock: 19
   gorotukitown:
     map:
       play: 4
@@ -634,7 +634,7 @@ maps:
     map:
       play: 2
       version: 2.1.0
-    lock: 11
+    lock: 10
     graveyard:
       check: true
       reason: BadPlayability,BuildDefect
@@ -643,7 +643,7 @@ maps:
     map:
       play: 9
       version: 2.0.0
-    lock: 19
+    lock: 18
   azuchicastle:
     map:
       play: 2
@@ -653,7 +653,7 @@ maps:
     map:
       play: 4
       version: 1.1.1
-    lock: 19
+    lock: 18
   cso_series:
     map:
       play: 3
@@ -713,7 +713,7 @@ maps:
     map:
       play: 3
       version: 2.0.0
-    lock: 3
+    lock: 2
   fnaf_series:
     map:
       play: 2
@@ -733,7 +733,7 @@ maps:
     map:
       play: 3
       version: 2.0.0
-    lock: 4
+    lock: 3
   spy_rumble:
     map:
       play: 2
@@ -743,12 +743,12 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 15
+    lock: 14
   rfm_park:
     map:
       play: 3
       version: 1.0.0
-    lock: 18
+    lock: 17
   sandstorm:
     graveyard:
       check: true
@@ -763,12 +763,12 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 2
+    lock: 1
   shirokuro_bridge:
     map:
       play: 1
       version: 2.0.0
-    lock: 5
+    lock: 4
     graveyard:
       check: true
       reason: BadPlayability
