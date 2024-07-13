@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 9
+    lock: 8
   calendar:
     map:
       play: 1
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 22
+    lock: 21
   huge_library:
     map:
       play: 16
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 4
+    lock: 3
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 20
+    lock: 19
   dea_la_solitaire:
     map:
       play: 16
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 6
+    lock: 5
   manmatown:
     map:
       play: 3
@@ -96,7 +96,7 @@ maps:
     point:
       build: 3.94
       play: 3.88
-    lock: 12
+    lock: 11
   kaikatsu_club:
     map:
       play: 4
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 19
+    lock: 18
   rfm_casino:
     map:
       play: 1
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 17
+    lock: 16
   boost_highschool:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 21
+    lock: 20
   road_station:
     map:
       play: 15
@@ -260,12 +260,12 @@ maps:
       version: 1.5.0
   minecraft_museum:
     map:
-      play: 16
-      version: 3.2.1
+      play: 17
+      version: 3.2.2
     point:
       build: 11.08
       play: 10.7
-    lock: 7
+    lock: 26
   game_center:
     map:
       play: 8
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 25
+          lock: 24
   yussans_memory:
     map:
       play: 5
@@ -344,7 +344,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 11
+    lock: 10
   rfm_city:
     map:
       play: 8
@@ -376,7 +376,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 15
+    lock: 14
   dq9_sanmarou:
     graveyard:
       check: false
@@ -447,7 +447,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 8
+    lock: 7
   the_inferno_fortress:
     map:
       play: 12
@@ -523,7 +523,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 24
+    lock: 23
   re_rfm_casino:
     map:
       play: 9
@@ -559,7 +559,7 @@ maps:
     map:
       play: 7
       version: 1.1.1
-    lock: 16
+    lock: 15
   closed_village:
     map:
       play: 3
@@ -584,12 +584,12 @@ maps:
     map:
       play: 5
       version: 1.1.1
-    lock: 3
+    lock: 2
   gorotukitown:
     map:
       play: 5
       version: 2.2.0
-    lock: 14
+    lock: 13
   shadow_corridor:
     map:
       play: 3
@@ -647,7 +647,7 @@ maps:
     map:
       play: 9
       version: 2.0.0
-    lock: 2
+    lock: 1
   azuchicastle:
     map:
       play: 2
@@ -657,7 +657,7 @@ maps:
     map:
       play: 4
       version: 1.1.1
-    lock: 2
+    lock: 1
   cso_series:
     map:
       play: 3
@@ -672,7 +672,7 @@ maps:
     map:
       play: 4
       version: 1.1.0
-    lock: 23
+    lock: 22
   theme_park:
     map:
       play: 4
@@ -752,7 +752,7 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 1
+    lock: 0
   sandstorm:
     graveyard:
       check: true
@@ -762,7 +762,7 @@ maps:
     map:
       play: 2
       version: 1.1.0
-    lock: 10
+    lock: 9
   aooni:
     map:
       play: 2
@@ -853,7 +853,7 @@ selection:
     '2': minecraft_port
     '3': theme_park
     '4': rfm_shopping_mall
-    '5': azuchicastle
+    '5': defusing_bomb
     lock: 0
   1b873e15-6dec-4833-a65c-17530997ed7d:
     name: creamhunter1106
@@ -889,7 +889,7 @@ selection:
     '2': rfm_park
   a5c6b8ac-a51a-45fb-8c76-24497e673376:
     name: ShiRoNoir1119
-    lock: 0
+    lock: 11
     '1': rfm_prison
     '2': core
     '3': minecraft_museum
