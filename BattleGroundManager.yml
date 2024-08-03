@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 23
+    lock: 22
   forest_house:
     map:
       play: 13
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 13
+    lock: 12
   huge_library:
     map:
       play: 17
@@ -46,19 +46,19 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 22
+    lock: 21
   kurokan:
     graveyard:
       check: false
       version: 1.0.0
   rfm_cinema:
     map:
-      play: 13
+      play: 14
       version: 2.1.1
     point:
       build: 11.54
       play: 10.98
-    lock: 0
+    lock: 26
   minecraft_port:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 11
+    lock: 10
   dea_la_solitaire:
     map:
       play: 16
@@ -96,7 +96,7 @@ maps:
     point:
       build: 3.94
       play: 3.88
-    lock: 3
+    lock: 2
   kaikatsu_club:
     map:
       play: 4
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 10
+    lock: 9
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 19
+    lock: 18
   chasefield_blockfort:
     graveyard:
       check: false
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 8
+    lock: 7
   boost_highschool:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 12
+    lock: 11
   road_station:
     map:
       play: 15
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 18
+    lock: 17
   game_center:
     map:
       play: 8
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 16
+          lock: 15
   yussans_memory:
     map:
       play: 5
@@ -344,7 +344,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 2
+    lock: 1
   rfm_city:
     map:
       play: 8
@@ -376,7 +376,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 6
+    lock: 5
   dq9_sanmarou:
     graveyard:
       check: false
@@ -523,7 +523,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 15
+    lock: 14
   re_rfm_casino:
     map:
       play: 9
@@ -559,7 +559,7 @@ maps:
     map:
       play: 7
       version: 1.1.1
-    lock: 7
+    lock: 6
   closed_village:
     map:
       play: 3
@@ -579,7 +579,7 @@ maps:
     map:
       play: 5
       version: 1.0.2
-    lock: 20
+    lock: 19
   nikko_edo:
     map:
       play: 5
@@ -589,7 +589,7 @@ maps:
     map:
       play: 5
       version: 2.2.0
-    lock: 5
+    lock: 4
   shadow_corridor:
     map:
       play: 3
@@ -633,7 +633,7 @@ maps:
     map:
       play: 4
       version: 2.0.1
-    lock: 25
+    lock: 24
   1chank_building:
     map:
       play: 2
@@ -672,7 +672,7 @@ maps:
     map:
       play: 4
       version: 1.1.0
-    lock: 14
+    lock: 13
   theme_park:
     map:
       play: 4
@@ -702,7 +702,7 @@ maps:
     map:
       play: 5
       version: 1.1.2
-    lock: 21
+    lock: 20
   cso_gressia:
     graveyard:
       check: true
@@ -732,12 +732,12 @@ maps:
     map:
       play: 4
       version: 1.0.0
-    lock: 26
+    lock: 25
   kuriku_ryokan:
     map:
       play: 4
       version: 2.0.0
-    lock: 24
+    lock: 23
   spy_rumble:
     map:
       play: 2
@@ -762,7 +762,7 @@ maps:
     map:
       play: 2
       version: 1.1.0
-    lock: 1
+    lock: 0
   aooni:
     map:
       play: 2
@@ -862,7 +862,7 @@ selection:
     '5': mgsgz_u.s.naval_prison_facility.cuba
     '3': aooni
     '4': kuriku_ryokan
-    lock: 9
+    lock: 8
   aac23368-f279-4c75-8e32-25d92b368244:
     name: milatto310
     '1': game_center
@@ -889,7 +889,7 @@ selection:
     '2': rfm_park
   a5c6b8ac-a51a-45fb-8c76-24497e673376:
     name: ShiRoNoir1119
-    lock: 3
+    lock: 2
     '1': rfm_prison
     '2': core
     '3': minecraft_museum
@@ -902,4 +902,4 @@ selection:
     '5': area02
     '4': closed_village
     '3': shirokuro_bridge
-    lock: 4
+    lock: 3
