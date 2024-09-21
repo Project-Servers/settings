@@ -640,7 +640,7 @@ maps:
       version: 2.1.0
     lock: 0
     graveyard:
-      check: true
+      check: false
       reason: BadPlayability,BuildDefect
       version: 2.1.0
   edo:
@@ -755,7 +755,7 @@ maps:
     lock: 0
   sandstorm:
     graveyard:
-      check: true
+      check: false
       reason: BadPlayability
       version: 2.1.3
   danganronpa:
