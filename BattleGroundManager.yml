@@ -41,12 +41,12 @@ maps:
     lock: 0
   huge_library:
     map:
-      play: 17
+      play: 18
       version: 4.0.1
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 0
+    lock: 26
   kurokan:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 9
+    lock: 8
   sandbox_city:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 17
+    lock: 16
   manmatown:
     map:
       play: 3
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 22
+    lock: 21
   chasefield_blockfort:
     graveyard:
       check: false
@@ -178,7 +178,7 @@ maps:
     point:
       build: 3.47
       play: 3.5
-    lock: 18
+    lock: 17
   stasi:
     map:
       play: 1
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 3
+    lock: 2
   tousou_city:
     map:
       play: 11
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 11
+    lock: 10
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 13
+    lock: 12
     graveyard:
       check: false
       version: 2.0.0
@@ -253,7 +253,7 @@ maps:
     point:
       build: 3.39
       play: 3.1
-    lock: 8
+    lock: 7
   pokemondpt_tobaricity:
     graveyard:
       check: true
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 20
+    lock: 19
   city1:
     map:
       play: 4
@@ -281,7 +281,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 12
+    lock: 11
   r:
     p:
       d:
@@ -360,7 +360,7 @@ maps:
     point:
       build: 3.53
       play: 3.23
-    lock: 4
+    lock: 3
   apartment:
     map:
       play: 4
@@ -574,7 +574,7 @@ maps:
     map:
       play: 8
       version: 1.2.2
-    lock: 6
+    lock: 5
   pokemone_battlefrontier:
     map:
       play: 5
@@ -594,7 +594,7 @@ maps:
     map:
       play: 4
       version: 1.2.0
-    lock: 5
+    lock: 4
   rfm_city_for_april:
     map:
       play: 1
@@ -647,7 +647,7 @@ maps:
     map:
       play: 10
       version: 2.0.0
-    lock: 16
+    lock: 15
   azuchicastle:
     map:
       play: 2
@@ -657,17 +657,17 @@ maps:
     map:
       play: 5
       version: 1.1.2
-    lock: 19
+    lock: 18
   cso_series:
     map:
       play: 4
       version: 1.0.0
-    lock: 10
+    lock: 9
   bigtown:
     map:
       play: 6
       version: 1.1.1
-    lock: 7
+    lock: 6
   oba_q-town:
     map:
       play: 4
@@ -727,7 +727,7 @@ maps:
     map:
       play: 3
       version: 1.0.1
-    lock: 2
+    lock: 1
   rfm_resort:
     map:
       play: 4
@@ -737,22 +737,22 @@ maps:
     map:
       play: 5
       version: 2.0.0
-    lock: 21
+    lock: 20
   spy_rumble:
     map:
       play: 3
       version: 1.0.1
-    lock: 25
+    lock: 24
   silence_mall:
     map:
       play: 3
       version: 1.0.2
-    lock: 14
+    lock: 13
   rfm_park:
     map:
       play: 4
       version: 1.0.0
-    lock: 23
+    lock: 22
   sandstorm:
     graveyard:
       check: false
@@ -791,7 +791,7 @@ maps:
     map:
       play: 1
       version: 1.3.0
-    lock: 26
+    lock: 25
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
