@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 18
+    lock: 17
   huge_library:
     map:
       play: 18
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 17
+    lock: 16
   kurokan:
     graveyard:
       check: false
@@ -75,12 +75,12 @@ maps:
       check: false
       version: 4.0.2
     map:
-      play: 13
-      version: 7.0.4
+      play: 14
+      version: 7.0.6
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 0
+    lock: 17
   dea_la_solitaire:
     map:
       play: 17
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 7
+    lock: 6
   manmatown:
     map:
       play: 3
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 12
+    lock: 11
   chasefield_blockfort:
     graveyard:
       check: false
@@ -178,7 +178,7 @@ maps:
     point:
       build: 3.47
       play: 3.5
-    lock: 8
+    lock: 7
   stasi:
     map:
       play: 1
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 1
+    lock: 0
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 3
+    lock: 2
     graveyard:
       check: false
       version: 2.0.0
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 21
+    lock: 20
   game_center:
     map:
       play: 9
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 10
+    lock: 9
   city1:
     map:
       play: 5
@@ -344,7 +344,7 @@ maps:
     point:
       build: 11.16
       play: 9.73
-    lock: 17
+    lock: 16
   rfm_city:
     map:
       play: 10
@@ -352,7 +352,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 23
+    lock: 22
   core:
     map:
       play: 4
@@ -584,7 +584,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 24
+    lock: 23
   gorotukitown:
     map:
       play: 5
@@ -657,7 +657,7 @@ maps:
     map:
       play: 5
       version: 1.1.2
-    lock: 9
+    lock: 8
   cso_series:
     map:
       play: 4
@@ -672,7 +672,7 @@ maps:
     map:
       play: 5
       version: 1.1.1
-    lock: 20
+    lock: 19
   theme_park:
     map:
       play: 4
@@ -737,17 +737,17 @@ maps:
     map:
       play: 5
       version: 2.0.0
-    lock: 11
+    lock: 10
   spy_rumble:
     map:
       play: 3
       version: 1.0.1
-    lock: 15
+    lock: 14
   silence_mall:
     map:
       play: 3
       version: 1.0.2
-    lock: 4
+    lock: 3
   rfm_park:
     map:
       play: 4
@@ -767,7 +767,7 @@ maps:
     map:
       play: 4
       version: 1.0.1
-    lock: 19
+    lock: 18
   shirokuro_bridge:
     map:
       play: 1
