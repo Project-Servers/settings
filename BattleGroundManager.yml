@@ -640,9 +640,9 @@ maps:
       version: 2.1.2
     lock: 17
     graveyard:
-      check: false
-      reason: BadPlayability,BuildDefect
-      version: 2.1.0
+      check: true
+      reason: BuildDefect,BadPlayability
+      version: 2.1.2
   edo:
     map:
       play: 10
