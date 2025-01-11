@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 2
+    lock: 1
   calendar:
     map:
       play: 1
@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 13
+    lock: 12
   forest_house:
     map:
       play: 15
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 12
+    lock: 11
   huge_library:
     map:
       play: 18
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 7
+    lock: 6
   golden_week:
     map:
       play: 2
@@ -295,12 +295,12 @@ maps:
           lock: 0
   yussans_memory:
     map:
-      play: 6
-      version: 1.1.0
+      play: 7
+      version: 1.1.1
     point:
       build: 7.83
       play: 7.58
-    lock: 0
+    lock: 17
   thinking:
     map:
       play: 2
@@ -352,7 +352,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 1
+    lock: 0
   core:
     map:
       play: 4
@@ -368,7 +368,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 8
+    lock: 7
   rfm_airport:
     map:
       play: 13
@@ -455,7 +455,7 @@ maps:
     point:
       build: 7.73
       play: 7.45
-    lock: 17
+    lock: 16
   raimonchu:
     map:
       play: 5
@@ -489,7 +489,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 10
+    lock: 9
   77rooms:
     graveyard:
       check: true
@@ -515,7 +515,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 9
+    lock: 8
   rfm_university:
     map:
       play: 11
@@ -584,7 +584,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 2
+    lock: 1
   gorotukitown:
     map:
       play: 5
@@ -609,7 +609,7 @@ maps:
     map:
       play: 11
       version: 1.1.3
-    lock: 3
+    lock: 2
   flood_escape_lobby:
     graveyard:
       check: false
@@ -638,7 +638,7 @@ maps:
     map:
       play: 3
       version: 2.1.2
-    lock: 15
+    lock: 14
     graveyard:
       check: true
       reason: BuildDefect,BadPlayability
@@ -702,7 +702,7 @@ maps:
     map:
       play: 6
       version: 1.1.3
-    lock: 4
+    lock: 3
   cso_gressia:
     graveyard:
       check: true
@@ -732,7 +732,7 @@ maps:
     map:
       play: 5
       version: 1.0.1
-    lock: 5
+    lock: 4
   kuriku_ryokan:
     map:
       play: 5
@@ -747,7 +747,7 @@ maps:
     map:
       play: 4
       version: 1.0.2
-    lock: 16
+    lock: 15
   rfm_park:
     map:
       play: 4
@@ -762,7 +762,7 @@ maps:
     map:
       play: 3
       version: 1.1.1
-    lock: 1
+    lock: 0
   aooni:
     map:
       play: 4
@@ -786,7 +786,7 @@ maps:
     map:
       play: 2
       version: 1.0.1
-    lock: 11
+    lock: 10
   desperate_labyrinth:
     map:
       play: 1
