@@ -904,11 +904,11 @@ selection:
   a5c6b8ac-a51a-45fb-8c76-24497e673376:
     name: ShiRoNoir1119
     lock: 0
-    '1': rfm_prison
-    '2': core
-    '3': minecraft_museum
-    '4': among_us
-    '5': rfm_hospital
+    '1': rfm_camp
+    '2': retreat_shrine
+    '3': minecraft_port
+    '4': forest_house
+    '5': minecraft_museum
   9e4f528b-984b-4e42-980c-46f1edbe2359:
     name: chil_felun
     '1': 1chank_building
