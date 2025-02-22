@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 11
+    lock: 10
   kurokan:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 14
+    lock: 13
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 18
+    lock: 17
   dea_la_solitaire:
     map:
       play: 18
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 7
+    lock: 6
   manmatown:
     map:
       play: 3
@@ -265,7 +265,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 6
+    lock: 5
   game_center:
     map:
       play: 10
@@ -273,7 +273,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 9
+    lock: 8
   city1:
     map:
       play: 5
@@ -292,7 +292,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 1
+          lock: 0
   yussans_memory:
     map:
       play: 7
@@ -328,7 +328,7 @@ maps:
     point:
       build: 3.54
       play: 2.81
-    lock: 5
+    lock: 4
   from_discord_zatudan:
     map:
       play: 6
@@ -352,7 +352,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 15
+    lock: 14
   core:
     map:
       play: 5
@@ -360,7 +360,7 @@ maps:
     point:
       build: 3.53
       play: 3.23
-    lock: 4
+    lock: 3
   apartment:
     map:
       play: 5
@@ -489,7 +489,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 3
+    lock: 2
   77rooms:
     graveyard:
       check: true
@@ -523,7 +523,7 @@ maps:
     point:
       build: 3.92
       play: 3.0
-    lock: 8
+    lock: 7
   re_rfm_casino:
     map:
       play: 9
@@ -552,9 +552,9 @@ maps:
           lock: 0
   birthday_cake:
     map:
-      play: 6
-      version: 2.6.1
-    lock: 15
+      play: 7
+      version: 3.0.0
+    lock: 18
   rfm_prison:
     map:
       play: 7
@@ -623,7 +623,7 @@ maps:
     map:
       play: 5
       version: 1.1.2
-    lock: 17
+    lock: 16
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -737,7 +737,7 @@ maps:
     map:
       play: 6
       version: 2.0.1
-    lock: 12
+    lock: 11
   spy_rumble:
     map:
       play: 3
@@ -767,7 +767,7 @@ maps:
     map:
       play: 5
       version: 1.0.1
-    lock: 2
+    lock: 1
   shirokuro_bridge:
     map:
       play: 1
@@ -800,7 +800,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 16
+    lock: 15
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
