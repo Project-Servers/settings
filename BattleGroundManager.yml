@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 14
+    lock: 13
   calendar:
     map:
       play: 1
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 12
+    lock: 11
   huge_library:
     map:
       play: 19
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 17
+    lock: 16
   kurokan:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 2
+    lock: 1
   dea_la_solitaire:
     map:
       play: 19
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 15
+    lock: 14
   manmatown:
     map:
       play: 3
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 8
+    lock: 7
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 5
+    lock: 4
   rfm_lab:
     map:
       play: 8
@@ -253,7 +253,7 @@ maps:
     point:
       build: 3.39
       play: 3.1
-    lock: 6
+    lock: 5
     graveyard:
       check: true
       reason: BadPlayability
@@ -386,12 +386,12 @@ maps:
       check: false
       version: 3.0.2
     map:
-      play: 4
-      version: 3.1.4
+      play: 5
+      version: 3.1.5
     point:
       build: 3.31
       play: 3.15
-    lock: 0
+    lock: 19
   kurikuryokan:
     map:
       play: 2
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 19
+    lock: 18
   rfm_hospital:
     map:
       play: 9
@@ -451,7 +451,7 @@ maps:
     point:
       build: 7.42
       play: 6.99
-    lock: 4
+    lock: 3
   the_inferno_fortress:
     map:
       play: 13
@@ -558,7 +558,7 @@ maps:
     map:
       play: 7
       version: 3.0.0
-    lock: 3
+    lock: 2
   rfm_prison:
     map:
       play: 7
@@ -598,7 +598,7 @@ maps:
     map:
       play: 5
       version: 1.2.1
-    lock: 18
+    lock: 17
   rfm_city_for_april:
     map:
       play: 1
@@ -627,7 +627,7 @@ maps:
     map:
       play: 5
       version: 1.1.2
-    lock: 1
+    lock: 0
   crypt_of_the_necrodancer:
     map:
       play: 1
@@ -661,7 +661,7 @@ maps:
     map:
       play: 6
       version: 1.1.2
-    lock: 9
+    lock: 8
   cso_series:
     map:
       play: 4
@@ -676,7 +676,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 11
+    lock: 10
   theme_park:
     map:
       play: 4
@@ -756,7 +756,7 @@ maps:
     map:
       play: 5
       version: 1.0.1
-    lock: 16
+    lock: 15
   sandstorm:
     graveyard:
       check: false
@@ -790,7 +790,7 @@ maps:
     map:
       play: 3
       version: 1.0.1
-    lock: 7
+    lock: 6
   desperate_labyrinth:
     map:
       play: 1
@@ -809,7 +809,7 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 13
+    lock: 12
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
