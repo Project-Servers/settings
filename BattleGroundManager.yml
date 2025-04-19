@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 9
+    lock: 8
   calendar:
     map:
       play: 1
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 7
+    lock: 6
   huge_library:
     map:
       play: 19
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 12
+    lock: 11
   kurokan:
     graveyard:
       check: false
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 10
+    lock: 9
   manmatown:
     map:
       play: 3
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 18
+    lock: 17
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 3
+    lock: 2
   chasefield_blockfort:
     graveyard:
       check: false
@@ -253,7 +253,7 @@ maps:
     point:
       build: 3.39
       play: 3.1
-    lock: 1
+    lock: 0
     graveyard:
       check: true
       reason: BadPlayability
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 15
+    lock: 14
   kurikuryokan:
     map:
       play: 2
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 14
+    lock: 13
   rfm_hospital:
     map:
       play: 9
@@ -540,7 +540,7 @@ maps:
     map:
       play: 9
       version: 1.1.4
-    lock: 17
+    lock: 16
   splatoon:
     map:
       play: 7
@@ -553,7 +553,7 @@ maps:
           map:
             play: 5
             version: 1.1.3
-          lock: 19
+          lock: 18
   birthday_cake:
     map:
       play: 7
@@ -583,7 +583,7 @@ maps:
     map:
       play: 6
       version: 1.0.3
-    lock: 16
+    lock: 15
   nikko_edo:
     map:
       play: 6
@@ -598,7 +598,7 @@ maps:
     map:
       play: 5
       version: 1.2.1
-    lock: 13
+    lock: 12
   rfm_city_for_april:
     map:
       play: 1
@@ -661,7 +661,7 @@ maps:
     map:
       play: 6
       version: 1.1.2
-    lock: 4
+    lock: 3
   cso_series:
     map:
       play: 4
@@ -676,7 +676,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 6
+    lock: 5
   theme_park:
     map:
       play: 4
@@ -756,7 +756,7 @@ maps:
     map:
       play: 5
       version: 1.0.1
-    lock: 11
+    lock: 10
   sandstorm:
     graveyard:
       check: false
@@ -790,7 +790,7 @@ maps:
     map:
       play: 3
       version: 1.0.1
-    lock: 2
+    lock: 1
   desperate_labyrinth:
     map:
       play: 1
@@ -807,9 +807,9 @@ maps:
     lock: 0
   scarlet_mansion:
     map:
-      play: 1
+      play: 2
       version: 1.0.0
-    lock: 8
+    lock: 19
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
