@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 4
+    lock: 3
   calendar:
     map:
       play: 1
@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 17
+    lock: 16
   forest_house:
     map:
       play: 16
@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 2
+    lock: 1
   huge_library:
     map:
       play: 19
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 7
+    lock: 6
   kurokan:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 19
+    lock: 18
   dea_la_solitaire:
     map:
       play: 19
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 5
+    lock: 4
   manmatown:
     map:
       play: 3
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 13
+    lock: 12
   rfm_casino:
     map:
       play: 1
@@ -143,12 +143,12 @@ maps:
       reason: LowQuality,BadPlayability
   rfm_shopping_mall:
     map:
-      play: 16
+      play: 17
       version: 1.1.2
     point:
       build: 11.68
       play: 11.11
-    lock: 0
+    lock: 19
   chasefield_blockfort:
     graveyard:
       check: false
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 10
+    lock: 9
   kurikuryokan:
     map:
       play: 2
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 9
+    lock: 8
   rfm_hospital:
     map:
       play: 9
@@ -540,7 +540,7 @@ maps:
     map:
       play: 9
       version: 1.1.4
-    lock: 12
+    lock: 11
   splatoon:
     map:
       play: 7
@@ -553,7 +553,7 @@ maps:
           map:
             play: 5
             version: 1.1.3
-          lock: 14
+          lock: 13
   birthday_cake:
     map:
       play: 7
@@ -583,7 +583,7 @@ maps:
     map:
       play: 6
       version: 1.0.3
-    lock: 11
+    lock: 10
   nikko_edo:
     map:
       play: 6
@@ -598,7 +598,7 @@ maps:
     map:
       play: 5
       version: 1.2.1
-    lock: 8
+    lock: 7
   rfm_city_for_april:
     map:
       play: 1
@@ -676,7 +676,7 @@ maps:
     map:
       play: 6
       version: 1.1.1
-    lock: 1
+    lock: 0
   theme_park:
     map:
       play: 4
@@ -746,7 +746,7 @@ maps:
     map:
       play: 4
       version: 1.0.1
-    lock: 16
+    lock: 15
   silence_mall:
     map:
       play: 4
@@ -756,7 +756,7 @@ maps:
     map:
       play: 5
       version: 1.0.1
-    lock: 6
+    lock: 5
   sandstorm:
     graveyard:
       check: false
@@ -809,12 +809,12 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 15
+    lock: 14
   robot_girls_dream_astromere:
     map:
       play: 1
       version: 1.0.0
-    lock: 18
+    lock: 17
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
