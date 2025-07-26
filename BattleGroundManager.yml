@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 17
+    lock: 16
   kurokan:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 3
+    lock: 2
   dea_la_solitaire:
     map:
       play: 19
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 13
+    lock: 12
   chasefield_blockfort:
     graveyard:
       check: false
@@ -269,7 +269,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 5
+    lock: 4
   game_center:
     map:
       play: 11
@@ -277,7 +277,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 6
+    lock: 5
   city1:
     map:
       play: 5
@@ -291,12 +291,12 @@ maps:
       d:
         _raccoonpolicedepartment:
           map:
-            play: 10
+            play: 11
             version: 2.2.3
           point:
             build: 3.6
             play: 3.57
-          lock: 0
+          lock: 19
   yussans_memory:
     map:
       play: 8
@@ -332,7 +332,7 @@ maps:
     point:
       build: 3.54
       play: 2.81
-    lock: 10
+    lock: 9
   from_discord_zatudan:
     map:
       play: 6
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 12
+    lock: 11
   rfm_hospital:
     map:
       play: 9
@@ -493,7 +493,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 7
+    lock: 6
   77rooms:
     graveyard:
       check: true
@@ -578,7 +578,7 @@ maps:
     map:
       play: 9
       version: 1.2.3
-    lock: 18
+    lock: 17
   pokemone_battlefrontier:
     map:
       play: 6
@@ -613,7 +613,7 @@ maps:
     map:
       play: 12
       version: 1.1.3
-    lock: 1
+    lock: 0
   flood_escape_lobby:
     graveyard:
       check: false
@@ -622,7 +622,7 @@ maps:
     map:
       play: 6
       version: 2.0.1
-    lock: 16
+    lock: 15
   angel_of_death:
     map:
       play: 5
@@ -676,7 +676,7 @@ maps:
     map:
       play: 7
       version: 1.1.1
-    lock: 8
+    lock: 7
   theme_park:
     map:
       play: 4
@@ -736,12 +736,12 @@ maps:
     map:
       play: 5
       version: 1.0.1
-    lock: 9
+    lock: 8
   kuriku_ryokan:
     map:
       play: 7
       version: 2.0.1
-    lock: 11
+    lock: 10
   spy_rumble:
     map:
       play: 4
@@ -751,12 +751,12 @@ maps:
     map:
       play: 5
       version: 1.0.2
-    lock: 4
+    lock: 3
   rfm_park:
     map:
       play: 7
       version: 1.0.1
-    lock: 19
+    lock: 18
   sandstorm:
     graveyard:
       check: false
@@ -813,17 +813,17 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 15
+    lock: 14
   robot_girls_dream_astromere:
     map:
       play: 2
       version: 1.1.1
-    lock: 14
+    lock: 13
   tomocolle:
     map:
       play: 1
       version: 1.0.0
-    lock: 2
+    lock: 1
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
