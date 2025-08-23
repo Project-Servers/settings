@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 7
+    lock: 6
   kurokan:
     graveyard:
       check: false
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 3
+    lock: 2
   chasefield_blockfort:
     graveyard:
       check: false
@@ -197,12 +197,12 @@ maps:
     lock: 0
   road_station:
     map:
-      play: 16
+      play: 17
       version: 2.3.2
     point:
       build: 14.87
       play: 14.01
-    lock: 0
+    lock: 19
   rfm_lab:
     map:
       play: 8
@@ -269,7 +269,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 17
+    lock: 16
   game_center:
     map:
       play: 11
@@ -296,7 +296,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 10
+          lock: 9
   yussans_memory:
     map:
       play: 9
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 11
+    lock: 10
   thinking:
     map:
       play: 2
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 2
+    lock: 1
   rfm_hospital:
     map:
       play: 9
@@ -540,7 +540,7 @@ maps:
     map:
       play: 10
       version: 1.2.0
-    lock: 14
+    lock: 13
   splatoon:
     map:
       play: 7
@@ -568,7 +568,7 @@ maps:
     map:
       play: 5
       version: 2.0.1
-    lock: 13
+    lock: 12
   pokemondpt_mt_tengan:
     map:
       play: 1
@@ -578,7 +578,7 @@ maps:
     map:
       play: 9
       version: 1.2.3
-    lock: 8
+    lock: 7
   pokemone_battlefrontier:
     map:
       play: 6
@@ -593,12 +593,12 @@ maps:
     map:
       play: 6
       version: 2.3.0
-    lock: 19
+    lock: 18
   shadow_corridor:
     map:
       play: 6
       version: 1.2.1
-    lock: 15
+    lock: 14
   rfm_city_for_april:
     map:
       play: 1
@@ -622,7 +622,7 @@ maps:
     map:
       play: 6
       version: 2.0.1
-    lock: 6
+    lock: 5
   angel_of_death:
     map:
       play: 5
@@ -661,7 +661,7 @@ maps:
     map:
       play: 7
       version: 1.1.2
-    lock: 18
+    lock: 17
   cso_series:
     map:
       play: 4
@@ -721,7 +721,7 @@ maps:
     map:
       play: 3
       version: 2.0.0
-    lock: 12
+    lock: 11
   fnaf_series:
     map:
       play: 2
@@ -741,7 +741,7 @@ maps:
     map:
       play: 7
       version: 2.0.1
-    lock: 1
+    lock: 0
   spy_rumble:
     map:
       play: 4
@@ -756,7 +756,7 @@ maps:
     map:
       play: 7
       version: 1.0.1
-    lock: 9
+    lock: 8
   sandstorm:
     graveyard:
       check: false
@@ -808,17 +808,17 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 16
+    lock: 15
   scarlet_mansion:
     map:
       play: 3
       version: 1.0.0
-    lock: 5
+    lock: 4
   robot_girls_dream_astromere:
     map:
       play: 2
       version: 1.1.1
-    lock: 4
+    lock: 3
   tomocolle:
     map:
       play: 1
@@ -961,4 +961,4 @@ selection:
     '3': highschool
     '4': manmatown
     '5': silence_mall
-    lock: 3
+    lock: 2
