@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 20
+    lock: 19
   huge_library:
     map:
       play: 21
@@ -120,7 +120,7 @@ maps:
     point:
       build: 3.41
       play: 3.33
-    lock: 15
+    lock: 14
   dark_sewer:
     map:
       play: 11
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 12
+    lock: 11
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 10
+    lock: 9
   rfm_lab:
     map:
       play: 8
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 18
+    lock: 17
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 11
+    lock: 10
     graveyard:
       check: false
       version: 2.0.0
@@ -269,7 +269,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 7
+    lock: 6
   game_center:
     map:
       play: 11
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 1
+    lock: 0
   thinking:
     map:
       play: 2
@@ -435,7 +435,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 13
+    lock: 12
   pokemonbw_ancientcastle:
     map:
       play: 9
@@ -488,12 +488,12 @@ maps:
       reason: SmallMap,BadPlayability
       version: 1.2.0
     map:
-      play: 15
+      play: 16
       version: 2.0.4
     point:
       build: 3.82
       play: 3.61
-    lock: 0
+    lock: 20
   77rooms:
     graveyard:
       check: true
@@ -540,7 +540,7 @@ maps:
     map:
       play: 10
       version: 1.2.0
-    lock: 4
+    lock: 3
   splatoon:
     map:
       play: 7
@@ -568,7 +568,7 @@ maps:
     map:
       play: 5
       version: 2.0.1
-    lock: 3
+    lock: 2
   pokemondpt_mt_tengan:
     map:
       play: 1
@@ -593,12 +593,12 @@ maps:
     map:
       play: 6
       version: 2.3.0
-    lock: 9
+    lock: 8
   shadow_corridor:
     map:
       play: 6
       version: 1.2.1
-    lock: 5
+    lock: 4
   rfm_city_for_april:
     map:
       play: 1
@@ -661,7 +661,7 @@ maps:
     map:
       play: 7
       version: 1.1.2
-    lock: 8
+    lock: 7
   cso_series:
     map:
       play: 4
@@ -721,7 +721,7 @@ maps:
     map:
       play: 3
       version: 2.0.0
-    lock: 2
+    lock: 1
   fnaf_series:
     map:
       play: 2
@@ -736,7 +736,7 @@ maps:
     map:
       play: 6
       version: 1.0.1
-    lock: 17
+    lock: 16
   kuriku_ryokan:
     map:
       play: 7
@@ -794,7 +794,7 @@ maps:
     map:
       play: 4
       version: 1.0.1
-    lock: 14
+    lock: 13
   desperate_labyrinth:
     map:
       play: 1
@@ -808,7 +808,7 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 6
+    lock: 5
   scarlet_mansion:
     map:
       play: 3
@@ -828,7 +828,7 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 19
+    lock: 18
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
@@ -859,7 +859,7 @@ selection:
     '2': rfm_pirupirutune
     '3': retreat_shrine
     '4': ideal_of_virtual_zone
-    lock: 3
+    lock: 2
   1ea382a9-7ba3-4ab6-85ee-5df5f7c6af18:
     name: Takashing_1185
     lock: 0
