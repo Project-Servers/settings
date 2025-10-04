@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 12
+    lock: 11
   huge_library:
     map:
       play: 21
@@ -96,7 +96,7 @@ maps:
     point:
       build: 3.94
       play: 3.88
-    lock: 20
+    lock: 19
   kaikatsu_club:
     map:
       play: 4
@@ -120,7 +120,7 @@ maps:
     point:
       build: 3.41
       play: 3.33
-    lock: 7
+    lock: 6
   dark_sewer:
     map:
       play: 11
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 4
+    lock: 3
   chasefield_blockfort:
     graveyard:
       check: false
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 17
+    lock: 16
   boost_highschool:
     map:
       play: 1
@@ -194,7 +194,7 @@ maps:
     point:
       build: 3.66
       play: 3.33
-    lock: 18
+    lock: 17
   road_station:
     map:
       play: 17
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 2
+    lock: 1
   rfm_lab:
     map:
       play: 8
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 10
+    lock: 9
   golden_week:
     map:
       play: 2
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 3
+    lock: 2
     graveyard:
       check: false
       version: 2.0.0
@@ -356,7 +356,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 16
+    lock: 15
   core:
     map:
       play: 5
@@ -372,7 +372,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 15
+    lock: 14
   rfm_airport:
     map:
       play: 13
@@ -435,7 +435,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 5
+    lock: 4
   pokemonbw_ancientcastle:
     map:
       play: 9
@@ -493,7 +493,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 13
+    lock: 12
   77rooms:
     graveyard:
       check: true
@@ -593,7 +593,7 @@ maps:
     map:
       play: 6
       version: 2.3.0
-    lock: 1
+    lock: 0
   shadow_corridor:
     map:
       play: 6
@@ -736,7 +736,7 @@ maps:
     map:
       play: 6
       version: 1.0.1
-    lock: 9
+    lock: 8
   kuriku_ryokan:
     map:
       play: 7
@@ -744,9 +744,9 @@ maps:
     lock: 0
   spy_rumble:
     map:
-      play: 4
+      play: 5
       version: 1.0.1
-    lock: 0
+    lock: 20
   silence_mall:
     map:
       play: 5
@@ -756,7 +756,7 @@ maps:
     map:
       play: 8
       version: 1.0.1
-    lock: 19
+    lock: 18
   sandstorm:
     graveyard:
       check: false
@@ -794,7 +794,7 @@ maps:
     map:
       play: 4
       version: 1.0.1
-    lock: 6
+    lock: 5
   desperate_labyrinth:
     map:
       play: 1
@@ -828,12 +828,12 @@ maps:
     map:
       play: 1
       version: 1.0.0
-    lock: 11
+    lock: 10
   perikan_town:
     map:
       play: 1
       version: 1.0.0
-    lock: 14
+    lock: 13
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
