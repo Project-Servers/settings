@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 20
+    lock: 19
   calendar:
     map:
       play: 1
@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 10
+    lock: 9
   forest_house:
     map:
       play: 16
@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 8
+    lock: 7
   kurokan:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 1
+    lock: 0
   dea_la_solitaire:
     map:
       play: 19
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 7
+    lock: 6
   infinite_corridor:
     map:
       play: 3
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 6
+    lock: 5
   golden_week:
     map:
       play: 2
@@ -277,7 +277,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 13
+    lock: 12
   city1:
     map:
       play: 5
@@ -372,7 +372,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 18
+    lock: 17
   rfm_airport:
     map:
       play: 14
@@ -380,7 +380,7 @@ maps:
     point:
       build: 7.27
       play: 7.33
-    lock: 2
+    lock: 1
   dq9_sanmarou:
     graveyard:
       check: false
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 15
+    lock: 14
   kurikuryokan:
     map:
       play: 2
@@ -622,7 +622,7 @@ maps:
     map:
       play: 6
       version: 2.0.1
-    lock: 11
+    lock: 10
   angel_of_death:
     map:
       play: 5
@@ -721,7 +721,7 @@ maps:
     map:
       play: 4
       version: 2.0.1
-    lock: 3
+    lock: 2
   fnaf_series:
     map:
       play: 2
@@ -736,12 +736,12 @@ maps:
     map:
       play: 7
       version: 1.0.1
-    lock: 19
+    lock: 18
   kuriku_ryokan:
     map:
       play: 8
       version: 2.0.1
-    lock: 17
+    lock: 16
   spy_rumble:
     map:
       play: 5
@@ -751,12 +751,12 @@ maps:
     map:
       play: 6
       version: 1.0.2
-    lock: 12
+    lock: 11
   rfm_park:
     map:
       play: 9
       version: 1.0.1
-    lock: 16
+    lock: 15
   sandstorm:
     graveyard:
       check: false
@@ -775,7 +775,7 @@ maps:
     map:
       play: 7
       version: 1.0.1
-    lock: 4
+    lock: 3
   shirokuro_bridge:
     map:
       play: 1
@@ -811,19 +811,19 @@ maps:
     lock: 0
   scarlet_mansion:
     map:
-      play: 4
+      play: 5
       version: 1.0.0
-    lock: 0
+    lock: 20
   robot_girls_dream_astromere:
     map:
       play: 3
       version: 1.1.1
-    lock: 5
+    lock: 4
   tomocolle:
     map:
       play: 2
       version: 1.0.0
-    lock: 14
+    lock: 13
   sendaist:
     map:
       play: 1
@@ -833,7 +833,7 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 9
+    lock: 8
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
