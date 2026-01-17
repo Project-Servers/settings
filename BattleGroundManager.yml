@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 16
+    lock: 15
   kurokan:
     graveyard:
       check: false
@@ -69,18 +69,18 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 12
+    lock: 11
   sandbox_city:
     graveyard:
       check: false
       version: 4.0.2
     map:
-      play: 18
-      version: 7.0.6
+      play: 19
+      version: 7.0.7
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 0
+    lock: 22
   dea_la_solitaire:
     map:
       play: 20
@@ -88,7 +88,7 @@ maps:
     point:
       build: 11.629999999999999
       play: 11.06
-    lock: 19
+    lock: 18
   manmatown:
     map:
       play: 4
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 10
+    lock: 9
   chasefield_blockfort:
     graveyard:
       check: false
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 18
+    lock: 17
   tousou_city:
     map:
       play: 11
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 22
+    lock: 21
   golden_week:
     map:
       play: 2
@@ -285,7 +285,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 25
+    lock: 24
   r:
     p:
       d:
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 14
+    lock: 13
   thinking:
     map:
       play: 2
@@ -372,7 +372,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 5
+    lock: 4
   rfm_airport:
     map:
       play: 14
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 2
+    lock: 1
   kurikuryokan:
     map:
       play: 2
@@ -553,12 +553,12 @@ maps:
           map:
             play: 6
             version: 1.1.3
-          lock: 13
+          lock: 12
   birthday_cake:
     map:
       play: 8
       version: 3.0.1
-    lock: 15
+    lock: 14
   rfm_prison:
     map:
       play: 8
@@ -651,7 +651,7 @@ maps:
     map:
       play: 10
       version: 2.0.0
-    lock: 6
+    lock: 5
   azuchicastle:
     map:
       play: 2
@@ -676,7 +676,7 @@ maps:
     map:
       play: 8
       version: 1.1.1
-    lock: 11
+    lock: 10
   theme_park:
     map:
       play: 4
@@ -736,12 +736,12 @@ maps:
     map:
       play: 7
       version: 1.0.1
-    lock: 6
+    lock: 5
   kuriku_ryokan:
     map:
       play: 8
       version: 2.0.1
-    lock: 4
+    lock: 3
   spy_rumble:
     map:
       play: 5
@@ -813,7 +813,7 @@ maps:
     map:
       play: 5
       version: 1.0.0
-    lock: 8
+    lock: 7
   robot_girls_dream_astromere:
     map:
       play: 3
@@ -823,17 +823,17 @@ maps:
     map:
       play: 2
       version: 1.0.0
-    lock: 1
+    lock: 0
   sendaist:
     map:
       play: 2
       version: 1.0.0
-    lock: 9
+    lock: 8
   perikan_town:
     map:
       play: 3
       version: 1.0.0
-    lock: 17
+    lock: 16
 selection:
   d67059c4-ee07-42d3-b4dc-e96cb446c5df:
     name: njj12
