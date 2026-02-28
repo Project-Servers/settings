@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 8
+    lock: 7
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 7
+    lock: 6
   minecraft_port:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 4
+    lock: 3
   dea_la_solitaire:
     map:
       play: 20
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 22
+    lock: 21
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 5
+    lock: 4
   chasefield_blockfort:
     graveyard:
       check: false
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 3
+    lock: 2
   golden_week:
     map:
       play: 2
@@ -269,7 +269,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 10
+    lock: 9
   game_center:
     map:
       play: 12
@@ -285,7 +285,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 6
+    lock: 5
   r:
     p:
       d:
@@ -340,7 +340,7 @@ maps:
     point:
       build: 15.06
       play: 15.08
-    lock: 18
+    lock: 17
   the_end:
     map:
       play: 9
@@ -372,7 +372,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 9
+    lock: 8
   rfm_airport:
     map:
       play: 14
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 11
+    lock: 10
   kurikuryokan:
     map:
       play: 2
@@ -435,7 +435,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 15
+    lock: 14
   pokemonbw_ancientcastle:
     map:
       play: 10
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 12
+    lock: 11
   rfm_hospital:
     map:
       play: 10
@@ -540,12 +540,12 @@ maps:
     map:
       play: 11
       version: 1.2.2
-    lock: 16
+    lock: 15
   splatoon:
     map:
       play: 8
       version: 2.2.0
-    lock: 17
+    lock: 16
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -558,7 +558,7 @@ maps:
     map:
       play: 9
       version: 3.0.1
-    lock: 20
+    lock: 19
   rfm_prison:
     map:
       play: 8
@@ -598,7 +598,7 @@ maps:
     map:
       play: 7
       version: 1.2.2
-    lock: 14
+    lock: 13
   rfm_city_for_april:
     map:
       play: 1
@@ -635,9 +635,9 @@ maps:
     lock: 0
   shotdownmoon:
     map:
-      play: 4
+      play: 5
       version: 2.0.1
-    lock: 0
+    lock: 22
   1chank_building:
     map:
       play: 3
@@ -676,7 +676,7 @@ maps:
     map:
       play: 9
       version: 1.1.1
-    lock: 21
+    lock: 20
   theme_park:
     map:
       play: 4
@@ -726,7 +726,7 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 13
+    lock: 12
   mizugoro_island:
     map:
       play: 4
@@ -736,7 +736,7 @@ maps:
     map:
       play: 8
       version: 1.0.1
-    lock: 19
+    lock: 18
   kuriku_ryokan:
     map:
       play: 8
@@ -746,7 +746,7 @@ maps:
     map:
       play: 6
       version: 1.0.1
-    lock: 6
+    lock: 5
   silence_mall:
     map:
       play: 6
@@ -914,7 +914,7 @@ selection:
     '5': mgsgz_u.s.naval_prison_facility.cuba
     '3': aooni
     '4': kuriku_ryokan
-    lock: 1
+    lock: 0
   aac23368-f279-4c75-8e32-25d92b368244:
     name: milatto310
     '1': robot_girls_dream_astromere
