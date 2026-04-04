@@ -30,7 +30,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 22
+    lock: 21
   forest_house:
     map:
       play: 16
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 11
+    lock: 10
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 15
+    lock: 14
   chasefield_blockfort:
     graveyard:
       check: false
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 13
+    lock: 12
   tousou_city:
     map:
       play: 11
@@ -285,7 +285,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 18
+    lock: 17
   r:
     p:
       d:
@@ -296,7 +296,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 14
+          lock: 13
   yussans_memory:
     map:
       play: 11
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 17
+    lock: 16
   thinking:
     map:
       play: 2
@@ -340,7 +340,7 @@ maps:
     point:
       build: 15.06
       play: 15.08
-    lock: 7
+    lock: 6
   the_end:
     map:
       play: 9
@@ -435,7 +435,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 4
+    lock: 3
   pokemonbw_ancientcastle:
     map:
       play: 10
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 1
+    lock: 0
   rfm_hospital:
     map:
       play: 10
@@ -540,12 +540,12 @@ maps:
     map:
       play: 11
       version: 1.2.2
-    lock: 5
+    lock: 4
   splatoon:
     map:
       play: 8
       version: 2.2.0
-    lock: 6
+    lock: 5
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -558,7 +558,7 @@ maps:
     map:
       play: 9
       version: 3.0.1
-    lock: 9
+    lock: 8
   rfm_prison:
     map:
       play: 8
@@ -581,9 +581,9 @@ maps:
     lock: 0
   pokemone_battlefrontier:
     map:
-      play: 6
+      play: 7
       version: 1.0.3
-    lock: 0
+    lock: 22
   nikko_edo:
     map:
       play: 7
@@ -598,7 +598,7 @@ maps:
     map:
       play: 7
       version: 1.2.2
-    lock: 3
+    lock: 2
   rfm_city_for_april:
     map:
       play: 1
@@ -637,7 +637,7 @@ maps:
     map:
       play: 5
       version: 2.0.1
-    lock: 12
+    lock: 11
   1chank_building:
     map:
       play: 3
@@ -651,7 +651,7 @@ maps:
     map:
       play: 11
       version: 2.0.0
-    lock: 19
+    lock: 18
   azuchicastle:
     map:
       play: 2
@@ -676,7 +676,7 @@ maps:
     map:
       play: 9
       version: 1.1.1
-    lock: 10
+    lock: 9
   theme_park:
     map:
       play: 4
@@ -726,7 +726,7 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 2
+    lock: 1
   mizugoro_island:
     map:
       play: 4
@@ -736,12 +736,12 @@ maps:
     map:
       play: 8
       version: 1.0.1
-    lock: 8
+    lock: 7
   kuriku_ryokan:
     map:
       play: 9
       version: 2.0.2
-    lock: 16
+    lock: 15
   spy_rumble:
     map:
       play: 6
@@ -823,12 +823,12 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 21
+    lock: 20
   sendaist:
     map:
       play: 3
       version: 1.0.0
-    lock: 20
+    lock: 19
   perikan_town:
     map:
       play: 3
@@ -971,4 +971,4 @@ selection:
     '3': highschool
     '4': manmatown
     '5': silence_mall
-    lock: 6
+    lock: 5
