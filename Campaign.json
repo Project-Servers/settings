@@ -9,6 +9,16 @@
       "displayName": "ずんだ+",
       "startDate": 20260201,
       "endDate": 20260228
+    },
+    "GetChallenge": {
+      "displayName": "ゲットチャレンジ",
+      "startDate": 20260417,
+      "endDate": 20260417
+    },
+    "StepUPChallenge": {
+      "displayName": "ステップアップチャレンジ",
+      "startDate": 20260417,
+      "endDate": 20260417
     }
   }
 }
