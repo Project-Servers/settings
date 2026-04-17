@@ -1,0 +1,14 @@
+{
+  "campaigns": {
+    "OmikujiPlus": {
+      "displayName": "‚¨‚Ý‚­‚¶+",
+      "startDate": 20260101,
+      "endDate": 20260131
+    },
+    "ZundaPlus": {
+      "displayName": "‚¸‚ñ‚¾+",
+      "startDate": 20260201,
+      "endDate": 20260228
+    }
+  }
+}
