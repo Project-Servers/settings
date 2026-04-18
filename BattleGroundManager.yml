@@ -30,15 +30,15 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 15
+    lock: 14
   forest_house:
     map:
-      play: 16
+      play: 17
       version: 4.1.2
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 0
+    lock: 22
   huge_library:
     map:
       play: 23
@@ -128,7 +128,7 @@ maps:
     point:
       build: 14.44
       play: 13.8
-    lock: 4
+    lock: 3
   rfm_casino:
     map:
       play: 1
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 8
+    lock: 7
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 21
+    lock: 20
   rfm_lab:
     map:
       play: 8
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 6
+    lock: 5
   tousou_city:
     map:
       play: 11
@@ -269,7 +269,7 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 18
+    lock: 17
   game_center:
     map:
       play: 13
@@ -277,7 +277,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 19
+    lock: 18
   city1:
     map:
       play: 5
@@ -285,7 +285,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 11
+    lock: 10
   r:
     p:
       d:
@@ -296,7 +296,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 7
+          lock: 6
   yussans_memory:
     map:
       play: 11
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 10
+    lock: 9
   thinking:
     map:
       play: 2
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 22
+    lock: 21
   kurikuryokan:
     map:
       play: 2
@@ -535,7 +535,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 17
+    lock: 16
   rfm_pirupirutune:
     map:
       play: 11
@@ -558,7 +558,7 @@ maps:
     map:
       play: 9
       version: 3.0.1
-    lock: 2
+    lock: 1
   rfm_prison:
     map:
       play: 8
@@ -583,7 +583,7 @@ maps:
     map:
       play: 7
       version: 1.0.3
-    lock: 16
+    lock: 15
   nikko_edo:
     map:
       play: 7
@@ -637,7 +637,7 @@ maps:
     map:
       play: 5
       version: 2.0.1
-    lock: 5
+    lock: 4
   1chank_building:
     map:
       play: 3
@@ -651,7 +651,7 @@ maps:
     map:
       play: 11
       version: 2.0.0
-    lock: 12
+    lock: 11
   azuchicastle:
     map:
       play: 2
@@ -676,7 +676,7 @@ maps:
     map:
       play: 9
       version: 1.1.1
-    lock: 3
+    lock: 2
   theme_park:
     map:
       play: 4
@@ -736,12 +736,12 @@ maps:
     map:
       play: 8
       version: 1.0.1
-    lock: 1
+    lock: 0
   kuriku_ryokan:
     map:
       play: 9
       version: 2.0.2
-    lock: 9
+    lock: 8
   spy_rumble:
     map:
       play: 6
@@ -813,7 +813,7 @@ maps:
     map:
       play: 6
       version: 1.0.0
-    lock: 20
+    lock: 19
   robot_girls_dream_astromere:
     map:
       play: 3
@@ -823,12 +823,12 @@ maps:
     map:
       play: 3
       version: 1.0.0
-    lock: 14
+    lock: 13
   sendaist:
     map:
       play: 3
       version: 1.0.0
-    lock: 13
+    lock: 12
   perikan_town:
     map:
       play: 3
