@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 4
+    lock: 3
   huge_library:
     map:
       play: 23
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 6
+    lock: 5
   minecraft_port:
     graveyard:
       check: false
@@ -178,7 +178,7 @@ maps:
     point:
       build: 3.47
       play: 3.5
-    lock: 20
+    lock: 19
   stasi:
     map:
       play: 1
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 2
+    lock: 1
   rfm_lab:
     map:
       play: 8
@@ -226,7 +226,7 @@ maps:
     point:
       build: 11.01
       play: 11.219999999999999
-    lock: 18
+    lock: 17
   golden_week:
     map:
       play: 2
@@ -285,7 +285,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 21
+    lock: 20
   r:
     p:
       d:
@@ -296,7 +296,7 @@ maps:
           point:
             build: 3.6
             play: 3.57
-          lock: 7
+          lock: 6
   yussans_memory:
     map:
       play: 11
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 3
+    lock: 2
   kurikuryokan:
     map:
       play: 2
@@ -435,7 +435,7 @@ maps:
     point:
       build: 3.57
       play: 3.5
-    lock: 5
+    lock: 4
   pokemonbw_ancientcastle:
     map:
       play: 10
@@ -467,7 +467,7 @@ maps:
     point:
       build: 3.94
       play: 3.76
-    lock: 22
+    lock: 21
   hand_spinner:
     graveyard:
       check: true
@@ -493,7 +493,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 11
+    lock: 10
   77rooms:
     graveyard:
       check: true
@@ -511,7 +511,7 @@ maps:
     point:
       build: 3.46
       play: 3.33
-    lock: 15
+    lock: 14
   cyanine:
     map:
       play: 10
@@ -519,7 +519,7 @@ maps:
     point:
       build: 3.82
       play: 3.82
-    lock: 12
+    lock: 11
   rfm_university:
     map:
       play: 12
@@ -535,7 +535,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 19
+    lock: 18
   rfm_pirupirutune:
     map:
       play: 11
@@ -596,9 +596,9 @@ maps:
     lock: 0
   shadow_corridor:
     map:
-      play: 7
+      play: 8
       version: 1.2.2
-    lock: 0
+    lock: 22
   rfm_city_for_april:
     map:
       play: 1
@@ -676,12 +676,12 @@ maps:
     map:
       play: 9
       version: 1.1.1
-    lock: 9
+    lock: 8
   theme_park:
     map:
       play: 5
       version: 1.1.1
-    lock: 13
+    lock: 12
   kings_canyon:
     map:
       play: 2
@@ -706,7 +706,7 @@ maps:
     map:
       play: 8
       version: 1.1.3
-    lock: 8
+    lock: 7
   cso_gressia:
     graveyard:
       check: true
@@ -721,7 +721,7 @@ maps:
     map:
       play: 5
       version: 2.0.1
-    lock: 17
+    lock: 16
   fnaf_series:
     map:
       play: 3
@@ -741,7 +741,7 @@ maps:
     map:
       play: 10
       version: 2.0.2
-    lock: 14
+    lock: 13
   spy_rumble:
     map:
       play: 6
@@ -775,7 +775,7 @@ maps:
     map:
       play: 8
       version: 1.0.1
-    lock: 16
+    lock: 15
   shirokuro_bridge:
     map:
       play: 1
@@ -813,12 +813,12 @@ maps:
     map:
       play: 6
       version: 1.0.0
-    lock: 1
+    lock: 0
   robot_girls_dream_astromere:
     map:
       play: 4
       version: 1.1.1
-    lock: 10
+    lock: 9
   tomocolle:
     map:
       play: 3
