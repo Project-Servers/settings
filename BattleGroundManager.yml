@@ -657,6 +657,10 @@ maps:
       play: 3
       version: 1.0.2
     lock: 22
+    graveyard:
+      check: true
+      reason: BuildDefect
+      version: 1.0.2
   area02:
     map:
       play: 7
