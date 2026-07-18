@@ -38,7 +38,7 @@ maps:
     point:
       build: 15.22
       play: 14.559999999999999
-    lock: 16
+    lock: 15
   huge_library:
     map:
       play: 23
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 12
+    lock: 11
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 14
+    lock: 13
   sandbox_city:
     graveyard:
       check: false
@@ -148,7 +148,7 @@ maps:
     point:
       build: 11.68
       play: 11.11
-    lock: 6
+    lock: 5
   chasefield_blockfort:
     graveyard:
       check: false
@@ -202,7 +202,7 @@ maps:
     point:
       build: 14.87
       play: 14.01
-    lock: 15
+    lock: 14
   rfm_lab:
     map:
       play: 8
@@ -269,15 +269,15 @@ maps:
     point:
       build: 11.08
       play: 10.7
-    lock: 10
+    lock: 9
   game_center:
     map:
-      play: 13
+      play: 14
       version: 2.0.1
     point:
       build: 7.42
       play: 7.42
-    lock: 0
+    lock: 22
   city1:
     map:
       play: 6
@@ -285,7 +285,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 18
+    lock: 17
   r:
     p:
       d:
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 22
+    lock: 21
   thinking:
     map:
       play: 2
@@ -340,7 +340,7 @@ maps:
     point:
       build: 15.06
       play: 15.08
-    lock: 11
+    lock: 10
   the_end:
     map:
       play: 9
@@ -372,7 +372,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 9
+    lock: 8
   rfm_airport:
     map:
       play: 14
@@ -467,7 +467,7 @@ maps:
     point:
       build: 3.94
       play: 3.76
-    lock: 2
+    lock: 1
   hand_spinner:
     graveyard:
       check: true
@@ -545,7 +545,7 @@ maps:
     map:
       play: 9
       version: 2.2.0
-    lock: 19
+    lock: 18
   mgsgz_u:
     s:
       naval_prison_facility:
@@ -598,7 +598,7 @@ maps:
     map:
       play: 8
       version: 1.2.2
-    lock: 3
+    lock: 2
   rfm_city_for_april:
     map:
       play: 1
@@ -651,12 +651,12 @@ maps:
     map:
       play: 12
       version: 2.0.0
-    lock: 7
+    lock: 6
   azuchicastle:
     map:
       play: 3
       version: 1.0.2
-    lock: 17
+    lock: 16
     graveyard:
       check: true
       reason: BuildDefect
@@ -745,12 +745,12 @@ maps:
     map:
       play: 11
       version: 2.0.2
-    lock: 21
+    lock: 20
   spy_rumble:
     map:
       play: 7
       version: 1.0.1
-    lock: 20
+    lock: 19
   silence_mall:
     map:
       play: 6
@@ -798,7 +798,7 @@ maps:
     map:
       play: 5
       version: 1.0.2
-    lock: 8
+    lock: 7
   desperate_labyrinth:
     map:
       play: 1
@@ -817,7 +817,7 @@ maps:
     map:
       play: 6
       version: 1.0.0
-    lock: 5
+    lock: 4
   robot_girls_dream_astromere:
     map:
       play: 4
@@ -827,7 +827,7 @@ maps:
     map:
       play: 4
       version: 1.0.0
-    lock: 13
+    lock: 12
   sendaist:
     map:
       play: 3
@@ -837,7 +837,7 @@ maps:
     map:
       play: 4
       version: 1.0.0
-    lock: 4
+    lock: 3
   ttt_minecrafttown:
     map:
       play: 3
