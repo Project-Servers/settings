@@ -46,7 +46,7 @@ maps:
     point:
       build: 15.600000000000001
       play: 14.200000000000001
-    lock: 3
+    lock: 2
   kurokan:
     graveyard:
       check: false
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 15
+    lock: 14
   minecraft_port:
     graveyard:
       check: false
@@ -69,7 +69,7 @@ maps:
     point:
       build: 7.1
       play: 6.65
-    lock: 21
+    lock: 20
   sandbox_city:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 22
+    lock: 21
   dea_la_solitaire:
     map:
       play: 20
@@ -112,7 +112,7 @@ maps:
     point:
       build: 7.15
       play: 6.720000000000001
-    lock: 12
+    lock: 11
   infinite_corridor:
     map:
       play: 3
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 16
+    lock: 15
   boost_highschool:
     map:
       play: 1
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 11
+    lock: 10
     graveyard:
       check: false
       version: 2.0.0
@@ -277,7 +277,7 @@ maps:
     point:
       build: 7.42
       play: 7.42
-    lock: 2
+    lock: 1
   city1:
     map:
       play: 7
@@ -285,7 +285,7 @@ maps:
     point:
       build: 7.42
       play: 7.27
-    lock: 14
+    lock: 13
   r:
     p:
       d:
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 1
+    lock: 0
   thinking:
     map:
       play: 2
@@ -372,7 +372,7 @@ maps:
     point:
       build: 6.99
       play: 6.970000000000001
-    lock: 19
+    lock: 18
   rfm_airport:
     map:
       play: 14
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 8
+    lock: 7
   kurikuryokan:
     map:
       play: 2
@@ -443,7 +443,7 @@ maps:
     point:
       build: 8.01
       play: 7.140000000000001
-    lock: 20
+    lock: 19
   rfm_hospital:
     map:
       play: 10
@@ -493,7 +493,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 6
+    lock: 5
   77rooms:
     graveyard:
       check: true
@@ -578,7 +578,7 @@ maps:
     map:
       play: 10
       version: 1.2.4
-    lock: 5
+    lock: 4
   pokemone_battlefrontier:
     map:
       play: 7
@@ -637,7 +637,7 @@ maps:
     map:
       play: 6
       version: 2.0.1
-    lock: 13
+    lock: 12
   1chank_building:
     map:
       play: 3
@@ -651,7 +651,7 @@ maps:
     map:
       play: 13
       version: 2.0.0
-    lock: 10
+    lock: 9
   azuchicastle:
     map:
       play: 3
@@ -670,12 +670,12 @@ maps:
     map:
       play: 5
       version: 1.0.0
-    lock: 17
+    lock: 16
   bigtown:
     map:
       play: 7
       version: 1.1.1
-    lock: 4
+    lock: 3
   oba_q-town:
     map:
       play: 9
@@ -710,7 +710,7 @@ maps:
     map:
       play: 9
       version: 1.1.3
-    lock: 9
+    lock: 8
   cso_gressia:
     graveyard:
       check: true
@@ -725,7 +725,7 @@ maps:
     map:
       play: 6
       version: 2.0.1
-    lock: 18
+    lock: 17
   fnaf_series:
     map:
       play: 3
@@ -817,7 +817,7 @@ maps:
     map:
       play: 7
       version: 1.0.0
-    lock: 7
+    lock: 6
   robot_girls_dream_astromere:
     map:
       play: 4
@@ -830,9 +830,9 @@ maps:
     lock: 0
   sendaist:
     map:
-      play: 3
+      play: 4
       version: 1.0.0
-    lock: 0
+    lock: 22
   perikan_town:
     map:
       play: 4
