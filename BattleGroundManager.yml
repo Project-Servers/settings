@@ -14,7 +14,7 @@ maps:
     point:
       build: 15.259999999999998
       play: 13.83
-    lock: 22
+    lock: 21
   calendar:
     map:
       play: 1
@@ -58,7 +58,7 @@ maps:
     point:
       build: 11.54
       play: 10.98
-    lock: 10
+    lock: 9
   minecraft_port:
     graveyard:
       check: false
@@ -80,7 +80,7 @@ maps:
     point:
       build: 11.280000000000001
       play: 10.77
-    lock: 17
+    lock: 16
   dea_la_solitaire:
     map:
       play: 20
@@ -159,7 +159,7 @@ maps:
     point:
       build: 3.7
       play: 3.41
-    lock: 14
+    lock: 13
   boost_highschool:
     map:
       play: 1
@@ -210,7 +210,7 @@ maps:
     point:
       build: 7.89
       play: 6.82
-    lock: 20
+    lock: 19
   tousou_city:
     map:
       play: 11
@@ -242,7 +242,7 @@ maps:
     point:
       build: 7.13
       play: 6.97
-    lock: 18
+    lock: 17
     graveyard:
       check: false
       version: 2.0.0
@@ -304,7 +304,7 @@ maps:
     point:
       build: 7.83
       play: 7.58
-    lock: 15
+    lock: 14
   thinking:
     map:
       play: 2
@@ -356,7 +356,7 @@ maps:
     point:
       build: 11.99
       play: 11.55
-    lock: 21
+    lock: 20
   core:
     map:
       play: 6
@@ -391,7 +391,7 @@ maps:
     point:
       build: 3.31
       play: 3.15
-    lock: 19
+    lock: 18
   kurikuryokan:
     map:
       play: 2
@@ -493,7 +493,7 @@ maps:
     point:
       build: 3.82
       play: 3.61
-    lock: 6
+    lock: 5
   77rooms:
     graveyard:
       check: true
@@ -506,12 +506,12 @@ maps:
       version: 1.1.0
   biohazard7:
     map:
-      play: 7
+      play: 8
       version: 1.0.12
     point:
       build: 3.46
       play: 3.33
-    lock: 0
+    lock: 22
   cyanine:
     map:
       play: 10
@@ -535,7 +535,7 @@ maps:
     point:
       build: 3.71
       play: 3.5
-    lock: 12
+    lock: 11
   rfm_pirupirutune:
     map:
       play: 11
@@ -568,7 +568,7 @@ maps:
     map:
       play: 6
       version: 2.0.1
-    lock: 16
+    lock: 15
   pokemondpt_mt_tengan:
     map:
       play: 1
@@ -598,7 +598,7 @@ maps:
     map:
       play: 9
       version: 1.2.2
-    lock: 13
+    lock: 12
   rfm_city_for_april:
     map:
       play: 1
@@ -651,7 +651,7 @@ maps:
     map:
       play: 14
       version: 2.0.0
-    lock: 11
+    lock: 10
   azuchicastle:
     map:
       play: 3
@@ -680,7 +680,7 @@ maps:
     map:
       play: 10
       version: 1.1.1
-    lock: 5
+    lock: 4
   theme_park:
     map:
       play: 5
@@ -745,12 +745,12 @@ maps:
     map:
       play: 12
       version: 2.0.2
-    lock: 1
+    lock: 0
   spy_rumble:
     map:
       play: 8
       version: 1.0.1
-    lock: 9
+    lock: 8
   silence_mall:
     map:
       play: 6
@@ -779,7 +779,7 @@ maps:
     map:
       play: 9
       version: 1.0.1
-    lock: 7
+    lock: 6
   shirokuro_bridge:
     map:
       play: 1
@@ -798,7 +798,7 @@ maps:
     map:
       play: 6
       version: 1.0.2
-    lock: 3
+    lock: 2
   desperate_labyrinth:
     map:
       play: 1
@@ -817,7 +817,7 @@ maps:
     map:
       play: 8
       version: 1.0.0
-    lock: 2
+    lock: 1
   robot_girls_dream_astromere:
     map:
       play: 4
@@ -837,7 +837,7 @@ maps:
     map:
       play: 4
       version: 1.0.0
-    lock: 4
+    lock: 3
   ttt_minecrafttown:
     map:
       play: 4
